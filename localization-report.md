@@ -5,10 +5,10 @@
  -------- | ----- 
  Total Files | 47
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 35
+[ Handoff Success Files ](#handoff-success-list)| 34
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
-[ In Sync Handback Files ](#insync-handback-success-list)| 1
+[ In Sync Handback Files ](#insync-handback-success-list)| 2
 [ Ignored Files ](#ignored-list)| 11
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
@@ -46,7 +46,6 @@
  [wdg-cpub-test\lizross\images\SendintranettoIE.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/lizross/images/SendintranettoIE.png) | HandedOffSuccess | [Details](#13db3344d2ab0ff7d5350584470566ac2b128e1238)
  [wdg-cpub-test\macapara\macapara.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/macapara/macapara.md) | HandedOffSuccess | [Details](#7bba6bedea2fc998a7102e9f9a822c89f580921c40)
  [wdg-cpub-test\tedhudek\markdown-tips.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/tedhudek/markdown-tips.md) | HandedOffSuccess | [Details](#c24bc1363e530c71c8a263f6e9c8743a949642d841)
- [wdg-cpub-test\tedhudek\tedhudek-home.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/tedhudek/tedhudek-home.md) | HandedOffSuccess | [Details](#347bd1181dc590d634f5032591cc574f3786c98242)
  [wdg-cpub-test\tedhudek\wdcml-to-open-publish.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/tedhudek/wdcml-to-open-publish.md) | HandedOffSuccess | [Details](#65a5708190ddfe0bc61006985f5c3f17eafc865643)
  [wdg-cpub-test\tedhudek\workflow.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/tedhudek/workflow.md) | HandedOffSuccess | [Details](#6a21b92dfe46a00d5243914c41459fe2cf4569b144)
  [wdg-cpub-test\TOC.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/TOC.md) | HandedOffSuccess | [Details](#1a4983ce48e441c39272f65d1655d8c7ca2b497045)
@@ -60,6 +59,7 @@
  Source File | Status | Details 
  ----------- | ------ | ------- 
  [wdg-cpub-test\lizross\msedge_deployment_guide_for_it_pros.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/lizross/msedge_deployment_guide_for_it_pros.md) | InSyncHandedBackSuccess | [Details](#83798705e69956b02a318460bed8affa5c0e7c7939)
+ [wdg-cpub-test\tedhudek\tedhudek-home.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/tedhudek/tedhudek-home.md) | InSyncHandedBackSuccess | [Details](#347bd1181dc590d634f5032591cc574f3786c98242)
 
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
@@ -510,13 +510,13 @@
 * [Back to Top](#report-top)
 
 ##### <a name='347bd1181dc590d634f5032591cc574f3786c98242'></a> Source: [wdg-cpub-test\tedhudek\tedhudek-home.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/tedhudek/tedhudek-home.md)
-* Status: HandedOffSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [wdg-cpub-test\tedhudek\tedhudek-home.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.de-de/blob/5adf3d057a5318917a3b09d2ef884fc16efc129e/wdg-cpub-test/tedhudek/tedhudek-home.md)
 * Handoff File: [tedhudek-home.cd82e1b999ca1e8e89601b96d7b6ed332d44c137.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/16efa088b0d534187261c76486af378986e35e8c/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.de-de/master/tedhudek-home.cd82e1b999ca1e8e89601b96d7b6ed332d44c137.de-de.xlf)
 * Handoff Datetime: 2015-12-29 08:45:52
 * Handoff Reason: Include
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [tedhudek-home.cd82e1b999ca1e8e89601b96d7b6ed332d44c137.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/d5eacfa7936a30ba6aa88776c17cdfdbb38418bb/ol-handback/OpenLocalizationOrg/wdg-cpub-test.de-de/master/tedhudek-home.cd82e1b999ca1e8e89601b96d7b6ed332d44c137.de-de.xlf)
+* Handback Datetime: 2016-01-05 06:24:42
 * [Back to Top](#report-top)
 
 ##### <a name='65a5708190ddfe0bc61006985f5c3f17eafc865643'></a> Source: [wdg-cpub-test\tedhudek\wdcml-to-open-publish.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/tedhudek/wdcml-to-open-publish.md)
