@@ -1,11 +1,24 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [wdg-cpub-test\lizross\msedge_deployment_guide_for_it_pros.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/lizross/msedge_deployment_guide_for_it_pros.md) | InSyncHandedBackSuccess | [Details](#83798705e69956b02a318460bed8affa5c0e7c7939)
 
 ## Item Details
+##### <a name='83798705e69956b02a318460bed8affa5c0e7c7939'></a> Source: [wdg-cpub-test\lizross\msedge_deployment_guide_for_it_pros.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/lizross/msedge_deployment_guide_for_it_pros.md)
+* Status: InSyncHandedBackSuccess
+* Target File: [wdg-cpub-test\lizross\msedge_deployment_guide_for_it_pros.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.de-de/blob/7b4d2c6ecdc49e9068ac65dfd0543c4d9455d717/wdg-cpub-test/lizross/msedge_deployment_guide_for_it_pros.md)
+* Handoff File: [msedge_deployment_guide_for_it_pros.b5fb018fe51efcf49ab261fda90e80e2c708e2c5.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/16efa088b0d534187261c76486af378986e35e8c/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.de-de/master/msedge_deployment_guide_for_it_pros.b5fb018fe51efcf49ab261fda90e80e2c708e2c5.de-de.xlf)
+* Handoff Datetime: 2015-12-29 08:45:52
+* Handoff Reason: Include
+* Handback File: [msedge_deployment_guide_for_it_pros.b5fb018fe51efcf49ab261fda90e80e2c708e2c5.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/f1c7d93d31eb94f34fe98ba6b7cfccd40f803cbc/ol-handback/OpenLocalizationOrg/wdg-cpub-test.de-de/master/msedge_deployment_guide_for_it_pros.b5fb018fe51efcf49ab261fda90e80e2c708e2c5.de-de.xlf)
+* Handback Datetime: 2016-01-05 03:09:43
+* [Back to Top](#report-top)
+
 
 ## Error Details
 

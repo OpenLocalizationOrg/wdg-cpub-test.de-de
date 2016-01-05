@@ -5,10 +5,10 @@
  -------- | ----- 
  Total Files | 47
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 36
+[ Handoff Success Files ](#handoff-success-list)| 35
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
-[ In Sync Handback Files ](#insync-handback-success-list)| 0
+[ In Sync Handback Files ](#insync-handback-success-list)| 1
 [ Ignored Files ](#ignored-list)| 11
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
@@ -44,7 +44,6 @@
  [wdg-cpub-test\lizross\images\Edge_EmIE_RegistrySiteList.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/lizross/images/Edge_EmIE_RegistrySiteList.png) | HandedOffSuccess | [Details](#c4ad8cd0e62f8f177e1b945b19b0ae2667a08e5136)
  [wdg-cpub-test\lizross\images\EmIEOpeninIE.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/lizross/images/EmIEOpeninIE.png) | HandedOffSuccess | [Details](#c60b61e09592ccc99e5af898dcef91d310e8d79437)
  [wdg-cpub-test\lizross\images\SendintranettoIE.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/lizross/images/SendintranettoIE.png) | HandedOffSuccess | [Details](#13db3344d2ab0ff7d5350584470566ac2b128e1238)
- [wdg-cpub-test\lizross\msedge_deployment_guide_for_it_pros.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/lizross/msedge_deployment_guide_for_it_pros.md) | HandedOffSuccess | [Details](#83798705e69956b02a318460bed8affa5c0e7c7939)
  [wdg-cpub-test\macapara\macapara.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/macapara/macapara.md) | HandedOffSuccess | [Details](#7bba6bedea2fc998a7102e9f9a822c89f580921c40)
  [wdg-cpub-test\tedhudek\markdown-tips.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/tedhudek/markdown-tips.md) | HandedOffSuccess | [Details](#c24bc1363e530c71c8a263f6e9c8743a949642d841)
  [wdg-cpub-test\tedhudek\tedhudek-home.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/tedhudek/tedhudek-home.md) | HandedOffSuccess | [Details](#347bd1181dc590d634f5032591cc574f3786c98242)
@@ -58,6 +57,9 @@
 ## <a name='outofsync-handback-success-list'></a> Out Of Sync Handback Success File List
 
 ## <a name='insync-handback-success-list'></a> In Sync Handback File Success List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [wdg-cpub-test\lizross\msedge_deployment_guide_for_it_pros.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/lizross/msedge_deployment_guide_for_it_pros.md) | InSyncHandedBackSuccess | [Details](#83798705e69956b02a318460bed8affa5c0e7c7939)
 
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
@@ -478,13 +480,13 @@
 * [Back to Top](#report-top)
 
 ##### <a name='83798705e69956b02a318460bed8affa5c0e7c7939'></a> Source: [wdg-cpub-test\lizross\msedge_deployment_guide_for_it_pros.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/lizross/msedge_deployment_guide_for_it_pros.md)
-* Status: HandedOffSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [wdg-cpub-test\lizross\msedge_deployment_guide_for_it_pros.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.de-de/blob/7b4d2c6ecdc49e9068ac65dfd0543c4d9455d717/wdg-cpub-test/lizross/msedge_deployment_guide_for_it_pros.md)
 * Handoff File: [msedge_deployment_guide_for_it_pros.b5fb018fe51efcf49ab261fda90e80e2c708e2c5.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/16efa088b0d534187261c76486af378986e35e8c/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.de-de/master/msedge_deployment_guide_for_it_pros.b5fb018fe51efcf49ab261fda90e80e2c708e2c5.de-de.xlf)
 * Handoff Datetime: 2015-12-29 08:45:52
 * Handoff Reason: Include
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [msedge_deployment_guide_for_it_pros.b5fb018fe51efcf49ab261fda90e80e2c708e2c5.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/f1c7d93d31eb94f34fe98ba6b7cfccd40f803cbc/ol-handback/OpenLocalizationOrg/wdg-cpub-test.de-de/master/msedge_deployment_guide_for_it_pros.b5fb018fe51efcf49ab261fda90e80e2c708e2c5.de-de.xlf)
+* Handback Datetime: 2016-01-05 03:09:43
 * [Back to Top](#report-top)
 
 ##### <a name='7bba6bedea2fc998a7102e9f9a822c89f580921c40'></a> Source: [wdg-cpub-test\macapara\macapara.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/macapara/macapara.md)

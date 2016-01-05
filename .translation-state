@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "06459c22f25a38d6a90fba01b490dbcb0737cddb",
-  "LastTranslatedCommit": null,
+  "LastTranslatedCommit": "7b4d2c6ecdc49e9068ac65dfd0543c4d9455d717",
   "Items": {
     "3c246d6c393687dbeff05e58303c204713ba80a4": {
       "FileHash": "3c246d6c393687dbeff05e58303c204713ba80a4",
@@ -608,14 +608,14 @@
       "HandoffDateTime": "2015-12-29T08:45:52.4834407Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "HandbackFilePath": null,
-      "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
+      "TargetFileCommit": "7b4d2c6ecdc49e9068ac65dfd0543c4d9455d717",
+      "TargetFilePath": "wdg-cpub-test\\lizross\\msedge_deployment_guide_for_it_pros.md",
+      "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\msedge_deployment_guide_for_it_pros.b5fb018fe51efcf49ab261fda90e80e2c708e2c5.de-de.xlf",
+      "HandbackFileCommit": "f1c7d93d31eb94f34fe98ba6b7cfccd40f803cbc",
+      "HandbackDateTime": "2016-01-05T03:09:43.3290866Z",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "2016-01-05T03:09:43.3290866Z"
     },
     "7bba6bedea2fc998a7102e9f9a822c89f580921c": {
       "FileHash": "7bba6bedea2fc998a7102e9f9a822c89f580921c",
