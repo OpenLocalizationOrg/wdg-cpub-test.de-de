@@ -7,9 +7,9 @@
 [ Handoff Failed Files ](#handoff-failed-list)| 0
 [ Handoff Success Files ](#handoff-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
-[ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
+[ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 1
 [ In Sync Handback Files ](#insync-handback-success-list)| 35
-[ Ignored Files ](#ignored-list)| 12
+[ Ignored Files ](#ignored-list)| 11
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
 
@@ -18,6 +18,9 @@
 ## <a name='handback-failed-list'></a> Handback Failed File List
 
 ## <a name='outofsync-handback-success-list'></a> Out Of Sync Handback Success File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [wdg-cpub-test\Welcome.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/6897740cb1bfd407027c39ce6e8e05c2a400707f/wdg-cpub-test/Welcome.md) | OutofSyncHandedBackSuccess | [Details](#bc256ef7fefbb16367ba977c2bc8f4b82b4be29c46)
 
 ## <a name='insync-handback-success-list'></a> In Sync Handback File Success List
  Source File | Status | Details 
@@ -61,21 +64,20 @@
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [.gitignore](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/bb07ee698cabaa68bee22aa40ba06d13daf33e55/.gitignore) | Ignored | [Details](#803607024514788723dfd07b8fdcf04c806865b70)
- [.localization-config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/bb07ee698cabaa68bee22aa40ba06d13daf33e55/.localization-config) | Ignored | [Details](#685f82d720f02ecb23272063f7f234af675579221)
- [.openpublishing.build.mdproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/bb07ee698cabaa68bee22aa40ba06d13daf33e55/.openpublishing.build.mdproj) | Ignored | [Details](#39a1ec920f8f95c0152f04241c339463545b9bfe2)
- [.openpublishing.publish.config.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/bb07ee698cabaa68bee22aa40ba06d13daf33e55/.openpublishing.publish.config.json) | Ignored | [Details](#8eecabd3ae8e6ddd6d0e0d1d1a442cd0ad7a75fa3)
- [HelloWorld.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/bb07ee698cabaa68bee22aa40ba06d13daf33e55/HelloWorld.md) | Ignored | [Details](#ee4e5473b0707009cf7b442f48a9340566ddaaa14)
- [packages.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/bb07ee698cabaa68bee22aa40ba06d13daf33e55/packages.config) | Ignored | [Details](#35e64e3675af499b08de0a295cbd0394dce36fbf5)
- [README.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/bb07ee698cabaa68bee22aa40ba06d13daf33e55/README.md) | Ignored | [Details](#628ce7b359157a4c8c79d02622d30781cfb9ad896)
- [Tools\NuGet\Nuget.Config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/bb07ee698cabaa68bee22aa40ba06d13daf33e55/Tools/NuGet/Nuget.Config) | Ignored | [Details](#37d5a2d0c8a81313cf7e92800e699f2f86a9f9f97)
- [Tools\NuGet\nuget.exe](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/bb07ee698cabaa68bee22aa40ba06d13daf33e55/Tools/NuGet/nuget.exe) | Ignored | [Details](#7469c905e04001f8250137d2da57bbc7bec2d3588)
- [wdg-cpub-test\docfx.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/bb07ee698cabaa68bee22aa40ba06d13daf33e55/wdg-cpub-test/docfx.json) | Ignored | [Details](#ef46e7227eb5de88f180c82961fdc8c6732f6dbf10)
- [wdg-cpub-test\iawilt\iawilt_test\Ben test](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/bb07ee698cabaa68bee22aa40ba06d13daf33e55/wdg-cpub-test/iawilt/iawilt_test/Ben test) | Ignored | [Details](#eff8f567d06e11d393836c1fbf24b220fabbd06117)
- [wdg-cpub-test\Welcome.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/bb07ee698cabaa68bee22aa40ba06d13daf33e55/wdg-cpub-test/Welcome.md) | Ignored | [Details](#bc256ef7fefbb16367ba977c2bc8f4b82b4be29c46)
+ [.gitignore](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/6897740cb1bfd407027c39ce6e8e05c2a400707f/.gitignore) | Ignored | [Details](#803607024514788723dfd07b8fdcf04c806865b70)
+ [.localization-config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/6897740cb1bfd407027c39ce6e8e05c2a400707f/.localization-config) | Ignored | [Details](#685f82d720f02ecb23272063f7f234af675579221)
+ [.openpublishing.build.mdproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/6897740cb1bfd407027c39ce6e8e05c2a400707f/.openpublishing.build.mdproj) | Ignored | [Details](#39a1ec920f8f95c0152f04241c339463545b9bfe2)
+ [.openpublishing.publish.config.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/6897740cb1bfd407027c39ce6e8e05c2a400707f/.openpublishing.publish.config.json) | Ignored | [Details](#8eecabd3ae8e6ddd6d0e0d1d1a442cd0ad7a75fa3)
+ [HelloWorld.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/6897740cb1bfd407027c39ce6e8e05c2a400707f/HelloWorld.md) | Ignored | [Details](#ee4e5473b0707009cf7b442f48a9340566ddaaa14)
+ [packages.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/6897740cb1bfd407027c39ce6e8e05c2a400707f/packages.config) | Ignored | [Details](#35e64e3675af499b08de0a295cbd0394dce36fbf5)
+ [README.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/6897740cb1bfd407027c39ce6e8e05c2a400707f/README.md) | Ignored | [Details](#628ce7b359157a4c8c79d02622d30781cfb9ad896)
+ [Tools\NuGet\Nuget.Config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/6897740cb1bfd407027c39ce6e8e05c2a400707f/Tools/NuGet/Nuget.Config) | Ignored | [Details](#37d5a2d0c8a81313cf7e92800e699f2f86a9f9f97)
+ [Tools\NuGet\nuget.exe](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/6897740cb1bfd407027c39ce6e8e05c2a400707f/Tools/NuGet/nuget.exe) | Ignored | [Details](#7469c905e04001f8250137d2da57bbc7bec2d3588)
+ [wdg-cpub-test\docfx.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/6897740cb1bfd407027c39ce6e8e05c2a400707f/wdg-cpub-test/docfx.json) | Ignored | [Details](#ef46e7227eb5de88f180c82961fdc8c6732f6dbf10)
+ [wdg-cpub-test\iawilt\iawilt_test\Ben test](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/6897740cb1bfd407027c39ce6e8e05c2a400707f/wdg-cpub-test/iawilt/iawilt_test/Ben test) | Ignored | [Details](#eff8f567d06e11d393836c1fbf24b220fabbd06117)
 
 ## Item Details
-##### <a name='803607024514788723dfd07b8fdcf04c806865b70'></a> Source: [.gitignore](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/bb07ee698cabaa68bee22aa40ba06d13daf33e55/.gitignore)
+##### <a name='803607024514788723dfd07b8fdcf04c806865b70'></a> Source: [.gitignore](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/6897740cb1bfd407027c39ce6e8e05c2a400707f/.gitignore)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -85,7 +87,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='685f82d720f02ecb23272063f7f234af675579221'></a> Source: [.localization-config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/bb07ee698cabaa68bee22aa40ba06d13daf33e55/.localization-config)
+##### <a name='685f82d720f02ecb23272063f7f234af675579221'></a> Source: [.localization-config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/6897740cb1bfd407027c39ce6e8e05c2a400707f/.localization-config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -95,7 +97,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='39a1ec920f8f95c0152f04241c339463545b9bfe2'></a> Source: [.openpublishing.build.mdproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/bb07ee698cabaa68bee22aa40ba06d13daf33e55/.openpublishing.build.mdproj)
+##### <a name='39a1ec920f8f95c0152f04241c339463545b9bfe2'></a> Source: [.openpublishing.build.mdproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/6897740cb1bfd407027c39ce6e8e05c2a400707f/.openpublishing.build.mdproj)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -105,7 +107,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='8eecabd3ae8e6ddd6d0e0d1d1a442cd0ad7a75fa3'></a> Source: [.openpublishing.publish.config.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/bb07ee698cabaa68bee22aa40ba06d13daf33e55/.openpublishing.publish.config.json)
+##### <a name='8eecabd3ae8e6ddd6d0e0d1d1a442cd0ad7a75fa3'></a> Source: [.openpublishing.publish.config.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/6897740cb1bfd407027c39ce6e8e05c2a400707f/.openpublishing.publish.config.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -115,7 +117,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ee4e5473b0707009cf7b442f48a9340566ddaaa14'></a> Source: [HelloWorld.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/bb07ee698cabaa68bee22aa40ba06d13daf33e55/HelloWorld.md)
+##### <a name='ee4e5473b0707009cf7b442f48a9340566ddaaa14'></a> Source: [HelloWorld.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/6897740cb1bfd407027c39ce6e8e05c2a400707f/HelloWorld.md)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -125,7 +127,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='35e64e3675af499b08de0a295cbd0394dce36fbf5'></a> Source: [packages.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/bb07ee698cabaa68bee22aa40ba06d13daf33e55/packages.config)
+##### <a name='35e64e3675af499b08de0a295cbd0394dce36fbf5'></a> Source: [packages.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/6897740cb1bfd407027c39ce6e8e05c2a400707f/packages.config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -135,7 +137,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='628ce7b359157a4c8c79d02622d30781cfb9ad896'></a> Source: [README.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/bb07ee698cabaa68bee22aa40ba06d13daf33e55/README.md)
+##### <a name='628ce7b359157a4c8c79d02622d30781cfb9ad896'></a> Source: [README.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/6897740cb1bfd407027c39ce6e8e05c2a400707f/README.md)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -145,7 +147,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='37d5a2d0c8a81313cf7e92800e699f2f86a9f9f97'></a> Source: [Tools\NuGet\Nuget.Config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/bb07ee698cabaa68bee22aa40ba06d13daf33e55/Tools/NuGet/Nuget.Config)
+##### <a name='37d5a2d0c8a81313cf7e92800e699f2f86a9f9f97'></a> Source: [Tools\NuGet\Nuget.Config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/6897740cb1bfd407027c39ce6e8e05c2a400707f/Tools/NuGet/Nuget.Config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -155,7 +157,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='7469c905e04001f8250137d2da57bbc7bec2d3588'></a> Source: [Tools\NuGet\nuget.exe](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/bb07ee698cabaa68bee22aa40ba06d13daf33e55/Tools/NuGet/nuget.exe)
+##### <a name='7469c905e04001f8250137d2da57bbc7bec2d3588'></a> Source: [Tools\NuGet\nuget.exe](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/6897740cb1bfd407027c39ce6e8e05c2a400707f/Tools/NuGet/nuget.exe)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -175,7 +177,7 @@
 * Handback Datetime: 2016-01-08 12:53:58
 * [Back to Top](#report-top)
 
-##### <a name='ef46e7227eb5de88f180c82961fdc8c6732f6dbf10'></a> Source: [wdg-cpub-test\docfx.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/bb07ee698cabaa68bee22aa40ba06d13daf33e55/wdg-cpub-test/docfx.json)
+##### <a name='ef46e7227eb5de88f180c82961fdc8c6732f6dbf10'></a> Source: [wdg-cpub-test\docfx.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/6897740cb1bfd407027c39ce6e8e05c2a400707f/wdg-cpub-test/docfx.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -250,7 +252,7 @@
 * Dependency From: wdg-cpub-test\domars\Directions_To_Update_Existing_Topic_Using_Browser.md
 * [Back to Top](#report-top)
 
-##### <a name='eff8f567d06e11d393836c1fbf24b220fabbd06117'></a> Source: [wdg-cpub-test\iawilt\iawilt_test\Ben test](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/bb07ee698cabaa68bee22aa40ba06d13daf33e55/wdg-cpub-test/iawilt/iawilt_test/Ben test)
+##### <a name='eff8f567d06e11d393836c1fbf24b220fabbd06117'></a> Source: [wdg-cpub-test\iawilt\iawilt_test\Ben test](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/6897740cb1bfd407027c39ce6e8e05c2a400707f/wdg-cpub-test/iawilt/iawilt_test/Ben test)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -547,14 +549,17 @@
 * Handback Datetime: 2016-01-08 12:53:58
 * [Back to Top](#report-top)
 
-##### <a name='bc256ef7fefbb16367ba977c2bc8f4b82b4be29c46'></a> Source: [wdg-cpub-test\Welcome.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/bb07ee698cabaa68bee22aa40ba06d13daf33e55/wdg-cpub-test/Welcome.md)
-* Status: Ignored
+##### <a name='bc256ef7fefbb16367ba977c2bc8f4b82b4be29c46'></a> Source: [wdg-cpub-test\Welcome.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/6897740cb1bfd407027c39ce6e8e05c2a400707f/wdg-cpub-test/Welcome.md)
+* Status: OutofSyncHandedBackSuccess
 * Target File: 
-* Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
-* Handoff Reason: Ignored
+* Handoff File: [Welcome.ecbb965b6e13825c7524206fa12c4cc64183e55b.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/ef79c4fe27fc4f2df5bfc24dbea5641ac8a29d77/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.de-de/master/Welcome.ecbb965b6e13825c7524206fa12c4cc64183e55b.de-de.xlf)
+* Handoff Datetime: 2016-01-08 13:13:26
+* Handoff Reason: Include
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Current Target File: [wdg-cpub-test\Welcome.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.de-de/blob/2c79202e574e032defca2b53a65b38c0f57dacc2/wdg-cpub-test/Welcome.md)
+* Current Handback File: [Welcome.ecbb965b6e13825c7524206fa12c4cc64183e55b.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/11af58f2930b194c25f1f1e61e9d11fec9dcdf74/ol-handback/OpenLocalizationOrg/wdg-cpub-test.de-de/master/Welcome.ecbb965b6e13825c7524206fa12c4cc64183e55b.de-de.xlf)
+* Current Handback Datetime: 2016-01-05 08:50:23
 * [Back to Top](#report-top)
 
 
