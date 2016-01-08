@@ -104,5 +104,204 @@
   ],
   "9d4c6da29c3b306e31457c830cd0768ea45ca4f2": [
     "wdg-cpub-test\\Welcome.md"
+  ],
+  "0b3ee6df3f0d18a76ffbbd3f9ca61f0a2b9efc39": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\analyzing_driver_quality_by_using_code_analysis_tools.md"
+  ],
+  "bc1bd22aaf8c51a4835b167542d4801208114909": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\attestation_signing_a_kernel_driver_for_public_release.md"
+  ],
+  "e0f09dec7a25d3016140c132c7e6f0411589b8f3": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\attestation_driver_signing_submission_dashboard.png"
+  ],
+  "21987b89a2bd6120f2fbb8084c822d6cf0f5b73e": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\b_wes_driversigning_v2.png"
+  ],
+  "16ae34742832f17eebb3d8dfbaa08ab57ce9bfb8": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\avoiding_floating_point_errors_in_custom_build_environments.md"
+  ],
+  "7c0a254e07bedb26fab52d53262487cece4d237a": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\building_a_driver.md"
+  ],
+  "3f3f4f6dc70f65ebea6ecf5d632dd320750c6ee6": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\building_drivers_for_different_versions_of_windows.md"
+  ],
+  "a1f089b324da35f3367411713ba47b97bc378aea": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\converting_wdk_8_1_projects_to_wdk_10.md"
+  ],
+  "d4be8ac40be5f55be89cbbaf3e16db38fd1fd582": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\counters_manifest_preprocessor_properties_for_driver_projects.md"
+  ],
+  "f2b1b34b29fd719fe86032d51233ed09dd667d8c": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\create_a_custom_driver_installation_script.md"
+  ],
+  "263bc47cd7c17e6691a81dc4dc6b6c2484381e72": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\creating_a_device_metadata_package.md"
+  ],
+  "5343ab2c23eba904df16b371331932e6c68e77e1": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\creating_a_driver_from_existing_source_files.md"
+  ],
+  "1bba3a5611ed7cf5552868f12949dfcc91b01803": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\creating_a_driver_package.md"
+  ],
+  "bd0c6c5437446ea0c01d45fd1049fff8f8b3790c": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\VsSlnExplorer.png"
+  ],
+  "65302587cbc9b4aa1c3633df61751962844f9e2c": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\VsDrvrPkgProps.png"
+  ],
+  "b4d01e34c4ef81ab40804f4cf5b6981d2cdd91bd": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\MultipleDriversSingleSolution.png"
+  ],
+  "b7d297ad5e963244bcb2656e6eec5d65e6161693": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\creating_a_driver_verification_log.md"
+  ],
+  "f3117b3cdb002de76694289880b091ba18c8be28": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\creating_a_log_file_for_static_driver_verifier.md"
+  ],
+  "edae1ec6d3f626044ac86796d3dc8db87266d745": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\creating_a_log_file_for_the_code_analysis_tool.md"
+  ],
+  "4eb4c2166e3dccf170e59fb0558839a8eced80eb": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\creating_a_new_driver.md"
+  ],
+  "fd29b255b3e993eb9a4c6b2dda487ff53d123f7f": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\creating_a_new_filter_driver.md"
+  ],
+  "14642b4f4bc9b64bc19f85eb3094d6f6bfdb9a7d": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\creating_a_new_software_driver.md"
+  ],
+  "76fa9c94a7046c03368837e626ad9bf790e8fb88": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\debugging_a_driver.md"
+  ],
+  "17cc962c0987a8e3ac0e0a0ab5a14e7d53b68520": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\deploying_a_driver_to_a_test_computer.md"
+  ],
+  "3297a5352e1c2eb36ebf22719c59327ed41cf150": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\deployment_properties_for_driver_projects.md"
+  ],
+  "c9bd51c0edbff713f41e18a4320a9258f41790f4": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\distributing_a_driver_package_win8.md"
+  ],
+  "518e66c2c3cff1aa0d0e782b4d0b10938b3b61c8": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\driver_model_convergence.md"
+  ],
+  "6d1fa3f612f227f54d01ffbf3a526d8eb0456899": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\driver_model_settings_properties_for_driver_projects.md"
+  ],
+  "1b86766fe1136ea1d7d8deaee6d457487289cc1b": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\driver_signing_properties.md"
+  ],
+  "910f50e73a8efdea0431ea565dfdc7374a019a68": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\driver_verifier_properties_for__driver_projects.md"
+  ],
+  "6ab8441bafe88951d9dc8f6b99a4a509f9c362fa": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\getting_started_with_universal_drivers.md"
+  ],
+  "fd7ce9942bd6c0dbc82412f87c67b2fa0eeba0d9": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\how_to_select_and_configure_the_device_fundamental_tests.md"
+  ],
+  "f7c60f736b125c8a6268e121c760935f75ec01b8": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\how_to_test_a_driver_at_runtime_from_a_command_prompt.md"
+  ],
+  "df87a7f5e0f9d173de97215cbcf226f5018883e1": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\how_to_write_a_driver_test_.md"
+  ],
+  "7b4309bbd7b1ed204d4d13bd147501ee21b80518": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\inf2cat_properties_for_driver_package_projects.md"
+  ],
+  "33944380a77ab473af686145779f4bd31b02403b": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\installing_a_universal_driver.md"
+  ],
+  "430268ba843e894f0d159b37797f3c19617139df": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\Installing_the_Enterprise_WDK.md"
+  ],
+  "e7d9924085fd0a96a082ec31929c6cf8b6a23e27": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\installing_the_wdk_build_environment_in_a_lab.md"
+  ],
+  "e0bfd69a30b06e7f02519cea359d2a0d8d70c47b": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\kmdf_verifier_properties_for_driver_package_projects.md"
+  ],
+  "c90ab2e265a02e42262c86460aa75b087c2f1cfe": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\message_compiler_properties_for_driver_projects.md"
+  ],
+  "1f06e8c2b30fd29ccd2c9600e9a7d7f4e6e24eb6": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\mof_compiler_properties_for_driver_projects.md"
+  ],
+  "72642cee1d11a58aa21cf7230ae37f3e89120629": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\preparing_a_computer_for_manual_driver_deployment.md"
+  ],
+  "016372eb9bea6d8f16bae5473856354e041c5781": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\read_the_driver_test_results_log.md"
+  ],
+  "df36e47e5bdc8ec928da08d1e7e8f66d7f421837": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\ert_test_results.png"
+  ],
+  "706fb0cec4a283cebe4e5551de6f59252a015935": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\README.md"
+  ],
+  "23c305d9bace8d02454eb415a1a1e7d183c43175": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\run_the_hck_test_suites_in_the_wdk.md"
+  ],
+  "4fddebbffb7ed66b5d33b71a2cd2098607c3baf7": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\signing_a_driver.md"
+  ],
+  "64a1cc3b2c3aeda0ece74d651d7c34369a8c387b": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\signing_a_driver_during_development_and_testing.md"
+  ],
+  "95f73079b57688206bf3238e1a509f0b81ba8da2": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\SigningADriver01.png"
+  ],
+  "9b013e5154608d58c84085247b3e9c6fcc42e478": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\signing_a_driver_for_public_release.md"
+  ],
+  "f9e69213011495c37910e7c7e9b6ac86bf26fa8c": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\stampinf_properties_for_driver_projects.md"
+  ],
+  "b22e5c7f3b3b8e9eb45ab44e9643d4cf6d5144f4": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\strategies_for_testing_drivers_during_development.md"
+  ],
+  "0940c46a0b1b6360639f55de72286b433059a382": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\test_a_driver_package.md"
+  ],
+  "1d4db1fdb90c910117ae12a408a6c7c1f2282ecb": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\testing_a_driver.md"
+  ],
+  "bffcc9c5d253e19122bdbef216af77669a365301": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\testing_a_driver_at_runtime.md"
+  ],
+  "944b2b71b2f22ccef1f8601686134d7ce6f5ef96": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\to_add_test_metadata.md"
+  ],
+  "4f5bfb807ecf4cc2e5715fbbf544d2491340714c": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\TOC.md"
+  ],
+  "2434c94f583589d368ce55e6c5d26150cec8ce15": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\troubleshooting_configuration_of_driver_deployment__testing_and_debugging.md",
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\troubleshooting_the_device_fundamental_tests.md"
+  ],
+  "a9b1e0eb7445100c3cd81ce979e54703c87254ad": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\umdf_verifier_properties_for_driver_package_projects.md"
+  ],
+  "b0477a3ded515799ddbf6dc256d7a1f8376228c6": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\using_the_microsoft_c_runtime_with_user_mode_drivers_and_apps.md"
+  ],
+  "798d98ae3b3b36679756fb2c3bb4bac44092a4bf": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\validating_universal_drivers.md"
+  ],
+  "746ac811fff544d1647f55827dc700e460e5f88e": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\visual_studio_driver_development_environment.md"
+  ],
+  "cdbd2c7425bbf263c6af57d28cfd8473d02551ec": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\what_happens_when_you_provision_a_computer__wdk_8_0_.md"
+  ],
+  "d310c4b3d444ed7b5dc551ca034106fc46617987": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\what_happens_when_you_provision_a_computer__wdk_8_1_.md"
+  ],
+  "79a3dd217ffa3beb73851aac9bb6609218e94699": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\windows_10_editions_for_universal_drivers.md"
+  ],
+  "3ce2fdf00618bcc50d2d3b9454a1c522096e9053": [
+    "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\TargetPlatform.png"
   ]
 }
