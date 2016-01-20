@@ -115,6 +115,9 @@
     "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\attestation_signing_a_kernel_driver_for_public_release.md",
     "wdg-cpub-test\\test-xliff-2.md"
   ],
+  "0252b866a2d0c048b6a643cd9e48e006d15cf46c": [
+    "wdg-cpub-test\\test-xliff-2.md"
+  ],
   "e0f09dec7a25d3016140c132c7e6f0411589b8f3": [
     "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\attestation_driver_signing_submission_dashboard.png"
   ],

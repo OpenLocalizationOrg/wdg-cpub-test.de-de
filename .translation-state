@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "3a0bc5468c92797d15d62e245bf29d078d60df88",
+  "LastProcessedCommit": "711feb0e9cd1c1e0b257248dce211449e25a8c5b",
   "LastTranslatedCommit": "b55bf6337789e2e42de5bb363b6acfe5b26472f3",
   "Items": {
     "3c246d6c393687dbeff05e58303c204713ba80a4": {
@@ -1071,7 +1071,7 @@
     },
     "e0f09dec7a25d3016140c132c7e6f0411589b8f3": {
       "FileHash": "e0f09dec7a25d3016140c132c7e6f0411589b8f3",
-      "SourceFileCommit": "3a0bc5468c92797d15d62e245bf29d078d60df88",
+      "SourceFileCommit": "711feb0e9cd1c1e0b257248dce211449e25a8c5b",
       "SourceFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\attestation_driver_signing_submission_dashboard.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -1081,8 +1081,8 @@
         "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\attestation_driver_signing_submission_dashboard.png"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\e0f09dec7a25d3016140c132c7e6f0411589b8f3.png",
-      "HandoffFileCommit": "baba366ca5a045b7db133988bd1912a2178083de",
-      "HandoffDateTime": "2016-01-20T03:35:51.6611957Z",
+      "HandoffFileCommit": "fd6b3a72d50c48eef9cdcb9cae78d6c25b7b6d89",
+      "HandoffDateTime": "2016-01-20T03:45:40.6315947Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -1100,7 +1100,7 @@
     },
     "21987b89a2bd6120f2fbb8084c822d6cf0f5b73e": {
       "FileHash": "21987b89a2bd6120f2fbb8084c822d6cf0f5b73e",
-      "SourceFileCommit": "3a0bc5468c92797d15d62e245bf29d078d60df88",
+      "SourceFileCommit": "711feb0e9cd1c1e0b257248dce211449e25a8c5b",
       "SourceFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\b_wes_driversigning_v2.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -1110,8 +1110,8 @@
         "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\b_wes_driversigning_v2.png"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\21987b89a2bd6120f2fbb8084c822d6cf0f5b73e.png",
-      "HandoffFileCommit": "baba366ca5a045b7db133988bd1912a2178083de",
-      "HandoffDateTime": "2016-01-20T03:35:51.6611957Z",
+      "HandoffFileCommit": "fd6b3a72d50c48eef9cdcb9cae78d6c25b7b6d89",
+      "HandoffDateTime": "2016-01-20T03:45:40.6315947Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -1372,7 +1372,7 @@
     },
     "bd0c6c5437446ea0c01d45fd1049fff8f8b3790c": {
       "FileHash": "bd0c6c5437446ea0c01d45fd1049fff8f8b3790c",
-      "SourceFileCommit": "3a0bc5468c92797d15d62e245bf29d078d60df88",
+      "SourceFileCommit": "711feb0e9cd1c1e0b257248dce211449e25a8c5b",
       "SourceFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\VsSlnExplorer.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -1382,8 +1382,8 @@
         "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\VsSlnExplorer.png"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\bd0c6c5437446ea0c01d45fd1049fff8f8b3790c.png",
-      "HandoffFileCommit": "baba366ca5a045b7db133988bd1912a2178083de",
-      "HandoffDateTime": "2016-01-20T03:35:51.6611957Z",
+      "HandoffFileCommit": "fd6b3a72d50c48eef9cdcb9cae78d6c25b7b6d89",
+      "HandoffDateTime": "2016-01-20T03:45:40.6315947Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -1401,7 +1401,7 @@
     },
     "65302587cbc9b4aa1c3633df61751962844f9e2c": {
       "FileHash": "65302587cbc9b4aa1c3633df61751962844f9e2c",
-      "SourceFileCommit": "3a0bc5468c92797d15d62e245bf29d078d60df88",
+      "SourceFileCommit": "711feb0e9cd1c1e0b257248dce211449e25a8c5b",
       "SourceFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\VsDrvrPkgProps.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -1411,8 +1411,8 @@
         "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\VsDrvrPkgProps.png"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\65302587cbc9b4aa1c3633df61751962844f9e2c.png",
-      "HandoffFileCommit": "baba366ca5a045b7db133988bd1912a2178083de",
-      "HandoffDateTime": "2016-01-20T03:35:51.6611957Z",
+      "HandoffFileCommit": "fd6b3a72d50c48eef9cdcb9cae78d6c25b7b6d89",
+      "HandoffDateTime": "2016-01-20T03:45:40.6315947Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -1430,7 +1430,7 @@
     },
     "b4d01e34c4ef81ab40804f4cf5b6981d2cdd91bd": {
       "FileHash": "b4d01e34c4ef81ab40804f4cf5b6981d2cdd91bd",
-      "SourceFileCommit": "3a0bc5468c92797d15d62e245bf29d078d60df88",
+      "SourceFileCommit": "711feb0e9cd1c1e0b257248dce211449e25a8c5b",
       "SourceFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\MultipleDriversSingleSolution.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -1440,8 +1440,8 @@
         "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\MultipleDriversSingleSolution.png"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\b4d01e34c4ef81ab40804f4cf5b6981d2cdd91bd.png",
-      "HandoffFileCommit": "baba366ca5a045b7db133988bd1912a2178083de",
-      "HandoffDateTime": "2016-01-20T03:35:51.6611957Z",
+      "HandoffFileCommit": "fd6b3a72d50c48eef9cdcb9cae78d6c25b7b6d89",
+      "HandoffDateTime": "2016-01-20T03:45:40.6315947Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -2188,7 +2188,7 @@
     },
     "df36e47e5bdc8ec928da08d1e7e8f66d7f421837": {
       "FileHash": "df36e47e5bdc8ec928da08d1e7e8f66d7f421837",
-      "SourceFileCommit": "3a0bc5468c92797d15d62e245bf29d078d60df88",
+      "SourceFileCommit": "711feb0e9cd1c1e0b257248dce211449e25a8c5b",
       "SourceFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\ert_test_results.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -2198,8 +2198,8 @@
         "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\ert_test_results.png"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\df36e47e5bdc8ec928da08d1e7e8f66d7f421837.png",
-      "HandoffFileCommit": "baba366ca5a045b7db133988bd1912a2178083de",
-      "HandoffDateTime": "2016-01-20T03:35:51.6611957Z",
+      "HandoffFileCommit": "fd6b3a72d50c48eef9cdcb9cae78d6c25b7b6d89",
+      "HandoffDateTime": "2016-01-20T03:45:40.6315947Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -2325,7 +2325,7 @@
     },
     "95f73079b57688206bf3238e1a509f0b81ba8da2": {
       "FileHash": "95f73079b57688206bf3238e1a509f0b81ba8da2",
-      "SourceFileCommit": "3a0bc5468c92797d15d62e245bf29d078d60df88",
+      "SourceFileCommit": "711feb0e9cd1c1e0b257248dce211449e25a8c5b",
       "SourceFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\SigningADriver01.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -2335,8 +2335,8 @@
         "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\SigningADriver01.png"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\95f73079b57688206bf3238e1a509f0b81ba8da2.png",
-      "HandoffFileCommit": "baba366ca5a045b7db133988bd1912a2178083de",
-      "HandoffDateTime": "2016-01-20T03:35:51.6611957Z",
+      "HandoffFileCommit": "fd6b3a72d50c48eef9cdcb9cae78d6c25b7b6d89",
+      "HandoffDateTime": "2016-01-20T03:45:40.6315947Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -2787,7 +2787,7 @@
     },
     "3ce2fdf00618bcc50d2d3b9454a1c522096e9053": {
       "FileHash": "3ce2fdf00618bcc50d2d3b9454a1c522096e9053",
-      "SourceFileCommit": "3a0bc5468c92797d15d62e245bf29d078d60df88",
+      "SourceFileCommit": "711feb0e9cd1c1e0b257248dce211449e25a8c5b",
       "SourceFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\TargetPlatform.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -2797,8 +2797,8 @@
         "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\TargetPlatform.png"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\3ce2fdf00618bcc50d2d3b9454a1c522096e9053.png",
-      "HandoffFileCommit": "baba366ca5a045b7db133988bd1912a2178083de",
-      "HandoffDateTime": "2016-01-20T03:35:51.6611957Z",
+      "HandoffFileCommit": "fd6b3a72d50c48eef9cdcb9cae78d6c25b7b6d89",
+      "HandoffDateTime": "2016-01-20T03:45:40.6315947Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -2826,6 +2826,33 @@
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\Welcome.ecbb965b6e13825c7524206fa12c4cc64183e55b.de-de.xlf",
       "HandoffFileCommit": "affddce9b4028bfaba59c9e36cf2a37ceb72e66a",
       "HandoffDateTime": "2016-01-11T04:41:45.2383478Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "0252b866a2d0c048b6a643cd9e48e006d15cf46c": {
+      "FileHash": "0252b866a2d0c048b6a643cd9e48e006d15cf46c",
+      "SourceFileCommit": "711feb0e9cd1c1e0b257248dce211449e25a8c5b",
+      "SourceFilePath": "wdg-cpub-test\\test-xliff-2.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "wdg-cpub-test\\test-xliff-2.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\test-xliff-2.9e74d19c2a06ffac1ddb5240e10c103cbf0db315.de-de.xlf",
+      "HandoffFileCommit": "fd6b3a72d50c48eef9cdcb9cae78d6c25b7b6d89",
+      "HandoffDateTime": "2016-01-20T03:45:40.6315947Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
