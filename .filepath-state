@@ -310,5 +310,159 @@
   ],
   "3ce2fdf00618bcc50d2d3b9454a1c522096e9053": [
     "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\TargetPlatform.png"
+  ],
+  "a811782d50fa2fa17af563769176befbe4cdc15f": [
+    "wdg-cpub-test\\ndolci\\get-started\\account-types-locations-and-fees.md"
+  ],
+  "17294c2cf635d564b100396040857e391a7d0148": [
+    "wdg-cpub-test\\ndolci\\get-started\\create-a-basic-windows-10-app-in-cpp.md"
+  ],
+  "8787d6e692a8f9a6a1460a41e08ac40e2166dc24": [
+    "wdg-cpub-test\\ndolci\\get-started\\images\\vs2015-newuniversalproject-cpp.png"
+  ],
+  "7ffa635c4485e5697adbb5018009297820521f85": [
+    "wdg-cpub-test\\ndolci\\get-started\\images\\vs2015-solutionexploreruniversal-0-cpp.png"
+  ],
+  "ecff6f0e64a69e40fe59a7e9a91ef63355b0eab5": [
+    "wdg-cpub-test\\ndolci\\get-started\\images\\xaml-hw-app2.png"
+  ],
+  "7f0cb16b68bad8ae3f0383f94cfc8782846989da": [
+    "wdg-cpub-test\\ndolci\\get-started\\images\\startdebug-full.png"
+  ],
+  "ad6ba28013488a2b96091b66c3cde10ff970b252": [
+    "wdg-cpub-test\\ndolci\\get-started\\images\\startdebug-sm.png"
+  ],
+  "02071c86ccdf3d824540bbc817274b0a91b5a799": [
+    "wdg-cpub-test\\ndolci\\get-started\\images\\hw10-screen1-mob.png"
+  ],
+  "25264704ed1696688454ca35303338eb719e8e07": [
+    "wdg-cpub-test\\ndolci\\get-started\\IMAGES\\EVENTSBUTTON.png",
+    "wdg-cpub-test\\ndolci\\get-started\\images\\eventsbutton.png"
+  ],
+  "58ac8cc81cb6c520445d0084536eca328af7f067": [
+    "wdg-cpub-test\\ndolci\\get-started\\images\\xaml-hw-event.png"
+  ],
+  "7222f5ce1a9055c9e2f1c6baa8b9a29891617049": [
+    "wdg-cpub-test\\ndolci\\get-started\\images\\xaml-hw-app4.png"
+  ],
+  "248ebd29923aa7d4e308cd717670387a5ae73e76": [
+    "wdg-cpub-test\\ndolci\\get-started\\images\\xaml-hw-app3.png"
+  ],
+  "381c7c54508d15ebad22287f91b22fedb33e38a6": [
+    "wdg-cpub-test\\ndolci\\get-started\\IMAGES\\PROPERTIESBUTTON.png"
+  ],
+  "555649b6b18aa009da69eee7e6980365b473054e": [
+    "wdg-cpub-test\\ndolci\\get-started\\images\\xaml-hw-style-cpp.png"
+  ],
+  "8fb4e49fc4a1c7c191b0af03865c65800dd0e515": [
+    "wdg-cpub-test\\ndolci\\get-started\\images\\xaml-hw-app5.png"
+  ],
+  "dd22a831e56b90a22ea20d2bfd3600f0ec70d491": [
+    "wdg-cpub-test\\ndolci\\get-started\\images\\hw10-screen2-mob.png"
+  ],
+  "ae5aa65882c104dffaff24d978d2c7a7b54d81f4": [
+    "wdg-cpub-test\\ndolci\\get-started\\create-a-hello-world-app-js-universal.md"
+  ],
+  "89649cf24d6243cd624e75dc77ac568058bed2c9": [
+    "wdg-cpub-test\\ndolci\\get-started\\images\\js-tut-newproject.png"
+  ],
+  "8bcda54942b779ed7c7b2e2b7a23d423a994c2a6": [
+    "wdg-cpub-test\\ndolci\\get-started\\images\\js-tut-helloworld.png"
+  ],
+  "746d7a8b8ef5e3c687d015f0d19a65d55b0eb1ce": [
+    "wdg-cpub-test\\ndolci\\get-started\\images\\uap-debug.png"
+  ],
+  "48ade3936f552a76378fd8ce372bccc745854481": [
+    "wdg-cpub-test\\ndolci\\get-started\\images\\helloworld-1-js.png"
+  ],
+  "8d8bdf4f5ac36a4a2dd9a2bc1113dcce5e2f76b6": [
+    "wdg-cpub-test\\ndolci\\get-started\\images\\stopdebug.png"
+  ],
+  "7af40b951178f0453a125e3306a473442e8ab871": [
+    "wdg-cpub-test\\ndolci\\get-started\\images\\helloworld-1-js-phone.png"
+  ],
+  "2d016390c9e19e563da7cb38b9f26dd1c2cae8c6": [
+    "wdg-cpub-test\\ndolci\\get-started\\images\\helloworld-2-js.png"
+  ],
+  "e5669349d5734e93c555fc79118e27d4780982c8": [
+    "wdg-cpub-test\\ndolci\\get-started\\images\\helloworld-3-js.png"
+  ],
+  "f732f16f547ce3961e5a508e67177fe23cd1115c": [
+    "wdg-cpub-test\\ndolci\\get-started\\images\\helloworld-3-js-phone.png"
+  ],
+  "a41085798fc6698620a0c08a0a41b87c782e799e": [
+    "wdg-cpub-test\\ndolci\\get-started\\images\\helloworld-4-JS.png"
+  ],
+  "58b68146df767a20a719f1fb2381aee49c14e345": [
+    "wdg-cpub-test\\ndolci\\get-started\\images\\helloworld-5-js.png"
+  ],
+  "93f2f139a35a018fd2d711b9d6bf43eb95ca37a4": [
+    "wdg-cpub-test\\ndolci\\get-started\\images\\helloworld-5-js-phone.png"
+  ],
+  "995f312629e7b918b85704fdedcda68dbbc08dc8": [
+    "wdg-cpub-test\\ndolci\\get-started\\create-a-hello-world-app-xaml-universal.md"
+  ],
+  "40b20607bf9ab5e0796476d667394ab93601fda4": [
+    "wdg-cpub-test\\ndolci\\get-started\\images\\newproject-cs.png"
+  ],
+  "2a931f1e8abb23216c8891456cc48f477ebba5eb": [
+    "wdg-cpub-test\\ndolci\\get-started\\images\\solutionexplorer-cs.png"
+  ],
+  "db150a3f10fa5f0092f3203530ab7f5e77f1f8a9": [
+    "wdg-cpub-test\\ndolci\\get-started\\images\\helloworld-1-cs.png"
+  ],
+  "fe46ccdeb8be5e2282351e3918e84b1ebba0d550": [
+    "wdg-cpub-test\\ndolci\\get-started\\images\\helloworld-1-cs-phone.png"
+  ],
+  "6202620f9a2e0b2205a70103f8d32e6b041ec3dd": [
+    "wdg-cpub-test\\ndolci\\get-started\\images\\helloworld-2-cs-phone.png"
+  ],
+  "c3371241a87d4d18e6ecca12cf9a004a185b7b3b": [
+    "wdg-cpub-test\\ndolci\\get-started\\enable-your-device-for-development.md"
+  ],
+  "ead1d64ee6515974a434ea77c4ef0f14031d8958": [
+    "wdg-cpub-test\\ndolci\\get-started\\images\\latestenabledialog.png"
+  ],
+  "834e44aa121a8071febd7e495e0d14b9a1da8e10": [
+    "wdg-cpub-test\\ndolci\\get-started\\images\\devmode-pc-options.png"
+  ],
+  "1226f248f29981f9645e7dd833eb9ff80f5d0202": [
+    "wdg-cpub-test\\ndolci\\get-started\\images\\devmode-mob.png"
+  ],
+  "d209a2f9e87fbd7e39a595fe28ebb9479355b46b": [
+    "wdg-cpub-test\\ndolci\\get-started\\images\\devmode-mob-options.png"
+  ],
+  "1efd7c8d330b047d6d3e90afc4824597e33b2964": [
+    "wdg-cpub-test\\ndolci\\get-started\\images\\devmode-mob-pairing.png"
+  ],
+  "67a8d613493a7b1d6fdda3d7eeae0ab23043d07d": [
+    "wdg-cpub-test\\ndolci\\get-started\\images\\devportal-phone.png"
+  ],
+  "46b6f0dd49dd16ae8364d050cd7684b496e2b9e6": [
+    "wdg-cpub-test\\ndolci\\get-started\\images\\devmode-mob-portal.png"
+  ],
+  "304e784045299b79bdfd5790392d109ba1707285": [
+    "wdg-cpub-test\\ndolci\\get-started\\get-set-up.md"
+  ],
+  "af7ae74ff384ec99718a9fe214cd34de2b087cc6": [
+    "wdg-cpub-test\\ndolci\\get-started\\learn-more.md"
+  ],
+  "2bdbbb1efdfca0228a2ff30e9db9753cf0f64407": [
+    "wdg-cpub-test\\ndolci\\get-started\\managing-your-profile.md"
+  ],
+  "244914c38b9416387a29bbbf6bb359b530503876": [
+    "wdg-cpub-test\\ndolci\\get-started\\opening-a-developer-account.md"
+  ],
+  "67cfa427e62bb80d9e1de3f3be341a42170b02a6": [
+    "wdg-cpub-test\\ndolci\\get-started\\sign-up.md"
+  ],
+  "5525645ef13c8b88d884e572c2404cfa4c845194": [
+    "wdg-cpub-test\\ndolci\\get-started\\whats-a-uwp.md"
+  ],
+  "4f8012f1dc022c207aa7ff6729bc5c660712b582": [
+    "wdg-cpub-test\\ndolci\\get-started\\images\\1894834-hig-device-primer-01-500.png"
+  ],
+  "4ab7d9d8e95bbf35d926cdc482f557232ce2b5b8": [
+    "wdg-cpub-test\\ndolci\\get-started\\your-first-app.md"
   ]
 }

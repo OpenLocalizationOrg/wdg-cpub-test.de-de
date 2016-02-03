@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "711feb0e9cd1c1e0b257248dce211449e25a8c5b",
+  "LastProcessedCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
   "LastTranslatedCommit": "b55bf6337789e2e42de5bb363b6acfe5b26472f3",
   "Items": {
     "3c246d6c393687dbeff05e58303c204713ba80a4": {
@@ -1071,7 +1071,7 @@
     },
     "e0f09dec7a25d3016140c132c7e6f0411589b8f3": {
       "FileHash": "e0f09dec7a25d3016140c132c7e6f0411589b8f3",
-      "SourceFileCommit": "711feb0e9cd1c1e0b257248dce211449e25a8c5b",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
       "SourceFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\attestation_driver_signing_submission_dashboard.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -1081,8 +1081,8 @@
         "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\attestation_driver_signing_submission_dashboard.png"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\e0f09dec7a25d3016140c132c7e6f0411589b8f3.png",
-      "HandoffFileCommit": "fd6b3a72d50c48eef9cdcb9cae78d6c25b7b6d89",
-      "HandoffDateTime": "2016-01-20T03:45:40.6315947Z",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -1100,7 +1100,7 @@
     },
     "21987b89a2bd6120f2fbb8084c822d6cf0f5b73e": {
       "FileHash": "21987b89a2bd6120f2fbb8084c822d6cf0f5b73e",
-      "SourceFileCommit": "711feb0e9cd1c1e0b257248dce211449e25a8c5b",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
       "SourceFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\b_wes_driversigning_v2.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -1110,8 +1110,8 @@
         "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\b_wes_driversigning_v2.png"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\21987b89a2bd6120f2fbb8084c822d6cf0f5b73e.png",
-      "HandoffFileCommit": "fd6b3a72d50c48eef9cdcb9cae78d6c25b7b6d89",
-      "HandoffDateTime": "2016-01-20T03:45:40.6315947Z",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -1372,7 +1372,7 @@
     },
     "bd0c6c5437446ea0c01d45fd1049fff8f8b3790c": {
       "FileHash": "bd0c6c5437446ea0c01d45fd1049fff8f8b3790c",
-      "SourceFileCommit": "711feb0e9cd1c1e0b257248dce211449e25a8c5b",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
       "SourceFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\VsSlnExplorer.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -1382,8 +1382,8 @@
         "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\VsSlnExplorer.png"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\bd0c6c5437446ea0c01d45fd1049fff8f8b3790c.png",
-      "HandoffFileCommit": "fd6b3a72d50c48eef9cdcb9cae78d6c25b7b6d89",
-      "HandoffDateTime": "2016-01-20T03:45:40.6315947Z",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -1401,7 +1401,7 @@
     },
     "65302587cbc9b4aa1c3633df61751962844f9e2c": {
       "FileHash": "65302587cbc9b4aa1c3633df61751962844f9e2c",
-      "SourceFileCommit": "711feb0e9cd1c1e0b257248dce211449e25a8c5b",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
       "SourceFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\VsDrvrPkgProps.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -1411,8 +1411,8 @@
         "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\VsDrvrPkgProps.png"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\65302587cbc9b4aa1c3633df61751962844f9e2c.png",
-      "HandoffFileCommit": "fd6b3a72d50c48eef9cdcb9cae78d6c25b7b6d89",
-      "HandoffDateTime": "2016-01-20T03:45:40.6315947Z",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -1430,7 +1430,7 @@
     },
     "b4d01e34c4ef81ab40804f4cf5b6981d2cdd91bd": {
       "FileHash": "b4d01e34c4ef81ab40804f4cf5b6981d2cdd91bd",
-      "SourceFileCommit": "711feb0e9cd1c1e0b257248dce211449e25a8c5b",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
       "SourceFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\MultipleDriversSingleSolution.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -1440,8 +1440,8 @@
         "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\MultipleDriversSingleSolution.png"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\b4d01e34c4ef81ab40804f4cf5b6981d2cdd91bd.png",
-      "HandoffFileCommit": "fd6b3a72d50c48eef9cdcb9cae78d6c25b7b6d89",
-      "HandoffDateTime": "2016-01-20T03:45:40.6315947Z",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -2188,7 +2188,7 @@
     },
     "df36e47e5bdc8ec928da08d1e7e8f66d7f421837": {
       "FileHash": "df36e47e5bdc8ec928da08d1e7e8f66d7f421837",
-      "SourceFileCommit": "711feb0e9cd1c1e0b257248dce211449e25a8c5b",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
       "SourceFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\ert_test_results.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -2198,8 +2198,8 @@
         "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\ert_test_results.png"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\df36e47e5bdc8ec928da08d1e7e8f66d7f421837.png",
-      "HandoffFileCommit": "fd6b3a72d50c48eef9cdcb9cae78d6c25b7b6d89",
-      "HandoffDateTime": "2016-01-20T03:45:40.6315947Z",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -2325,7 +2325,7 @@
     },
     "95f73079b57688206bf3238e1a509f0b81ba8da2": {
       "FileHash": "95f73079b57688206bf3238e1a509f0b81ba8da2",
-      "SourceFileCommit": "711feb0e9cd1c1e0b257248dce211449e25a8c5b",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
       "SourceFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\SigningADriver01.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -2335,8 +2335,8 @@
         "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\SigningADriver01.png"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\95f73079b57688206bf3238e1a509f0b81ba8da2.png",
-      "HandoffFileCommit": "fd6b3a72d50c48eef9cdcb9cae78d6c25b7b6d89",
-      "HandoffDateTime": "2016-01-20T03:45:40.6315947Z",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -2787,7 +2787,7 @@
     },
     "3ce2fdf00618bcc50d2d3b9454a1c522096e9053": {
       "FileHash": "3ce2fdf00618bcc50d2d3b9454a1c522096e9053",
-      "SourceFileCommit": "711feb0e9cd1c1e0b257248dce211449e25a8c5b",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
       "SourceFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\TargetPlatform.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -2797,8 +2797,8 @@
         "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\TargetPlatform.png"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\3ce2fdf00618bcc50d2d3b9454a1c522096e9053.png",
-      "HandoffFileCommit": "fd6b3a72d50c48eef9cdcb9cae78d6c25b7b6d89",
-      "HandoffDateTime": "2016-01-20T03:45:40.6315947Z",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -2853,6 +2853,1470 @@
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\test-xliff-2.9e74d19c2a06ffac1ddb5240e10c103cbf0db315.de-de.xlf",
       "HandoffFileCommit": "fd6b3a72d50c48eef9cdcb9cae78d6c25b7b6d89",
       "HandoffDateTime": "2016-01-20T03:45:40.6315947Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "a811782d50fa2fa17af563769176befbe4cdc15f": {
+      "FileHash": "a811782d50fa2fa17af563769176befbe4cdc15f",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\account-types-locations-and-fees.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\account-types-locations-and-fees.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\account-types-locations-and-fees.206483d37e2cea3de35a893b6c5c4f041d2ea97b.de-de.xlf",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "17294c2cf635d564b100396040857e391a7d0148": {
+      "FileHash": "17294c2cf635d564b100396040857e391a7d0148",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\create-a-basic-windows-10-app-in-cpp.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\create-a-basic-windows-10-app-in-cpp.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\create-a-basic-windows-10-app-in-cpp.054796b4d96296ab360e9581dabae0891d1c483f.de-de.xlf",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "8787d6e692a8f9a6a1460a41e08ac40e2166dc24": {
+      "FileHash": "8787d6e692a8f9a6a1460a41e08ac40e2166dc24",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\images\\vs2015-newuniversalproject-cpp.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "wdg-cpub-test\\ndolci\\get-started\\create-a-basic-windows-10-app-in-cpp.md"
+      ],
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\images\\vs2015-newuniversalproject-cpp.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\8787d6e692a8f9a6a1460a41e08ac40e2166dc24.png",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "7ffa635c4485e5697adbb5018009297820521f85": {
+      "FileHash": "7ffa635c4485e5697adbb5018009297820521f85",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\images\\vs2015-solutionexploreruniversal-0-cpp.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "wdg-cpub-test\\ndolci\\get-started\\create-a-basic-windows-10-app-in-cpp.md"
+      ],
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\images\\vs2015-solutionexploreruniversal-0-cpp.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\7ffa635c4485e5697adbb5018009297820521f85.png",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "ecff6f0e64a69e40fe59a7e9a91ef63355b0eab5": {
+      "FileHash": "ecff6f0e64a69e40fe59a7e9a91ef63355b0eab5",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\images\\xaml-hw-app2.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "wdg-cpub-test\\ndolci\\get-started\\create-a-basic-windows-10-app-in-cpp.md"
+      ],
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\images\\xaml-hw-app2.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\ecff6f0e64a69e40fe59a7e9a91ef63355b0eab5.png",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "7f0cb16b68bad8ae3f0383f94cfc8782846989da": {
+      "FileHash": "7f0cb16b68bad8ae3f0383f94cfc8782846989da",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\images\\startdebug-full.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "wdg-cpub-test\\ndolci\\get-started\\create-a-basic-windows-10-app-in-cpp.md",
+        "wdg-cpub-test\\ndolci\\get-started\\create-a-hello-world-app-js-universal.md",
+        "wdg-cpub-test\\ndolci\\get-started\\create-a-hello-world-app-xaml-universal.md"
+      ],
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\images\\startdebug-full.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\7f0cb16b68bad8ae3f0383f94cfc8782846989da.png",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "ad6ba28013488a2b96091b66c3cde10ff970b252": {
+      "FileHash": "ad6ba28013488a2b96091b66c3cde10ff970b252",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\images\\startdebug-sm.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "wdg-cpub-test\\ndolci\\get-started\\create-a-basic-windows-10-app-in-cpp.md",
+        "wdg-cpub-test\\ndolci\\get-started\\create-a-hello-world-app-js-universal.md",
+        "wdg-cpub-test\\ndolci\\get-started\\create-a-hello-world-app-xaml-universal.md"
+      ],
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\images\\startdebug-sm.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\ad6ba28013488a2b96091b66c3cde10ff970b252.png",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "02071c86ccdf3d824540bbc817274b0a91b5a799": {
+      "FileHash": "02071c86ccdf3d824540bbc817274b0a91b5a799",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\images\\hw10-screen1-mob.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "wdg-cpub-test\\ndolci\\get-started\\create-a-basic-windows-10-app-in-cpp.md"
+      ],
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\images\\hw10-screen1-mob.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\02071c86ccdf3d824540bbc817274b0a91b5a799.png",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "25264704ed1696688454ca35303338eb719e8e07": {
+      "FileHash": "25264704ed1696688454ca35303338eb719e8e07",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\IMAGES\\EVENTSBUTTON.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "wdg-cpub-test\\ndolci\\get-started\\create-a-basic-windows-10-app-in-cpp.md",
+        "wdg-cpub-test\\ndolci\\get-started\\create-a-hello-world-app-xaml-universal.md"
+      ],
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\IMAGES\\EVENTSBUTTON.png",
+        "wdg-cpub-test\\ndolci\\get-started\\images\\eventsbutton.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\25264704ed1696688454ca35303338eb719e8e07.png",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "58ac8cc81cb6c520445d0084536eca328af7f067": {
+      "FileHash": "58ac8cc81cb6c520445d0084536eca328af7f067",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\images\\xaml-hw-event.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "wdg-cpub-test\\ndolci\\get-started\\create-a-basic-windows-10-app-in-cpp.md",
+        "wdg-cpub-test\\ndolci\\get-started\\create-a-hello-world-app-xaml-universal.md"
+      ],
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\images\\xaml-hw-event.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\58ac8cc81cb6c520445d0084536eca328af7f067.png",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "7222f5ce1a9055c9e2f1c6baa8b9a29891617049": {
+      "FileHash": "7222f5ce1a9055c9e2f1c6baa8b9a29891617049",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\images\\xaml-hw-app4.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "wdg-cpub-test\\ndolci\\get-started\\create-a-basic-windows-10-app-in-cpp.md"
+      ],
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\images\\xaml-hw-app4.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\7222f5ce1a9055c9e2f1c6baa8b9a29891617049.png",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "248ebd29923aa7d4e308cd717670387a5ae73e76": {
+      "FileHash": "248ebd29923aa7d4e308cd717670387a5ae73e76",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\images\\xaml-hw-app3.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "wdg-cpub-test\\ndolci\\get-started\\create-a-basic-windows-10-app-in-cpp.md"
+      ],
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\images\\xaml-hw-app3.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\248ebd29923aa7d4e308cd717670387a5ae73e76.png",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "381c7c54508d15ebad22287f91b22fedb33e38a6": {
+      "FileHash": "381c7c54508d15ebad22287f91b22fedb33e38a6",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\IMAGES\\PROPERTIESBUTTON.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "wdg-cpub-test\\ndolci\\get-started\\create-a-basic-windows-10-app-in-cpp.md"
+      ],
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\IMAGES\\PROPERTIESBUTTON.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\381c7c54508d15ebad22287f91b22fedb33e38a6.png",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "555649b6b18aa009da69eee7e6980365b473054e": {
+      "FileHash": "555649b6b18aa009da69eee7e6980365b473054e",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\images\\xaml-hw-style-cpp.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "wdg-cpub-test\\ndolci\\get-started\\create-a-basic-windows-10-app-in-cpp.md"
+      ],
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\images\\xaml-hw-style-cpp.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\555649b6b18aa009da69eee7e6980365b473054e.png",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "8fb4e49fc4a1c7c191b0af03865c65800dd0e515": {
+      "FileHash": "8fb4e49fc4a1c7c191b0af03865c65800dd0e515",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\images\\xaml-hw-app5.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "wdg-cpub-test\\ndolci\\get-started\\create-a-basic-windows-10-app-in-cpp.md"
+      ],
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\images\\xaml-hw-app5.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\8fb4e49fc4a1c7c191b0af03865c65800dd0e515.png",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "dd22a831e56b90a22ea20d2bfd3600f0ec70d491": {
+      "FileHash": "dd22a831e56b90a22ea20d2bfd3600f0ec70d491",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\images\\hw10-screen2-mob.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "wdg-cpub-test\\ndolci\\get-started\\create-a-basic-windows-10-app-in-cpp.md"
+      ],
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\images\\hw10-screen2-mob.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\dd22a831e56b90a22ea20d2bfd3600f0ec70d491.png",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "ae5aa65882c104dffaff24d978d2c7a7b54d81f4": {
+      "FileHash": "ae5aa65882c104dffaff24d978d2c7a7b54d81f4",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\create-a-hello-world-app-js-universal.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\create-a-hello-world-app-js-universal.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\create-a-hello-world-app-js-universal.cfb62d61c2c7cb694089e12b098a8a71867d5fb5.de-de.xlf",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "89649cf24d6243cd624e75dc77ac568058bed2c9": {
+      "FileHash": "89649cf24d6243cd624e75dc77ac568058bed2c9",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\images\\js-tut-newproject.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "wdg-cpub-test\\ndolci\\get-started\\create-a-hello-world-app-js-universal.md"
+      ],
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\images\\js-tut-newproject.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\89649cf24d6243cd624e75dc77ac568058bed2c9.png",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "8bcda54942b779ed7c7b2e2b7a23d423a994c2a6": {
+      "FileHash": "8bcda54942b779ed7c7b2e2b7a23d423a994c2a6",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\images\\js-tut-helloworld.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "wdg-cpub-test\\ndolci\\get-started\\create-a-hello-world-app-js-universal.md"
+      ],
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\images\\js-tut-helloworld.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\8bcda54942b779ed7c7b2e2b7a23d423a994c2a6.png",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "746d7a8b8ef5e3c687d015f0d19a65d55b0eb1ce": {
+      "FileHash": "746d7a8b8ef5e3c687d015f0d19a65d55b0eb1ce",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\images\\uap-debug.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "wdg-cpub-test\\ndolci\\get-started\\create-a-hello-world-app-js-universal.md",
+        "wdg-cpub-test\\ndolci\\get-started\\create-a-hello-world-app-xaml-universal.md"
+      ],
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\images\\uap-debug.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\746d7a8b8ef5e3c687d015f0d19a65d55b0eb1ce.png",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "48ade3936f552a76378fd8ce372bccc745854481": {
+      "FileHash": "48ade3936f552a76378fd8ce372bccc745854481",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\images\\helloworld-1-js.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "wdg-cpub-test\\ndolci\\get-started\\create-a-hello-world-app-js-universal.md"
+      ],
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\images\\helloworld-1-js.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\48ade3936f552a76378fd8ce372bccc745854481.png",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "8d8bdf4f5ac36a4a2dd9a2bc1113dcce5e2f76b6": {
+      "FileHash": "8d8bdf4f5ac36a4a2dd9a2bc1113dcce5e2f76b6",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\images\\stopdebug.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "wdg-cpub-test\\ndolci\\get-started\\create-a-hello-world-app-js-universal.md",
+        "wdg-cpub-test\\ndolci\\get-started\\create-a-hello-world-app-xaml-universal.md"
+      ],
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\images\\stopdebug.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\8d8bdf4f5ac36a4a2dd9a2bc1113dcce5e2f76b6.png",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "7af40b951178f0453a125e3306a473442e8ab871": {
+      "FileHash": "7af40b951178f0453a125e3306a473442e8ab871",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\images\\helloworld-1-js-phone.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "wdg-cpub-test\\ndolci\\get-started\\create-a-hello-world-app-js-universal.md"
+      ],
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\images\\helloworld-1-js-phone.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\7af40b951178f0453a125e3306a473442e8ab871.png",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "2d016390c9e19e563da7cb38b9f26dd1c2cae8c6": {
+      "FileHash": "2d016390c9e19e563da7cb38b9f26dd1c2cae8c6",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\images\\helloworld-2-js.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "wdg-cpub-test\\ndolci\\get-started\\create-a-hello-world-app-js-universal.md"
+      ],
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\images\\helloworld-2-js.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\2d016390c9e19e563da7cb38b9f26dd1c2cae8c6.png",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "e5669349d5734e93c555fc79118e27d4780982c8": {
+      "FileHash": "e5669349d5734e93c555fc79118e27d4780982c8",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\images\\helloworld-3-js.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "wdg-cpub-test\\ndolci\\get-started\\create-a-hello-world-app-js-universal.md"
+      ],
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\images\\helloworld-3-js.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\e5669349d5734e93c555fc79118e27d4780982c8.png",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "f732f16f547ce3961e5a508e67177fe23cd1115c": {
+      "FileHash": "f732f16f547ce3961e5a508e67177fe23cd1115c",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\images\\helloworld-3-js-phone.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "wdg-cpub-test\\ndolci\\get-started\\create-a-hello-world-app-js-universal.md"
+      ],
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\images\\helloworld-3-js-phone.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\f732f16f547ce3961e5a508e67177fe23cd1115c.png",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "a41085798fc6698620a0c08a0a41b87c782e799e": {
+      "FileHash": "a41085798fc6698620a0c08a0a41b87c782e799e",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\images\\helloworld-4-JS.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "wdg-cpub-test\\ndolci\\get-started\\create-a-hello-world-app-js-universal.md"
+      ],
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\images\\helloworld-4-JS.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\a41085798fc6698620a0c08a0a41b87c782e799e.png",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "58b68146df767a20a719f1fb2381aee49c14e345": {
+      "FileHash": "58b68146df767a20a719f1fb2381aee49c14e345",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\images\\helloworld-5-js.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "wdg-cpub-test\\ndolci\\get-started\\create-a-hello-world-app-js-universal.md"
+      ],
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\images\\helloworld-5-js.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\58b68146df767a20a719f1fb2381aee49c14e345.png",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "93f2f139a35a018fd2d711b9d6bf43eb95ca37a4": {
+      "FileHash": "93f2f139a35a018fd2d711b9d6bf43eb95ca37a4",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\images\\helloworld-5-js-phone.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "wdg-cpub-test\\ndolci\\get-started\\create-a-hello-world-app-js-universal.md"
+      ],
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\images\\helloworld-5-js-phone.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\93f2f139a35a018fd2d711b9d6bf43eb95ca37a4.png",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "995f312629e7b918b85704fdedcda68dbbc08dc8": {
+      "FileHash": "995f312629e7b918b85704fdedcda68dbbc08dc8",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\create-a-hello-world-app-xaml-universal.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\create-a-hello-world-app-xaml-universal.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\create-a-hello-world-app-xaml-universal.e0b97f0b3797f7bc3dae579bf6a30fec58728358.de-de.xlf",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "40b20607bf9ab5e0796476d667394ab93601fda4": {
+      "FileHash": "40b20607bf9ab5e0796476d667394ab93601fda4",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\images\\newproject-cs.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "wdg-cpub-test\\ndolci\\get-started\\create-a-hello-world-app-xaml-universal.md"
+      ],
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\images\\newproject-cs.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\40b20607bf9ab5e0796476d667394ab93601fda4.png",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "2a931f1e8abb23216c8891456cc48f477ebba5eb": {
+      "FileHash": "2a931f1e8abb23216c8891456cc48f477ebba5eb",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\images\\solutionexplorer-cs.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "wdg-cpub-test\\ndolci\\get-started\\create-a-hello-world-app-xaml-universal.md"
+      ],
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\images\\solutionexplorer-cs.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\2a931f1e8abb23216c8891456cc48f477ebba5eb.png",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "db150a3f10fa5f0092f3203530ab7f5e77f1f8a9": {
+      "FileHash": "db150a3f10fa5f0092f3203530ab7f5e77f1f8a9",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\images\\helloworld-1-cs.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "wdg-cpub-test\\ndolci\\get-started\\create-a-hello-world-app-xaml-universal.md"
+      ],
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\images\\helloworld-1-cs.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\db150a3f10fa5f0092f3203530ab7f5e77f1f8a9.png",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "fe46ccdeb8be5e2282351e3918e84b1ebba0d550": {
+      "FileHash": "fe46ccdeb8be5e2282351e3918e84b1ebba0d550",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\images\\helloworld-1-cs-phone.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "wdg-cpub-test\\ndolci\\get-started\\create-a-hello-world-app-xaml-universal.md"
+      ],
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\images\\helloworld-1-cs-phone.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\fe46ccdeb8be5e2282351e3918e84b1ebba0d550.png",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "6202620f9a2e0b2205a70103f8d32e6b041ec3dd": {
+      "FileHash": "6202620f9a2e0b2205a70103f8d32e6b041ec3dd",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\images\\helloworld-2-cs-phone.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "wdg-cpub-test\\ndolci\\get-started\\create-a-hello-world-app-xaml-universal.md"
+      ],
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\images\\helloworld-2-cs-phone.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\6202620f9a2e0b2205a70103f8d32e6b041ec3dd.png",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "c3371241a87d4d18e6ecca12cf9a004a185b7b3b": {
+      "FileHash": "c3371241a87d4d18e6ecca12cf9a004a185b7b3b",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\enable-your-device-for-development.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\enable-your-device-for-development.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\enable-your-device-for-development.19b66aafca4f72280d15c2a09d13299c5f0df9ca.de-de.xlf",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "ead1d64ee6515974a434ea77c4ef0f14031d8958": {
+      "FileHash": "ead1d64ee6515974a434ea77c4ef0f14031d8958",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\images\\latestenabledialog.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "wdg-cpub-test\\ndolci\\get-started\\enable-your-device-for-development.md"
+      ],
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\images\\latestenabledialog.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\ead1d64ee6515974a434ea77c4ef0f14031d8958.png",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "834e44aa121a8071febd7e495e0d14b9a1da8e10": {
+      "FileHash": "834e44aa121a8071febd7e495e0d14b9a1da8e10",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\images\\devmode-pc-options.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "wdg-cpub-test\\ndolci\\get-started\\enable-your-device-for-development.md"
+      ],
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\images\\devmode-pc-options.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\834e44aa121a8071febd7e495e0d14b9a1da8e10.png",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "1226f248f29981f9645e7dd833eb9ff80f5d0202": {
+      "FileHash": "1226f248f29981f9645e7dd833eb9ff80f5d0202",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\images\\devmode-mob.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "wdg-cpub-test\\ndolci\\get-started\\enable-your-device-for-development.md"
+      ],
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\images\\devmode-mob.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\1226f248f29981f9645e7dd833eb9ff80f5d0202.png",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "d209a2f9e87fbd7e39a595fe28ebb9479355b46b": {
+      "FileHash": "d209a2f9e87fbd7e39a595fe28ebb9479355b46b",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\images\\devmode-mob-options.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "wdg-cpub-test\\ndolci\\get-started\\enable-your-device-for-development.md"
+      ],
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\images\\devmode-mob-options.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\d209a2f9e87fbd7e39a595fe28ebb9479355b46b.png",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "1efd7c8d330b047d6d3e90afc4824597e33b2964": {
+      "FileHash": "1efd7c8d330b047d6d3e90afc4824597e33b2964",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\images\\devmode-mob-pairing.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "wdg-cpub-test\\ndolci\\get-started\\enable-your-device-for-development.md"
+      ],
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\images\\devmode-mob-pairing.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\1efd7c8d330b047d6d3e90afc4824597e33b2964.png",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "67a8d613493a7b1d6fdda3d7eeae0ab23043d07d": {
+      "FileHash": "67a8d613493a7b1d6fdda3d7eeae0ab23043d07d",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\images\\devportal-phone.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "wdg-cpub-test\\ndolci\\get-started\\enable-your-device-for-development.md"
+      ],
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\images\\devportal-phone.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\67a8d613493a7b1d6fdda3d7eeae0ab23043d07d.png",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "46b6f0dd49dd16ae8364d050cd7684b496e2b9e6": {
+      "FileHash": "46b6f0dd49dd16ae8364d050cd7684b496e2b9e6",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\images\\devmode-mob-portal.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "wdg-cpub-test\\ndolci\\get-started\\enable-your-device-for-development.md"
+      ],
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\images\\devmode-mob-portal.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\46b6f0dd49dd16ae8364d050cd7684b496e2b9e6.png",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "304e784045299b79bdfd5790392d109ba1707285": {
+      "FileHash": "304e784045299b79bdfd5790392d109ba1707285",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\get-set-up.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\get-set-up.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\get-set-up.babc59c9961166a70650fdf786e789c02290b146.de-de.xlf",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "af7ae74ff384ec99718a9fe214cd34de2b087cc6": {
+      "FileHash": "af7ae74ff384ec99718a9fe214cd34de2b087cc6",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\learn-more.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\learn-more.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\learn-more.324c2f678ef1aaa7dbb4d71c40294d18e82fd028.de-de.xlf",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "2bdbbb1efdfca0228a2ff30e9db9753cf0f64407": {
+      "FileHash": "2bdbbb1efdfca0228a2ff30e9db9753cf0f64407",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\managing-your-profile.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\managing-your-profile.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\managing-your-profile.ebbcfbe1ef73ddb575c8d42d6e2261141fac8ce0.de-de.xlf",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "244914c38b9416387a29bbbf6bb359b530503876": {
+      "FileHash": "244914c38b9416387a29bbbf6bb359b530503876",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\opening-a-developer-account.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\opening-a-developer-account.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\opening-a-developer-account.c5014ce1f7ed7ae62c2805ae3ae54a3fbc1217cf.de-de.xlf",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "67cfa427e62bb80d9e1de3f3be341a42170b02a6": {
+      "FileHash": "67cfa427e62bb80d9e1de3f3be341a42170b02a6",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\sign-up.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\sign-up.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\sign-up.4c3b5dff85b6c25beae78d7b7851b95e75c10e41.de-de.xlf",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "5525645ef13c8b88d884e572c2404cfa4c845194": {
+      "FileHash": "5525645ef13c8b88d884e572c2404cfa4c845194",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\whats-a-uwp.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\whats-a-uwp.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\whats-a-uwp.85a8e88e7ff949c2301f47a0ab85938dc70d88a4.de-de.xlf",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "4f8012f1dc022c207aa7ff6729bc5c660712b582": {
+      "FileHash": "4f8012f1dc022c207aa7ff6729bc5c660712b582",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\images\\1894834-hig-device-primer-01-500.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "wdg-cpub-test\\ndolci\\get-started\\whats-a-uwp.md"
+      ],
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\images\\1894834-hig-device-primer-01-500.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\4f8012f1dc022c207aa7ff6729bc5c660712b582.png",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "4ab7d9d8e95bbf35d926cdc482f557232ce2b5b8": {
+      "FileHash": "4ab7d9d8e95bbf35d926cdc482f557232ce2b5b8",
+      "SourceFileCommit": "b61661d97fbb86da1bb70c583b758ef90a639930",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\get-started\\your-first-app.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci\\get-started\\your-first-app.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\your-first-app.b1cf4bd6666221c93f4840c14a93fcb5e5b37993.de-de.xlf",
+      "HandoffFileCommit": "fac5bf6cb787a2426a91be05eacc7af2209955f9",
+      "HandoffDateTime": "2016-02-03T03:40:37.954425Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
