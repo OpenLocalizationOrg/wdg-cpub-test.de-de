@@ -464,5 +464,149 @@
   ],
   "4ab7d9d8e95bbf35d926cdc482f557232ce2b5b8": [
     "wdg-cpub-test\\ndolci\\get-started\\your-first-app.md"
+  ],
+  "be88c0d132c573bfc8958ccbc8fc9b95718b0321": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\best-practices-for-your-app-s-startup-performance.md"
+  ],
+  "f1edb548dee0c9f192acedc13d7ba31c1bb4728e": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\live-visual-tree.png"
+  ],
+  "737b2a64d7a96bc90c19a10d4e754e2c2f075b98": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\beta-testing.md"
+  ],
+  "3e0f69dac4bda8a9f481d74dda8740da2d6fc268": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\debugging-and-testing-apps-portal.md"
+  ],
+  "cfedddf73b38bcbd5099260d271accfeefcbfcb7": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\deploying-and-debugging-uwp-apps.md"
+  ],
+  "de64362d21f090b76586193191ed6df624521fd0": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\debug-device-target-list.png"
+  ],
+  "3c13afd3c3794a7173390bb719c152d2be9ae622": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\debug-remote-connections.png"
+  ],
+  "b57f6bfba888a9cb57bfc2242b3c6d9b65867b52": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\debug-remote-machine-config.png"
+  ],
+  "be67298c637f11a63d6f7973c658b7d7258fbc96": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\debug-property-pages.png"
+  ],
+  "048a75c84f26aa5538b036d1f5a8649f92aed5cb": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\improve-garbage-collection-performance.md"
+  ],
+  "61034c9ad90b04e14b6af0cb82151b3dbd833f9c": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\index.md"
+  ],
+  "397e9052630e502710429e61453740ab7828f1cf": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\keep-the-ui-thread-responsive.md"
+  ],
+  "6d661cd0e37976c81cddea56d307ab47e322ef9d": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\listview-and-gridview-data-optimization.md"
+  ],
+  "d7ec7fb242eaddc508823a67716860807c7a2ec3": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\mvvm-performance-tips.md"
+  ],
+  "d490d2a7fb51e7008748809bc4822871e4193cca": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\optimize-animations-and-media.md"
+  ],
+  "37eeaaeaec2acf7ee51ab3cfa7b145faae08388f": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\videowithoverlay.png"
+  ],
+  "6d1a9a148c0284c7eb58787e97562dad238d89e8": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\videowithneighbors.png"
+  ],
+  "7a6f02b929b55b11323fa326ee56b46379ea9b6c": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\optimize-file-access.md"
+  ],
+  "768b7a3560e479b40655006b006142cd81a6fcab": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\optimize-gridview-and-listview.md"
+  ],
+  "e4782444dda3df8c9940f2f2ae6d897b90474738": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\optimize-suspend-resume.md"
+  ],
+  "8af4044cd67c6200c1095ac0ef5b0d96cc8dfc08": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\optimize-xaml-loading.md"
+  ],
+  "b8cb5db84b4f8675c88c6f2a68299770f9f2895b": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\solidvenn.png"
+  ],
+  "294384ee98e324679fafb2b71b289a893394c8b9": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\translucentvenn.png"
+  ],
+  "5aed046a3158e54e637895797b325dde6aec44e8": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\optimize-your-xaml-layout.md"
+  ],
+  "7a21e1ce72a44d286995acbb76a4813054f87533": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\layout-perf-ex1.png"
+  ],
+  "055fc04e0997c7ab9ee8da2762587fd01d8b949f": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\layout-perf-ex2.png"
+  ],
+  "70174df9d165e4b9845ed2300000bf0dd5718905": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\layout-perf-ex3.png"
+  ],
+  "214e972e0239ce7feb783fb3447b22e94361cfef": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\performance-and-xaml-ui.md"
+  ],
+  "3d982bde6c957170d32e27786632ae0c4c239794": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\planning-and-measuring-performance.md"
+  ],
+  "ad044a75e03fe997f96397348c0c5021d1979999": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\test-with-the-emulator.md"
+  ],
+  "ea673383ad3164af72a73e80425c7e4b0982aa42": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\em-list.png"
+  ],
+  "e273d46684a3fe6d157892b7db4999dce035401c": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\emulator-with-mouse-enabled.png"
+  ],
+  "fe7567cf0d82bf502aeb102aac071fd560b0d47e": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\emulator-showing-mouse-input-button-bar.png"
+  ],
+  "45ff0e690ec5ac6c1e2db1c789cf558851cdd672": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\emulator-nfc-proximity.png"
+  ],
+  "32a52771b9a99c2d29c8b77f37b880bbdbdf612d": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\emulator-nfc-hce.png"
+  ],
+  "8330a2966313c8c81bf3082cccf18cdfd97612c0": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\em-multipoint.png"
+  ],
+  "3b5af7218d84235781ffc7e51764f154365f4ec7": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\em-accelerometer.png"
+  ],
+  "2ac42acfeb68e181714b37fd7d6675f8484fc294": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\em-drive.png"
+  ],
+  "ca8c6bd1bba1a76f7e2fcc4673b055f7768a9631": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\em-network.png"
+  ],
+  "fbead21ab5fb26b1f04a0cdb0c39770106cbc2f0": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\em-sdcard.png"
+  ],
+  "f7abe9d85d0dc10b263ebbe90fe9f3d72a1069a3": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\em-notifications.png"
+  ],
+  "8f814bc4fa6eb794dc1d2d21fce479f2093ee76d": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\em-sensors.png"
+  ],
+  "49d5c6b9b25d3dee65e09aeb7726c3695132bc60": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\em-frameratecounters.png"
+  ],
+  "8f40f64f2e00f88fba1ec94593d27a1b67c781d9": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\tools-for-profiling-and-performance.md"
+  ],
+  "a187a45bfeb3b92d77bf5bab0fccd99e8249cf7d": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\windows-app-certification-kit-tests.md"
+  ],
+  "b3aa1ffc57a489f3a54b8c2d0d629889ec67038d": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\windows-app-certification-kit.md"
+  ],
+  "57cb81d8450d3d71b421ae77536872d244b3e509": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\windows-runtime-components-and-optimizing-interop.md"
+  ],
+  "68f2e5c1d62a0d70574037395b80f1d0c70fb43a": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\interop-transitions.png"
   ]
 }
