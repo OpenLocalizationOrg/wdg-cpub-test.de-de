@@ -608,5 +608,155 @@
   ],
   "68f2e5c1d62a0d70574037395b80f1d0c70fb43a": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\interop-transitions.png"
+  ],
+  "c103e66504ab4b9a3756fac36a8f9d98ca9c9cde": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\aep-service-class-ids.md"
+  ],
+  "0b09a8c2db2f5b95c859ebc9fca1836648495317": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\bluetooth.md"
+  ],
+  "c89f6ce329999b80f1db978fcbecaf26ac6581ac": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\build-a-device-selector.md"
+  ],
+  "0874bb83fa13a28a65cb078f1d7d1cfb5ea5babc": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\calibrate-sensors.md"
+  ],
+  "0d54435494e25794492314ea2b6b195d57bfba9e": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\customize-the-print-preview-ui.md"
+  ],
+  "3472c03607d175eb035af43b5031a58cb710b3ec": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\device-information-properties.md"
+  ],
+  "e2ec538c17a3387dfca692ada49aeea5342fbd9a": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\enable-device-capabilities.md"
+  ],
+  "1e45b813bb59c1c92dc98602387180ae11d43249": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\ap-tools.png"
+  ],
+  "a71c22649f233483aa63e2e2a60277e64c2d007d": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\enumerate-devices-over-a-network.md"
+  ],
+  "600056e9d2eaf3f410428f12e7f21e3d00911b57": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\enumerate-devices.md"
+  ],
+  "c126bac0f54e4623a2c4cad92232fecd526d491e": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\epson-esc-pos-with-formatting.md"
+  ],
+  "6be3595796d13730b7bc1345d85828314d5925a7": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\gatt-scenarios.md"
+  ],
+  "a598d060504de24ed866dba1ce053866d53d495e": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\get-battery-info.md"
+  ],
+  "2d1fa53aea846db7bcba6caa86dc661a2453d1d1": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\host-card-emulation.md"
+  ],
+  "58236135d6c51eeca583aa62721d60d2244a3f69": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\nfc-architecture.png"
+  ],
+  "d0ca1c2b792d95199b7c692d4be7852a6413440d": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\nfc-settings.png"
+  ],
+  "ed2e8f2a6446157d8b9e8203187c2511de67c2b0": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\index.md"
+  ],
+  "b699966ff42592315712b31af9cb988f1bf491c4": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\pair-devices.md"
+  ],
+  "1c87aafa49fcda98adb14d3c24547f5f99f2c686": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\print-from-your-app.md"
+  ],
+  "ae20f9950305c6993d40fcb1056b5ba2a6bbb777": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\printing-and-scanning.md"
+  ],
+  "4c3e627e012ab8de22ced3409fbfe90e6874a4c6": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\scan-from-your-app.md"
+  ],
+  "c0dca85e790f9ee5a341df0a26425eef4f8c2af4": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\send-or-receive-files-with-rfcomm.md"
+  ],
+  "82667297691be83e91bde76fd47c8521e9c572d5": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\sensor-orientation.md"
+  ],
+  "d1dfac2bf4fd565909a296de37cdcc7d88b2f66c": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\accelerometer-axis-orientation-landscape-with-text.png"
+  ],
+  "280322bf9a41f156f092e9b52d1c6536c386e27b": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\accelerometer-axis-orientation-landscape-180-with-text.png"
+  ],
+  "4da08a6e9faf12bb5dc7caf4f346dc50ae378ac8": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\accelerometer-axis-orientation-landscape-180-with-text-inverted.png"
+  ],
+  "db61344d5f58e7e9974e86abc07dd44c3429167a": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\accelerometer-axis-orientation-landscape.png"
+  ],
+  "c19c414d13095c61971d3d0fe7ef2820bfb0d6cc": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\accelerometer-axis-orientation-portrait-270.png"
+  ],
+  "c43ef20d6b9d6422c0306d81e891e519666e3310": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\accelerometer-axis-orientation-landscape-90.png"
+  ],
+  "002511e038f43b765ad0e70703796fa3f6f1f54a": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\accelerometer-axis-orientation-portrait.png"
+  ],
+  "dc7225c2a9f6ad98c98e4e02eeecc555288b4157": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\accelerometer-axis-orientation-landscape-180.png"
+  ],
+  "85ca5217a6a62cad158009e9c26a5a9e4607b82a": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\accelerometer-axis-orientation-portrait-90.png"
+  ],
+  "0d10b05a511c945d903d6bd82be796202912d483": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\accelerometer-axis-orientation-landscape-270.png"
+  ],
+  "90c7ecda71cf0000fd5b8bb0adfd17e1e0e03dfd": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\accelerometer-axis-orientation-portrait-180.png"
+  ],
+  "4f625926cc2e273d91c1f0179fc5bb3e78fbf3ad": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\eulers-formula.png"
+  ],
+  "7245ab445177e9240f9294539c5fa108ccf52add": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\orientation-formula.png"
+  ],
+  "fd4c27b6fbef674c5c4f63b01083db888cdd1fe6": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\sensors.md"
+  ],
+  "5f0f8f74ecf3a67cf978683559ec0994695068fe": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\batchsample.png"
+  ],
+  "34ce1ba42c93457b28691e358831a508597b298f": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\accelerometer1.png"
+  ],
+  "ad405137416569d6e655743fbf94c8c80f93755c": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\accelerometer2.png"
+  ],
+  "6e4afeadfe36ce4b91f6c9617ee00814924f2770": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\compass.png"
+  ],
+  "6084dfebd13ad8f42139027580920b2c316db9a0": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\gyrometer.png"
+  ],
+  "edd67b20e8ca923aedcc76f7ee4726c2d302c972": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\inclinometer.png"
+  ],
+  "7551619cd5856be67a81dd891dd7b75cafa45877": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\orientation-sensor.png"
+  ],
+  "ff7cf9d6a8f71496688b8f1daabf928c6265ed30": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\use-the-accelerometer.md"
+  ],
+  "c6694ef614387b3e68e0f2d1101043520e5ebc72": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\use-the-compass.md"
+  ],
+  "847b9bafac7af83c5840194c2965418d42fdac42": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\use-the-gyrometer.md"
+  ],
+  "a4e8cf19a03fcaf68b7ddbd99657e8b5e1aa810a": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\use-the-inclinometer.md"
+  ],
+  "23ef6e2231e0cd55f1d342ec7c24c14016f3a61c": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\use-the-light-sensor.md"
+  ],
+  "2a517942d67a59f7b9ce4449d24a9a4d9ff3471d": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\use-the-orientation-sensor.md"
   ]
 }
