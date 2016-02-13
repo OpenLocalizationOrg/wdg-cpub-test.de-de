@@ -1,39 +1,11 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 2
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [wdg-cpub-test\ndolci\get-started\account-types-locations-and-fees.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b61661d97fbb86da1bb70c583b758ef90a639930/wdg-cpub-test/ndolci/get-started/account-types-locations-and-fees.md) | InSyncHandedBackSuccess | [Details](#a811782d50fa2fa17af563769176befbe4cdc15f139)
- [wdg-cpub-test\ndolci\get-started\enable-your-device-for-development.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b61661d97fbb86da1bb70c583b758ef90a639930/wdg-cpub-test/ndolci/get-started/enable-your-device-for-development.md) | InSyncHandedBackSuccess | [Details](#c3371241a87d4d18e6ecca12cf9a004a185b7b3b143)
 
 ## Item Details
-##### <a name='a811782d50fa2fa17af563769176befbe4cdc15f139'></a> Source: [wdg-cpub-test\ndolci\get-started\account-types-locations-and-fees.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b61661d97fbb86da1bb70c583b758ef90a639930/wdg-cpub-test/ndolci/get-started/account-types-locations-and-fees.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [wdg-cpub-test\ndolci\get-started\account-types-locations-and-fees.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.de-de/blob/eb74d501267534d5aa09083b892ea841288b403a/wdg-cpub-test/ndolci/get-started/account-types-locations-and-fees.md)
-* Handoff File: [account-types-locations-and-fees.206483d37e2cea3de35a893b6c5c4f041d2ea97b.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fac5bf6cb787a2426a91be05eacc7af2209955f9/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.de-de/master/account-types-locations-and-fees.206483d37e2cea3de35a893b6c5c4f041d2ea97b.de-de.xlf)
-* Handoff Datetime: 2016-02-03 03:40:37
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: [account-types-locations-and-fees.206483d37e2cea3de35a893b6c5c4f041d2ea97b.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/5cdebced30c873b9715cf5d840ca03781f4c375f/ol-handback/OpenLocalizationOrg/wdg-cpub-test.de-de/master/account-types-locations-and-fees.206483d37e2cea3de35a893b6c5c4f041d2ea97b.de-de.xlf)
-* Handback Datetime: 2016-02-13 04:24:40
-* [Back to Top](#report-top)
-
-##### <a name='c3371241a87d4d18e6ecca12cf9a004a185b7b3b143'></a> Source: [wdg-cpub-test\ndolci\get-started\enable-your-device-for-development.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b61661d97fbb86da1bb70c583b758ef90a639930/wdg-cpub-test/ndolci/get-started/enable-your-device-for-development.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [wdg-cpub-test\ndolci\get-started\enable-your-device-for-development.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.de-de/blob/eb74d501267534d5aa09083b892ea841288b403a/wdg-cpub-test/ndolci/get-started/enable-your-device-for-development.md)
-* Handoff File: [enable-your-device-for-development.19b66aafca4f72280d15c2a09d13299c5f0df9ca.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fac5bf6cb787a2426a91be05eacc7af2209955f9/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.de-de/master/enable-your-device-for-development.19b66aafca4f72280d15c2a09d13299c5f0df9ca.de-de.xlf)
-* Handoff Datetime: 2016-02-03 03:40:37
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: [enable-your-device-for-development.19b66aafca4f72280d15c2a09d13299c5f0df9ca.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/5cdebced30c873b9715cf5d840ca03781f4c375f/ol-handback/OpenLocalizationOrg/wdg-cpub-test.de-de/master/enable-your-device-for-development.19b66aafca4f72280d15c2a09d13299c5f0df9ca.de-de.xlf)
-* Handback Datetime: 2016-02-13 04:24:40
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
