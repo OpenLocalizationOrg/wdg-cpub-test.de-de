@@ -5,12 +5,12 @@
  -------- | ----- 
  Total Files | 567
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 218
+[ Handoff Success Files ](#handoff-success-list)| 216
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 1
-[ In Sync Handback Files ](#insync-handback-success-list)| 35
+[ In Sync Handback Files ](#insync-handback-success-list)| 37
 [ Ignored Files ](#ignored-list)| 313
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
@@ -116,11 +116,9 @@
  [wdg-cpub-test\ndolci\devices-sensors\use-the-inclinometer.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/41820f626337ff90a64a44e1a48fe425239db86c/wdg-cpub-test/ndolci/devices-sensors/use-the-inclinometer.md) | HandedOffSuccess | [Details](#a4e8cf19a03fcaf68b7ddbd99657e8b5e1aa810a136)
  [wdg-cpub-test\ndolci\devices-sensors\use-the-light-sensor.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/41820f626337ff90a64a44e1a48fe425239db86c/wdg-cpub-test/ndolci/devices-sensors/use-the-light-sensor.md) | HandedOffSuccess | [Details](#23ef6e2231e0cd55f1d342ec7c24c14016f3a61c137)
  [wdg-cpub-test\ndolci\devices-sensors\use-the-orientation-sensor.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/41820f626337ff90a64a44e1a48fe425239db86c/wdg-cpub-test/ndolci/devices-sensors/use-the-orientation-sensor.md) | HandedOffSuccess | [Details](#2a517942d67a59f7b9ce4449d24a9a4d9ff3471d138)
- [wdg-cpub-test\ndolci\get-started\account-types-locations-and-fees.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b61661d97fbb86da1bb70c583b758ef90a639930/wdg-cpub-test/ndolci/get-started/account-types-locations-and-fees.md) | HandedOffSuccess | [Details](#a811782d50fa2fa17af563769176befbe4cdc15f139)
  [wdg-cpub-test\ndolci\get-started\create-a-basic-windows-10-app-in-cpp.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b61661d97fbb86da1bb70c583b758ef90a639930/wdg-cpub-test/ndolci/get-started/create-a-basic-windows-10-app-in-cpp.md) | HandedOffSuccess | [Details](#17294c2cf635d564b100396040857e391a7d0148140)
  [wdg-cpub-test\ndolci\get-started\create-a-hello-world-app-js-universal.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b61661d97fbb86da1bb70c583b758ef90a639930/wdg-cpub-test/ndolci/get-started/create-a-hello-world-app-js-universal.md) | HandedOffSuccess | [Details](#ae5aa65882c104dffaff24d978d2c7a7b54d81f4141)
  [wdg-cpub-test\ndolci\get-started\create-a-hello-world-app-xaml-universal.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b61661d97fbb86da1bb70c583b758ef90a639930/wdg-cpub-test/ndolci/get-started/create-a-hello-world-app-xaml-universal.md) | HandedOffSuccess | [Details](#995f312629e7b918b85704fdedcda68dbbc08dc8142)
- [wdg-cpub-test\ndolci\get-started\enable-your-device-for-development.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b61661d97fbb86da1bb70c583b758ef90a639930/wdg-cpub-test/ndolci/get-started/enable-your-device-for-development.md) | HandedOffSuccess | [Details](#c3371241a87d4d18e6ecca12cf9a004a185b7b3b143)
  [wdg-cpub-test\ndolci\get-started\get-set-up.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b61661d97fbb86da1bb70c583b758ef90a639930/wdg-cpub-test/ndolci/get-started/get-set-up.md) | HandedOffSuccess | [Details](#304e784045299b79bdfd5790392d109ba1707285144)
  [wdg-cpub-test\ndolci\get-started\images\1894834-hig-device-primer-01-500.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/41820f626337ff90a64a44e1a48fe425239db86c/wdg-cpub-test/ndolci/get-started/images/1894834-hig-device-primer-01-500.png) | HandedOffSuccess | [Details](#4f8012f1dc022c207aa7ff6729bc5c660712b582149)
  [wdg-cpub-test\ndolci\get-started\images\devmode-mob.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/41820f626337ff90a64a44e1a48fe425239db86c/wdg-cpub-test/ndolci/get-started/images/devmode-mob.png) | HandedOffSuccess | [Details](#1226f248f29981f9645e7dd833eb9ff80f5d0202169)
@@ -281,6 +279,8 @@
  [wdg-cpub-test\lizross\images\SendintranettoIE.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/lizross/images/SendintranettoIE.png) | InSyncHandedBackSuccess | [Details](#13db3344d2ab0ff7d5350584470566ac2b128e1238)
  [wdg-cpub-test\lizross\msedge_deployment_guide_for_it_pros.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/lizross/msedge_deployment_guide_for_it_pros.md) | InSyncHandedBackSuccess | [Details](#83798705e69956b02a318460bed8affa5c0e7c7939)
  [wdg-cpub-test\macapara\macapara.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/macapara/macapara.md) | InSyncHandedBackSuccess | [Details](#7bba6bedea2fc998a7102e9f9a822c89f580921c40)
+ [wdg-cpub-test\ndolci\get-started\account-types-locations-and-fees.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b61661d97fbb86da1bb70c583b758ef90a639930/wdg-cpub-test/ndolci/get-started/account-types-locations-and-fees.md) | InSyncHandedBackSuccess | [Details](#a811782d50fa2fa17af563769176befbe4cdc15f139)
+ [wdg-cpub-test\ndolci\get-started\enable-your-device-for-development.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b61661d97fbb86da1bb70c583b758ef90a639930/wdg-cpub-test/ndolci/get-started/enable-your-device-for-development.md) | InSyncHandedBackSuccess | [Details](#c3371241a87d4d18e6ecca12cf9a004a185b7b3b143)
  [wdg-cpub-test\tedhudek\markdown-tips.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/tedhudek/markdown-tips.md) | InSyncHandedBackSuccess | [Details](#c24bc1363e530c71c8a263f6e9c8743a949642d8491)
  [wdg-cpub-test\tedhudek\tedhudek-home.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/tedhudek/tedhudek-home.md) | InSyncHandedBackSuccess | [Details](#347bd1181dc590d634f5032591cc574f3786c982492)
  [wdg-cpub-test\tedhudek\wdcml-to-open-publish.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/tedhudek/wdcml-to-open-publish.md) | InSyncHandedBackSuccess | [Details](#65a5708190ddfe0bc61006985f5c3f17eafc8656493)
@@ -2335,15 +2335,15 @@
 * [Back to Top](#report-top)
 
 ##### <a name='a811782d50fa2fa17af563769176befbe4cdc15f139'></a> Source: [wdg-cpub-test\ndolci\get-started\account-types-locations-and-fees.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b61661d97fbb86da1bb70c583b758ef90a639930/wdg-cpub-test/ndolci/get-started/account-types-locations-and-fees.md)
-* Status: HandedOffSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [wdg-cpub-test\ndolci\get-started\account-types-locations-and-fees.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.de-de/blob/eb74d501267534d5aa09083b892ea841288b403a/wdg-cpub-test/ndolci/get-started/account-types-locations-and-fees.md)
 * Handoff File: [account-types-locations-and-fees.206483d37e2cea3de35a893b6c5c4f041d2ea97b.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fac5bf6cb787a2426a91be05eacc7af2209955f9/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.de-de/master/account-types-locations-and-fees.206483d37e2cea3de35a893b6c5c4f041d2ea97b.de-de.xlf)
 * Handoff Datetime: 2016-02-03 03:40:37
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [account-types-locations-and-fees.206483d37e2cea3de35a893b6c5c4f041d2ea97b.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/5cdebced30c873b9715cf5d840ca03781f4c375f/ol-handback/OpenLocalizationOrg/wdg-cpub-test.de-de/master/account-types-locations-and-fees.206483d37e2cea3de35a893b6c5c4f041d2ea97b.de-de.xlf)
+* Handback Datetime: 2016-02-13 04:24:40
 * [Back to Top](#report-top)
 
 ##### <a name='17294c2cf635d564b100396040857e391a7d0148140'></a> Source: [wdg-cpub-test\ndolci\get-started\create-a-basic-windows-10-app-in-cpp.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b61661d97fbb86da1bb70c583b758ef90a639930/wdg-cpub-test/ndolci/get-started/create-a-basic-windows-10-app-in-cpp.md)
@@ -2383,15 +2383,15 @@
 * [Back to Top](#report-top)
 
 ##### <a name='c3371241a87d4d18e6ecca12cf9a004a185b7b3b143'></a> Source: [wdg-cpub-test\ndolci\get-started\enable-your-device-for-development.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b61661d97fbb86da1bb70c583b758ef90a639930/wdg-cpub-test/ndolci/get-started/enable-your-device-for-development.md)
-* Status: HandedOffSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [wdg-cpub-test\ndolci\get-started\enable-your-device-for-development.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.de-de/blob/eb74d501267534d5aa09083b892ea841288b403a/wdg-cpub-test/ndolci/get-started/enable-your-device-for-development.md)
 * Handoff File: [enable-your-device-for-development.19b66aafca4f72280d15c2a09d13299c5f0df9ca.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fac5bf6cb787a2426a91be05eacc7af2209955f9/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.de-de/master/enable-your-device-for-development.19b66aafca4f72280d15c2a09d13299c5f0df9ca.de-de.xlf)
 * Handoff Datetime: 2016-02-03 03:40:37
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [enable-your-device-for-development.19b66aafca4f72280d15c2a09d13299c5f0df9ca.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/5cdebced30c873b9715cf5d840ca03781f4c375f/ol-handback/OpenLocalizationOrg/wdg-cpub-test.de-de/master/enable-your-device-for-development.19b66aafca4f72280d15c2a09d13299c5f0df9ca.de-de.xlf)
+* Handback Datetime: 2016-02-13 04:24:40
 * [Back to Top](#report-top)
 
 ##### <a name='304e784045299b79bdfd5790392d109ba1707285144'></a> Source: [wdg-cpub-test\ndolci\get-started\get-set-up.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b61661d97fbb86da1bb70c583b758ef90a639930/wdg-cpub-test/ndolci/get-started/get-set-up.md)
