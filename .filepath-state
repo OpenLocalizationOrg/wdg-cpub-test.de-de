@@ -311,88 +311,19 @@
   "3ce2fdf00618bcc50d2d3b9454a1c522096e9053": [
     "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\TargetPlatform.png"
   ],
-  "d0712383af8e62261a0adf84be3a2af8e5941e64": [
-    "wdg-cpub-test\\ndolci\\get-started\\account-types-locations-and-fees.md"
-  ],
-  "a811782d50fa2fa17af563769176befbe4cdc15f": [
-    "wdg-cpub-test\\ndolci\\get-started\\account-types-locations-and-fees.md"
-  ],
-  "177121810537c3cd09359162fbcf03ac5d716d2c": [
-    "wdg-cpub-test\\ndolci\\get-started\\create-a-basic-windows-10-app-in-cpp.md"
-  ],
-  "17294c2cf635d564b100396040857e391a7d0148": [
-    "wdg-cpub-test\\ndolci\\get-started\\create-a-basic-windows-10-app-in-cpp.md"
-  ],
-  "941aead4b3a389c79271b42fcc6db108451e6877": [
-    "wdg-cpub-test\\ndolci\\get-started\\create-a-hello-world-app-js-universal.md"
-  ],
-  "ae5aa65882c104dffaff24d978d2c7a7b54d81f4": [
-    "wdg-cpub-test\\ndolci\\get-started\\create-a-hello-world-app-js-universal.md"
-  ],
-  "5922031b97a00757abbbd856bcaf02daca0e557e": [
-    "wdg-cpub-test\\ndolci\\get-started\\create-a-hello-world-app-xaml-universal.md"
-  ],
-  "995f312629e7b918b85704fdedcda68dbbc08dc8": [
-    "wdg-cpub-test\\ndolci\\get-started\\create-a-hello-world-app-xaml-universal.md"
-  ],
-  "ee2bde728bf1df26366c8e59e3c787effa97c0d5": [
-    "wdg-cpub-test\\ndolci\\get-started\\enable-your-device-for-development.md"
-  ],
-  "c3371241a87d4d18e6ecca12cf9a004a185b7b3b": [
-    "wdg-cpub-test\\ndolci\\get-started\\enable-your-device-for-development.md"
-  ],
-  "5a92b2591e7157c09dc3c54b1eb271e28f7d60b4": [
-    "wdg-cpub-test\\ndolci\\get-started\\get-set-up.md"
-  ],
-  "304e784045299b79bdfd5790392d109ba1707285": [
-    "wdg-cpub-test\\ndolci\\get-started\\get-set-up.md"
-  ],
-  "743e8333cf77ef7e2ea8d21a82c53009d750cd85": [
-    "wdg-cpub-test\\ndolci\\get-started\\learn-more.md"
-  ],
-  "af7ae74ff384ec99718a9fe214cd34de2b087cc6": [
-    "wdg-cpub-test\\ndolci\\get-started\\learn-more.md"
-  ],
-  "5412c65acbca0604ade4e0a60871e14d0bab775c": [
-    "wdg-cpub-test\\ndolci\\get-started\\managing-your-profile.md"
-  ],
-  "2bdbbb1efdfca0228a2ff30e9db9753cf0f64407": [
-    "wdg-cpub-test\\ndolci\\get-started\\managing-your-profile.md"
-  ],
-  "e1247f7cc6f8c3744d50810c03d8652e8a24a372": [
-    "wdg-cpub-test\\ndolci\\get-started\\opening-a-developer-account.md"
-  ],
-  "244914c38b9416387a29bbbf6bb359b530503876": [
-    "wdg-cpub-test\\ndolci\\get-started\\opening-a-developer-account.md"
-  ],
-  "b251660b79f7076f636a9c8c55a60363e07530da": [
-    "wdg-cpub-test\\ndolci\\get-started\\sign-up.md"
-  ],
-  "67cfa427e62bb80d9e1de3f3be341a42170b02a6": [
-    "wdg-cpub-test\\ndolci\\get-started\\sign-up.md"
-  ],
-  "57d668427430b0edf3acd47e25b469426c55b718": [
-    "wdg-cpub-test\\ndolci\\get-started\\whats-a-uwp.md"
-  ],
-  "5525645ef13c8b88d884e572c2404cfa4c845194": [
-    "wdg-cpub-test\\ndolci\\get-started\\whats-a-uwp.md"
-  ],
-  "c2d9bae6d92f4612f946ce9b5b0c30da0a09d93d": [
-    "wdg-cpub-test\\ndolci\\get-started\\your-first-app.md"
-  ],
-  "4ab7d9d8e95bbf35d926cdc482f557232ce2b5b8": [
-    "wdg-cpub-test\\ndolci\\get-started\\your-first-app.md"
+  "be88c0d132c573bfc8958ccbc8fc9b95718b0321": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\best-practices-for-your-app-s-startup-performance.md"
   ],
   "3ffac924055e1e889766b85257d76504d1ad8c2f": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\best-practices-for-your-app-s-startup-performance.md"
   ],
-  "be88c0d132c573bfc8958ccbc8fc9b95718b0321": [
-    "wdg-cpub-test\\ndolci\\debug-test-perf\\best-practices-for-your-app-s-startup-performance.md"
-  ],
-  "4304643a25282e02cfca174eb4d4d23576e64f0d": [
-    "wdg-cpub-test\\ndolci\\debug-test-perf\\beta-testing.md"
+  "f1edb548dee0c9f192acedc13d7ba31c1bb4728e": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\live-visual-tree.png"
   ],
   "737b2a64d7a96bc90c19a10d4e754e2c2f075b98": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\beta-testing.md"
+  ],
+  "4304643a25282e02cfca174eb4d4d23576e64f0d": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\beta-testing.md"
   ],
   "3e0f69dac4bda8a9f481d74dda8740da2d6fc268": [
@@ -401,661 +332,502 @@
   "cfedddf73b38bcbd5099260d271accfeefcbfcb7": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\deploying-and-debugging-uwp-apps.md"
   ],
-  "ba46c6704901447e6957cfa6c9366dc8fc36b2ea": [
-    "wdg-cpub-test\\ndolci\\debug-test-perf\\improve-garbage-collection-performance.md"
+  "de64362d21f090b76586193191ed6df624521fd0": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\debug-device-target-list.png"
+  ],
+  "3c13afd3c3794a7173390bb719c152d2be9ae622": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\debug-remote-connections.png"
+  ],
+  "b57f6bfba888a9cb57bfc2242b3c6d9b65867b52": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\debug-remote-machine-config.png"
+  ],
+  "be67298c637f11a63d6f7973c658b7d7258fbc96": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\debug-property-pages.png"
   ],
   "048a75c84f26aa5538b036d1f5a8649f92aed5cb": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\improve-garbage-collection-performance.md"
   ],
-  "a5ddb41bb030c88f74f4f2bc14cfd9a54f1a9219": [
-    "wdg-cpub-test\\ndolci\\debug-test-perf\\index.md"
+  "ba46c6704901447e6957cfa6c9366dc8fc36b2ea": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\improve-garbage-collection-performance.md"
   ],
   "61034c9ad90b04e14b6af0cb82151b3dbd833f9c": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\index.md"
   ],
-  "9c4b26f71a9ecfff90ef2644b91bd9881dfb3f68": [
-    "wdg-cpub-test\\ndolci\\debug-test-perf\\keep-the-ui-thread-responsive.md"
+  "a5ddb41bb030c88f74f4f2bc14cfd9a54f1a9219": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\index.md"
   ],
   "397e9052630e502710429e61453740ab7828f1cf": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\keep-the-ui-thread-responsive.md"
   ],
-  "26550a65aa68daf6c0a97975305a20f84733822d": [
-    "wdg-cpub-test\\ndolci\\debug-test-perf\\listview-and-gridview-data-optimization.md"
+  "9c4b26f71a9ecfff90ef2644b91bd9881dfb3f68": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\keep-the-ui-thread-responsive.md"
   ],
   "6d661cd0e37976c81cddea56d307ab47e322ef9d": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\listview-and-gridview-data-optimization.md"
   ],
-  "fe8c385a9f94116e69011245b666c706a07ec806": [
-    "wdg-cpub-test\\ndolci\\debug-test-perf\\mvvm-performance-tips.md"
+  "26550a65aa68daf6c0a97975305a20f84733822d": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\listview-and-gridview-data-optimization.md"
   ],
   "d7ec7fb242eaddc508823a67716860807c7a2ec3": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\mvvm-performance-tips.md"
   ],
-  "590d41f5e2dba044b0355aa5cf2291f6f2e17a0b": [
-    "wdg-cpub-test\\ndolci\\debug-test-perf\\optimize-animations-and-media.md"
+  "fe8c385a9f94116e69011245b666c706a07ec806": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\mvvm-performance-tips.md"
   ],
   "d490d2a7fb51e7008748809bc4822871e4193cca": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\optimize-animations-and-media.md"
   ],
-  "a2d03960d15536a7350bd48d0f37ddcd89a1d9b8": [
-    "wdg-cpub-test\\ndolci\\debug-test-perf\\optimize-file-access.md"
+  "590d41f5e2dba044b0355aa5cf2291f6f2e17a0b": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\optimize-animations-and-media.md"
+  ],
+  "37eeaaeaec2acf7ee51ab3cfa7b145faae08388f": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\videowithoverlay.png"
+  ],
+  "6d1a9a148c0284c7eb58787e97562dad238d89e8": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\videowithneighbors.png"
   ],
   "7a6f02b929b55b11323fa326ee56b46379ea9b6c": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\optimize-file-access.md"
   ],
-  "b4923b2cae33b625fb88fc0c3659b70071406365": [
-    "wdg-cpub-test\\ndolci\\debug-test-perf\\optimize-gridview-and-listview.md"
+  "a2d03960d15536a7350bd48d0f37ddcd89a1d9b8": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\optimize-file-access.md"
   ],
   "768b7a3560e479b40655006b006142cd81a6fcab": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\optimize-gridview-and-listview.md"
   ],
-  "288e8ba1982cd469d5c14ae5f07376325a5531a7": [
-    "wdg-cpub-test\\ndolci\\debug-test-perf\\optimize-suspend-resume.md"
+  "b4923b2cae33b625fb88fc0c3659b70071406365": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\optimize-gridview-and-listview.md"
   ],
   "e4782444dda3df8c9940f2f2ae6d897b90474738": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\optimize-suspend-resume.md"
   ],
-  "3fa7c0e3360635282968078432798793de8da191": [
-    "wdg-cpub-test\\ndolci\\debug-test-perf\\optimize-xaml-loading.md"
+  "288e8ba1982cd469d5c14ae5f07376325a5531a7": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\optimize-suspend-resume.md"
   ],
   "8af4044cd67c6200c1095ac0ef5b0d96cc8dfc08": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\optimize-xaml-loading.md"
   ],
-  "e36152b1446788ffd387cea77fdc64914284366c": [
-    "wdg-cpub-test\\ndolci\\debug-test-perf\\optimize-your-xaml-layout.md"
+  "3fa7c0e3360635282968078432798793de8da191": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\optimize-xaml-loading.md"
+  ],
+  "b8cb5db84b4f8675c88c6f2a68299770f9f2895b": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\solidvenn.png"
+  ],
+  "294384ee98e324679fafb2b71b289a893394c8b9": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\translucentvenn.png"
   ],
   "5aed046a3158e54e637895797b325dde6aec44e8": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\optimize-your-xaml-layout.md"
   ],
-  "93096acf7e39a74921f1e1424f9efce1c14c830a": [
-    "wdg-cpub-test\\ndolci\\debug-test-perf\\performance-and-xaml-ui.md"
+  "e36152b1446788ffd387cea77fdc64914284366c": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\optimize-your-xaml-layout.md"
+  ],
+  "7a21e1ce72a44d286995acbb76a4813054f87533": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\layout-perf-ex1.png"
+  ],
+  "055fc04e0997c7ab9ee8da2762587fd01d8b949f": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\layout-perf-ex2.png"
+  ],
+  "70174df9d165e4b9845ed2300000bf0dd5718905": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\layout-perf-ex3.png"
   ],
   "214e972e0239ce7feb783fb3447b22e94361cfef": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\performance-and-xaml-ui.md"
   ],
-  "82c901361fc011e115bd30e15dd935636f03d3f0": [
-    "wdg-cpub-test\\ndolci\\debug-test-perf\\planning-and-measuring-performance.md"
+  "93096acf7e39a74921f1e1424f9efce1c14c830a": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\performance-and-xaml-ui.md"
   ],
   "3d982bde6c957170d32e27786632ae0c4c239794": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\planning-and-measuring-performance.md"
   ],
-  "922db6fb58819e64094b8aa50ffca6f6385d41c6": [
-    "wdg-cpub-test\\ndolci\\debug-test-perf\\test-with-the-emulator.md"
+  "82c901361fc011e115bd30e15dd935636f03d3f0": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\planning-and-measuring-performance.md"
   ],
   "ad044a75e03fe997f96397348c0c5021d1979999": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\test-with-the-emulator.md"
   ],
-  "e619f11107c41b4fe6fe191d96ed719c80a8b84b": [
-    "wdg-cpub-test\\ndolci\\debug-test-perf\\tools-for-profiling-and-performance.md"
+  "922db6fb58819e64094b8aa50ffca6f6385d41c6": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\test-with-the-emulator.md"
+  ],
+  "ea673383ad3164af72a73e80425c7e4b0982aa42": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\em-list.png"
+  ],
+  "e273d46684a3fe6d157892b7db4999dce035401c": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\emulator-with-mouse-enabled.png"
+  ],
+  "fe7567cf0d82bf502aeb102aac071fd560b0d47e": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\emulator-showing-mouse-input-button-bar.png"
+  ],
+  "45ff0e690ec5ac6c1e2db1c789cf558851cdd672": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\emulator-nfc-proximity.png"
+  ],
+  "32a52771b9a99c2d29c8b77f37b880bbdbdf612d": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\emulator-nfc-hce.png"
+  ],
+  "8330a2966313c8c81bf3082cccf18cdfd97612c0": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\em-multipoint.png"
+  ],
+  "3b5af7218d84235781ffc7e51764f154365f4ec7": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\em-accelerometer.png"
+  ],
+  "2ac42acfeb68e181714b37fd7d6675f8484fc294": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\em-drive.png"
+  ],
+  "ca8c6bd1bba1a76f7e2fcc4673b055f7768a9631": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\em-network.png"
+  ],
+  "fbead21ab5fb26b1f04a0cdb0c39770106cbc2f0": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\em-sdcard.png"
+  ],
+  "f7abe9d85d0dc10b263ebbe90fe9f3d72a1069a3": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\em-notifications.png"
+  ],
+  "8f814bc4fa6eb794dc1d2d21fce479f2093ee76d": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\em-sensors.png"
+  ],
+  "49d5c6b9b25d3dee65e09aeb7726c3695132bc60": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\em-frameratecounters.png"
   ],
   "8f40f64f2e00f88fba1ec94593d27a1b67c781d9": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\tools-for-profiling-and-performance.md"
   ],
-  "e2cdf2a383a90d8bce8c02a00dac6385fe039b78": [
-    "wdg-cpub-test\\ndolci\\debug-test-perf\\windows-app-certification-kit-tests.md"
+  "e619f11107c41b4fe6fe191d96ed719c80a8b84b": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\tools-for-profiling-and-performance.md"
   ],
   "a187a45bfeb3b92d77bf5bab0fccd99e8249cf7d": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\windows-app-certification-kit-tests.md"
   ],
-  "393f3a9bd0d8060a440137b8461fb89f68cdb4f5": [
-    "wdg-cpub-test\\ndolci\\debug-test-perf\\windows-app-certification-kit.md"
+  "e2cdf2a383a90d8bce8c02a00dac6385fe039b78": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\windows-app-certification-kit-tests.md"
   ],
   "b3aa1ffc57a489f3a54b8c2d0d629889ec67038d": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\windows-app-certification-kit.md"
   ],
-  "d858541428718056914ed11472464391f788d07f": [
-    "wdg-cpub-test\\ndolci\\debug-test-perf\\windows-runtime-components-and-optimizing-interop.md"
+  "393f3a9bd0d8060a440137b8461fb89f68cdb4f5": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\windows-app-certification-kit.md"
   ],
   "57cb81d8450d3d71b421ae77536872d244b3e509": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\windows-runtime-components-and-optimizing-interop.md"
   ],
-  "6b693f18c99c31e744497428a8b405204d7c69d3": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\aep-service-class-ids.md"
+  "d858541428718056914ed11472464391f788d07f": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\windows-runtime-components-and-optimizing-interop.md"
+  ],
+  "68f2e5c1d62a0d70574037395b80f1d0c70fb43a": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\interop-transitions.png"
   ],
   "c103e66504ab4b9a3756fac36a8f9d98ca9c9cde": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\aep-service-class-ids.md"
   ],
-  "75d55b591cd207215302b327b520f2eb0ab5fb93": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\bluetooth.md"
+  "6b693f18c99c31e744497428a8b405204d7c69d3": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\aep-service-class-ids.md"
   ],
   "0b09a8c2db2f5b95c859ebc9fca1836648495317": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\bluetooth.md"
   ],
-  "fdc5470c3b2e911f370e6f2b26a0c1608f194cab": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\build-a-device-selector.md"
+  "75d55b591cd207215302b327b520f2eb0ab5fb93": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\bluetooth.md"
   ],
   "c89f6ce329999b80f1db978fcbecaf26ac6581ac": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\build-a-device-selector.md"
   ],
-  "50b1e94a910d6742ee4a4a4d26bec5a04ef94444": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\calibrate-sensors.md"
+  "fdc5470c3b2e911f370e6f2b26a0c1608f194cab": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\build-a-device-selector.md"
   ],
   "0874bb83fa13a28a65cb078f1d7d1cfb5ea5babc": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\calibrate-sensors.md"
   ],
-  "66dc4a7824d767244892ec923b422ced83bfcdf2": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\customize-the-print-preview-ui.md"
+  "50b1e94a910d6742ee4a4a4d26bec5a04ef94444": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\calibrate-sensors.md"
   ],
   "0d54435494e25794492314ea2b6b195d57bfba9e": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\customize-the-print-preview-ui.md"
   ],
-  "164d63f97a88838b8f43ad501c7bde9f1c60bde6": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\device-information-properties.md"
+  "66dc4a7824d767244892ec923b422ced83bfcdf2": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\customize-the-print-preview-ui.md"
   ],
   "3472c03607d175eb035af43b5031a58cb710b3ec": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\device-information-properties.md"
   ],
-  "896d0466b1b60a08e555eea39823c3059284210a": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\enable-device-capabilities.md"
+  "164d63f97a88838b8f43ad501c7bde9f1c60bde6": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\device-information-properties.md"
   ],
   "e2ec538c17a3387dfca692ada49aeea5342fbd9a": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\enable-device-capabilities.md"
   ],
-  "dc14cb7f060fc8b0b65a6a6e744c0ea41448272a": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\enumerate-devices-over-a-network.md"
+  "896d0466b1b60a08e555eea39823c3059284210a": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\enable-device-capabilities.md"
+  ],
+  "1e45b813bb59c1c92dc98602387180ae11d43249": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\ap-tools.png"
   ],
   "a71c22649f233483aa63e2e2a60277e64c2d007d": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\enumerate-devices-over-a-network.md"
   ],
-  "5e313a5fe607c19dc894b42153956c9d90ff1f92": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\enumerate-devices.md"
+  "dc14cb7f060fc8b0b65a6a6e744c0ea41448272a": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\enumerate-devices-over-a-network.md"
   ],
   "600056e9d2eaf3f410428f12e7f21e3d00911b57": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\enumerate-devices.md"
   ],
-  "15046b9b3ce1dd577d4477fc40c0a10aa46f41d1": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\epson-esc-pos-with-formatting.md"
+  "5e313a5fe607c19dc894b42153956c9d90ff1f92": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\enumerate-devices.md"
   ],
   "c126bac0f54e4623a2c4cad92232fecd526d491e": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\epson-esc-pos-with-formatting.md"
   ],
-  "731f10276c48850bda9636fc3f11aa6609cef53b": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\gatt-scenarios.md"
+  "15046b9b3ce1dd577d4477fc40c0a10aa46f41d1": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\epson-esc-pos-with-formatting.md"
   ],
   "6be3595796d13730b7bc1345d85828314d5925a7": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\gatt-scenarios.md"
   ],
-  "6b080e58e6641062cf9806ea6b7c9f6b6ad90d0b": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\get-battery-info.md"
+  "731f10276c48850bda9636fc3f11aa6609cef53b": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\gatt-scenarios.md"
   ],
   "a598d060504de24ed866dba1ce053866d53d495e": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\get-battery-info.md"
   ],
-  "59e3ccb66bcab4e9b24e160d889a25d7623724ef": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\host-card-emulation.md"
+  "6b080e58e6641062cf9806ea6b7c9f6b6ad90d0b": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\get-battery-info.md"
   ],
   "2d1fa53aea846db7bcba6caa86dc661a2453d1d1": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\host-card-emulation.md"
   ],
-  "76fcca2074aabf97e1fd4ec84e0dc02ac71ca242": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\index.md"
+  "59e3ccb66bcab4e9b24e160d889a25d7623724ef": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\host-card-emulation.md"
+  ],
+  "58236135d6c51eeca583aa62721d60d2244a3f69": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\nfc-architecture.png"
+  ],
+  "d0ca1c2b792d95199b7c692d4be7852a6413440d": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\nfc-settings.png"
   ],
   "ed2e8f2a6446157d8b9e8203187c2511de67c2b0": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\index.md"
   ],
-  "6abdd7d04a0bc87fcd75797baaafcd9c9e07505b": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\pair-devices.md"
+  "76fcca2074aabf97e1fd4ec84e0dc02ac71ca242": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\index.md"
   ],
   "b699966ff42592315712b31af9cb988f1bf491c4": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\pair-devices.md"
   ],
-  "37b2884af1267d59858f4ff2535c6b787e27e766": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\print-from-your-app.md"
+  "6abdd7d04a0bc87fcd75797baaafcd9c9e07505b": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\pair-devices.md"
   ],
   "1c87aafa49fcda98adb14d3c24547f5f99f2c686": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\print-from-your-app.md"
   ],
-  "1c2c8588bacb03820375344b1c6233f196f50ec5": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\printing-and-scanning.md"
+  "37b2884af1267d59858f4ff2535c6b787e27e766": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\print-from-your-app.md"
   ],
   "ae20f9950305c6993d40fcb1056b5ba2a6bbb777": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\printing-and-scanning.md"
   ],
-  "ada98e12d8d2ac555f4d7f785e95a00c1aa8bf9f": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\scan-from-your-app.md"
+  "1c2c8588bacb03820375344b1c6233f196f50ec5": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\printing-and-scanning.md"
   ],
   "4c3e627e012ab8de22ced3409fbfe90e6874a4c6": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\scan-from-your-app.md"
   ],
-  "aaca69215c43166c76ddc0a1bb50941c39ae8ebd": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\send-or-receive-files-with-rfcomm.md"
+  "ada98e12d8d2ac555f4d7f785e95a00c1aa8bf9f": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\scan-from-your-app.md"
   ],
   "c0dca85e790f9ee5a341df0a26425eef4f8c2af4": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\send-or-receive-files-with-rfcomm.md"
   ],
-  "9b14f1c2887a3e1178dc7161189f2817e101cce5": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\sensor-orientation.md"
+  "aaca69215c43166c76ddc0a1bb50941c39ae8ebd": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\send-or-receive-files-with-rfcomm.md"
   ],
   "82667297691be83e91bde76fd47c8521e9c572d5": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\sensor-orientation.md"
   ],
-  "df5d20a4f6d3945bdc94f791003d68576ca3b95e": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\sensors.md"
+  "9b14f1c2887a3e1178dc7161189f2817e101cce5": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\sensor-orientation.md"
+  ],
+  "d1dfac2bf4fd565909a296de37cdcc7d88b2f66c": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\accelerometer-axis-orientation-landscape-with-text.png"
+  ],
+  "280322bf9a41f156f092e9b52d1c6536c386e27b": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\accelerometer-axis-orientation-landscape-180-with-text.png"
+  ],
+  "4da08a6e9faf12bb5dc7caf4f346dc50ae378ac8": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\accelerometer-axis-orientation-landscape-180-with-text-inverted.png"
+  ],
+  "db61344d5f58e7e9974e86abc07dd44c3429167a": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\accelerometer-axis-orientation-landscape.png"
+  ],
+  "c19c414d13095c61971d3d0fe7ef2820bfb0d6cc": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\accelerometer-axis-orientation-portrait-270.png"
+  ],
+  "c43ef20d6b9d6422c0306d81e891e519666e3310": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\accelerometer-axis-orientation-landscape-90.png"
+  ],
+  "002511e038f43b765ad0e70703796fa3f6f1f54a": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\accelerometer-axis-orientation-portrait.png"
+  ],
+  "dc7225c2a9f6ad98c98e4e02eeecc555288b4157": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\accelerometer-axis-orientation-landscape-180.png"
+  ],
+  "85ca5217a6a62cad158009e9c26a5a9e4607b82a": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\accelerometer-axis-orientation-portrait-90.png"
+  ],
+  "0d10b05a511c945d903d6bd82be796202912d483": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\accelerometer-axis-orientation-landscape-270.png"
+  ],
+  "90c7ecda71cf0000fd5b8bb0adfd17e1e0e03dfd": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\accelerometer-axis-orientation-portrait-180.png"
+  ],
+  "4f625926cc2e273d91c1f0179fc5bb3e78fbf3ad": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\eulers-formula.png"
+  ],
+  "7245ab445177e9240f9294539c5fa108ccf52add": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\orientation-formula.png"
   ],
   "fd4c27b6fbef674c5c4f63b01083db888cdd1fe6": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\sensors.md"
   ],
-  "b36d1de8928ce0e2f5376adacb474fd884bc939a": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\use-the-accelerometer.md"
+  "df5d20a4f6d3945bdc94f791003d68576ca3b95e": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\sensors.md"
+  ],
+  "5f0f8f74ecf3a67cf978683559ec0994695068fe": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\batchsample.png"
+  ],
+  "34ce1ba42c93457b28691e358831a508597b298f": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\accelerometer1.png"
+  ],
+  "ad405137416569d6e655743fbf94c8c80f93755c": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\accelerometer2.png"
+  ],
+  "6e4afeadfe36ce4b91f6c9617ee00814924f2770": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\compass.png"
+  ],
+  "6084dfebd13ad8f42139027580920b2c316db9a0": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\gyrometer.png"
+  ],
+  "edd67b20e8ca923aedcc76f7ee4726c2d302c972": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\inclinometer.png"
+  ],
+  "7551619cd5856be67a81dd891dd7b75cafa45877": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\images\\orientation-sensor.png"
   ],
   "ff7cf9d6a8f71496688b8f1daabf928c6265ed30": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\use-the-accelerometer.md"
   ],
-  "c53cdd87dc3a3c5d06ad573d015742eb0b1b0c6e": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\use-the-compass.md"
+  "b36d1de8928ce0e2f5376adacb474fd884bc939a": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\use-the-accelerometer.md"
   ],
   "c6694ef614387b3e68e0f2d1101043520e5ebc72": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\use-the-compass.md"
   ],
-  "2d3790d8738eb2599ec5fd0c3dcd26606c9f5c5d": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\use-the-gyrometer.md"
+  "c53cdd87dc3a3c5d06ad573d015742eb0b1b0c6e": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\use-the-compass.md"
   ],
   "847b9bafac7af83c5840194c2965418d42fdac42": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\use-the-gyrometer.md"
   ],
-  "d7903bfba8e7a3d6c8640975f0f175b8cf3f3bd3": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\use-the-inclinometer.md"
+  "2d3790d8738eb2599ec5fd0c3dcd26606c9f5c5d": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\use-the-gyrometer.md"
   ],
   "a4e8cf19a03fcaf68b7ddbd99657e8b5e1aa810a": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\use-the-inclinometer.md"
   ],
-  "8178f9c7cd019b4080b0a4c725755d5666689e12": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\use-the-light-sensor.md"
+  "d7903bfba8e7a3d6c8640975f0f175b8cf3f3bd3": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\use-the-inclinometer.md"
   ],
   "23ef6e2231e0cd55f1d342ec7c24c14016f3a61c": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\use-the-light-sensor.md"
   ],
-  "41668fe4b3e74e7e87354a3c0c81e34cf0fdc249": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\use-the-orientation-sensor.md"
+  "8178f9c7cd019b4080b0a4c725755d5666689e12": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\use-the-light-sensor.md"
   ],
   "2a517942d67a59f7b9ce4449d24a9a4d9ff3471d": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\use-the-orientation-sensor.md"
   ],
-  "0aab48fe8730861223bfef2c49caea9d1db8aaf0": [
-    "wdg-cpub-test\\ndolci\\app-to-app\\copy-and-paste.md"
+  "41668fe4b3e74e7e87354a3c0c81e34cf0fdc249": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\use-the-orientation-sensor.md"
   ],
-  "23cb0dafe7afdbe10fbf31094ed6ba7886f7e67e": [
-    "wdg-cpub-test\\ndolci\\app-to-app\\drag-and-drop.md"
-  ],
-  "2ce00fcbc15b2528886f773509f76214696fda75": [
-    "wdg-cpub-test\\ndolci\\app-to-app\\index.md"
-  ],
-  "0ec2875d4a647b4e1ab96105f0542f67d8d32174": [
-    "wdg-cpub-test\\ndolci\\app-to-app\\receive-data.md"
-  ],
-  "b34d0b68388aa72abab4f30bf7e41d6707195b19": [
-    "wdg-cpub-test\\ndolci\\app-to-app\\share-data.md"
-  ],
-  "37acbf3b8bdcf7f3c18f70ec8f9fdde5f986e458": [
-    "wdg-cpub-test\\ndolci\\contacts-and-calendar\\index.md"
-  ],
-  "6ddd7c58d0990f856bed7512b4f19f88fbf921f6": [
-    "wdg-cpub-test\\ndolci\\contacts-and-calendar\\managing-appointments.md"
-  ],
-  "007e676257bcd6b11332baf98582703d23f3abd3": [
-    "wdg-cpub-test\\ndolci\\contacts-and-calendar\\selecting-contacts.md"
-  ],
-  "88704dcaec3f258a8d0eb43b33721d4f31cc0a75": [
-    "wdg-cpub-test\\ndolci\\contacts-and-calendar\\sending-an-sms-message.md"
-  ],
-  "aace8855fa91c6375887e9837f67f911502e6748": [
-    "wdg-cpub-test\\ndolci\\contacts-and-calendar\\sending-email.md"
-  ],
-  "bd5a8e7ad96ebb906cd4c3eacf40aff236af3357": [
-    "wdg-cpub-test\\ndolci\\data-access\\entity-framework-7-with-sqlite-for-csharp-apps.md"
-  ],
-  "76404ac78178634ceb026fe5baace6b730c0dbcb": [
-    "wdg-cpub-test\\ndolci\\data-access\\index.md"
-  ],
-  "05eb57a5bf36f152ffc4466424d5a1f7ae28fa16": [
-    "wdg-cpub-test\\ndolci\\data-access\\sqlite-databases.md"
-  ],
-  "a8c0c6842ba7b9c67fd946a851ad4367d0b27267": [
-    "wdg-cpub-test\\ndolci\\data-binding\\data-binding-in-depth.md"
-  ],
-  "f0532ae52404ed117d2c9cf369c6290cd1d5c595": [
-    "wdg-cpub-test\\ndolci\\data-binding\\data-binding-quickstart.md"
-  ],
-  "f9a087407671e3d81447777a52531e0663e01d4d": [
-    "wdg-cpub-test\\ndolci\\data-binding\\displaying-data-in-the-designer.md"
-  ],
-  "1a7852b945f351f3012a68daad18857f00ab9b76": [
-    "wdg-cpub-test\\ndolci\\data-binding\\how-to-bind-to-hierarchical-data-and-create-a-master-details-view.md"
-  ],
-  "05077cfa25a79cdd5edfbe0bbc5d4bbc8025be35": [
-    "wdg-cpub-test\\ndolci\\data-binding\\index.md"
-  ],
-  "e64b900db1615119be038c914ba63c21167ea8b0": [
-    "wdg-cpub-test\\ndolci\\enterprise\\index.md"
+  "254fb7dabe51081c017a674e64e78d9b7401e2a1": [
+    "wdg-cpub-test\\ndolci\\files\\access-the-sd-card.md"
   ],
   "f4c841b70be3956963925a6385ecc97a6d1b3237": [
     "wdg-cpub-test\\ndolci\\files\\access-the-sd-card.md"
   ],
+  "2b16e149a84dc1273676164a9e353cb68d99ff56": [
+    "wdg-cpub-test\\ndolci\\files\\file-access-permissions.md"
+  ],
   "b5dfa9fa2c29b79359612f7381669481ed401033": [
     "wdg-cpub-test\\ndolci\\files\\file-access-permissions.md"
+  ],
+  "cf55c6bafedfced3fe74ddb819446de8f0b3a1ba": [
+    "wdg-cpub-test\\ndolci\\files\\how-to-track-recently-used-files-and-folders.md"
   ],
   "04bf92c3cf80ae85aeaf6df8e5fef7390d9408da": [
     "wdg-cpub-test\\ndolci\\files\\how-to-track-recently-used-files-and-folders.md"
   ],
+  "393b2ce0f3858fed078d593d0a6c1862c4c90548": [
+    "wdg-cpub-test\\ndolci\\files\\index.md"
+  ],
   "a11b02e4f35de86ccafdf504b5d046146f5e8812": [
     "wdg-cpub-test\\ndolci\\files\\index.md"
+  ],
+  "66f54e44cf1292ef6551415dccfec16fe103a799": [
+    "wdg-cpub-test\\ndolci\\files\\quickstart-accessing-homegroup-content.md"
   ],
   "2a4442dbf05da1984d4a5a8d130a7df5b5e54ebd": [
     "wdg-cpub-test\\ndolci\\files\\quickstart-accessing-homegroup-content.md"
   ],
+  "c9e0d72ff7446a92325989688ac5f2f66c4e0e4d": [
+    "wdg-cpub-test\\ndolci\\files\\quickstart-determining-availability-of-microsoft-onedrive-files.md"
+  ],
   "8e692467519fbfe5980d9eb5cb6bbd214136de19": [
     "wdg-cpub-test\\ndolci\\files\\quickstart-determining-availability-of-microsoft-onedrive-files.md"
+  ],
+  "ee7cedb1acd4cc270cfd01f6fde2e87c39dc4e91": [
+    "wdg-cpub-test\\ndolci\\files\\quickstart-getting-file-properties.md"
   ],
   "59d55fca2318c55b0716eded385eea291267aa76": [
     "wdg-cpub-test\\ndolci\\files\\quickstart-getting-file-properties.md"
   ],
+  "0198b7b94a6e25e85535d90b8086931ad47658dc": [
+    "wdg-cpub-test\\ndolci\\files\\quickstart-listing-files-and-folders.md"
+  ],
   "fba0f4ef00356d776a7c78eb4402b68b7ca1d2b3": [
     "wdg-cpub-test\\ndolci\\files\\quickstart-listing-files-and-folders.md"
+  ],
+  "11243e70d4592565b217b82c049164ce36e515de": [
+    "wdg-cpub-test\\ndolci\\files\\quickstart-managing-folders-in-the-music-pictures-and-videos-libraries.md"
   ],
   "2c98baa80ab5a2b1f7d8cf470e8808cdb45f415d": [
     "wdg-cpub-test\\ndolci\\files\\quickstart-managing-folders-in-the-music-pictures-and-videos-libraries.md"
   ],
+  "3d2e88a25dd1464063059ec2c07a9e34bf8cce45": [
+    "wdg-cpub-test\\ndolci\\files\\quickstart-reading-and-writing-files.md"
+  ],
   "09883d51570d6de736910da3bf3dc0288500e2ca": [
     "wdg-cpub-test\\ndolci\\files\\quickstart-reading-and-writing-files.md"
+  ],
+  "b16e1f4e40fd5089e180168ac61109833fa60f4f": [
+    "wdg-cpub-test\\ndolci\\files\\quickstart-save-a-file-with-a-picker.md"
   ],
   "b789b7910e93eeafca1c473b21d342545bd361be": [
     "wdg-cpub-test\\ndolci\\files\\quickstart-save-a-file-with-a-picker.md"
   ],
+  "33e9bd3116c540fb452378bfd3f8a8056863c188": [
+    "wdg-cpub-test\\ndolci\\files\\quickstart-using-file-and-folder-pickers.md"
+  ],
   "2323799f4960d9bfcfac6f99eb852a8a6568300d": [
     "wdg-cpub-test\\ndolci\\files\\quickstart-using-file-and-folder-pickers.md"
   ],
-  "ab7be29098105236c45e8990dd0cd36e9b0ba30c": [
-    "wdg-cpub-test\\ndolci\\graphics\\3-d-perspective-effects.md"
+  "9a5d025932240178a724c75df457cf6e2e3dead6": [
+    "wdg-cpub-test\\ndolci\\files\\images\\phone-media-locations.png"
   ],
-  "2fa0ffa67d6c2903b99534c4726dfde5073a6c1c": [
-    "wdg-cpub-test\\ndolci\\graphics\\animations-overview.md"
+  "c380c2394ff9d39c56af5f382a131a8460a4a136": [
+    "wdg-cpub-test\\ndolci\\files\\images\\phone-media-queries.png"
   ],
-  "2c93f2a215aa9b5e0a5b880a0cafaa790fb9b141": [
-    "wdg-cpub-test\\ndolci\\graphics\\images\\animation-child-rectangles.gif"
+  "6d4b6e3ac9146763af8ef8e02271aafa2047e50c": [
+    "wdg-cpub-test\\ndolci\\files\\images\\picker-multifile-600px.png"
   ],
-  "b97d7f75a9bd7eb21c15f969b78c354aefdb09c6": [
-    "wdg-cpub-test\\ndolci\\graphics\\composition-animation.md"
-  ],
-  "35dcae7a582f7ff74bce0ed8e9525aea0adc993a": [
-    "wdg-cpub-test\\ndolci\\graphics\\composition-brushes.md"
-  ],
-  "7e65e732b1a32b8ff503b5d95e11fef17c966977": [
-    "wdg-cpub-test\\ndolci\\graphics\\composition-effects.md"
-  ],
-  "aa06fa4d0dda5524ace7a2278cd49729c7a14c2e": [
-    "wdg-cpub-test\\ndolci\\graphics\\composition-native-interop.md"
-  ],
-  "0f49dc9a32861d10afe76ff6612d37720725eeee": [
-    "wdg-cpub-test\\ndolci\\graphics\\composition-visual-tree.md"
-  ],
-  "f71dd2fb2f144c3bc1b1a680837f6dfd8c84f925": [
-    "wdg-cpub-test\\ndolci\\graphics\\drawing-shapes.md"
-  ],
-  "612821e7db46ce0c7c851e32f984408125150829": [
-    "wdg-cpub-test\\ndolci\\graphics\\index.md"
-  ],
-  "7eb519c64fd9f0bc8b669c758b6aad0e9d4b4d5f": [
-    "wdg-cpub-test\\ndolci\\graphics\\key-frame-and-easing-function-animations.md"
-  ],
-  "f2a4e2045b7123f33987982d8d90d55c62721600": [
-    "wdg-cpub-test\\ndolci\\graphics\\storyboarded-animations.md"
-  ],
-  "bd147a56fcb996b5f11ae813c073f70a9c350afd": [
-    "wdg-cpub-test\\ndolci\\graphics\\transforms-overview.md"
-  ],
-  "01bedffa0a8a7b39869ac46bd788c487bba43903": [
-    "wdg-cpub-test\\ndolci\\graphics\\using-brushes.md"
-  ],
-  "131901914e922d9010d4927cc008c2d6fdf8d220": [
-    "wdg-cpub-test\\ndolci\\graphics\\visual-layer.md"
-  ],
-  "375e87fa4916836460a3f61e87753aa3dce66e95": [
-    "wdg-cpub-test\\ndolci\\networking\\background-transfers.md"
-  ],
-  "50d7dd1e35c9487042148ee2448733c9e4f62dcf": [
-    "wdg-cpub-test\\ndolci\\networking\\httpclient.md"
-  ],
-  "a9c0e6deaa76b995a98cbfb4c373065f8c635e4c": [
-    "wdg-cpub-test\\ndolci\\networking\\index.md"
-  ],
-  "6f10c85f1d1b2aad07573373a5e12445f773571f": [
-    "wdg-cpub-test\\ndolci\\networking\\network-communications-in-the-background.md"
-  ],
-  "c2cb4cffdd8252207df28eab2484bc40c430efc9": [
-    "wdg-cpub-test\\ndolci\\networking\\networking-basics.md"
-  ],
-  "fac16bf1b5d05f3693067fa29de2ec9638a1e644": [
-    "wdg-cpub-test\\ndolci\\networking\\sockets.md"
-  ],
-  "d7f8f3c6763641c5e2015eb78998590454a54bf1": [
-    "wdg-cpub-test\\ndolci\\networking\\web-feeds.md"
-  ],
-  "afdeb64341edcb977dadab00a0dc705e79c60809": [
-    "wdg-cpub-test\\ndolci\\networking\\websockets.md"
-  ],
-  "00de660fa7d41a6b9b0698d0857864d25036ace3": [
-    "wdg-cpub-test\\ndolci\\networking\\which-networking-technology.md"
-  ],
-  "105d625e5808815e96ff17c89a673406e87cab66": [
-    "wdg-cpub-test\\ndolci\\packaging\\app-capability-declarations.md"
-  ],
-  "1ae7107bf01e4ecf1a7e720be334164ed4b96925": [
-    "wdg-cpub-test\\ndolci\\packaging\\app_capability_declarations.md"
-  ],
-  "6b7e829169a788ec298a8537f4364dc1c20ad5b1": [
-    "wdg-cpub-test\\ndolci\\packaging\\index.md"
-  ],
-  "896c64a0ad4fc2506a5b2c84bb3d34fc624fb153": [
-    "wdg-cpub-test\\ndolci\\packaging\\install-universal-windows-apps-with-the-winappdeploycmd-tool.md"
-  ],
-  "139d07be50b0c20800d09f4fa81951d85912c5fb": [
-    "wdg-cpub-test\\ndolci\\packaging\\packaging-uwp-apps.md"
-  ],
-  "f25e6aa8324bc8d80d6741fde3d3b6b24611a78e": [
-    "wdg-cpub-test\\ndolci\\porting\\getting-started-animation.md"
-  ],
-  "4bf884718f447cb7b44c45fef46e854cf2d4b790": [
-    "wdg-cpub-test\\ndolci\\porting\\getting-started-choosing-a-programming-language.md"
-  ],
-  "7fbeaf25bc934ead801fb69a7e832d8376b37a98": [
-    "wdg-cpub-test\\ndolci\\porting\\getting-started-common-controls.md"
-  ],
-  "a8a93237486edab1572a08faff4370dafcc975e7": [
-    "wdg-cpub-test\\ndolci\\porting\\getting-started-creating-a-project.md"
-  ],
-  "53aa1138567bbb0d9d241783157c919df37402ac": [
-    "wdg-cpub-test\\ndolci\\porting\\getting-started-getting-around-in-visual-studio.md"
-  ],
-  "f73dce3d606ebe19a0b8f248f689e4a27f8836b9": [
-    "wdg-cpub-test\\ndolci\\porting\\getting-started-navigation.md"
-  ],
-  "4f7429fc30ca387f396b715bdea68993dad06797": [
-    "wdg-cpub-test\\ndolci\\porting\\getting-started-what-next.md"
-  ],
-  "df61d2fdec9e2cfea64f62f7a83c802e82f51b19": [
-    "wdg-cpub-test\\ndolci\\porting\\getting-started-with-uwp-for-ios-developers.md"
-  ],
-  "320ecb733af54921bd718d7990100b364cb67c42": [
-    "wdg-cpub-test\\ndolci\\porting\\index.md"
-  ],
-  "581637426430df2aec2ce82e3510b50c04a76377": [
-    "wdg-cpub-test\\ndolci\\porting\\ios-to-uwp-root.md"
-  ],
-  "953b961861ea1005cc5520e4793deee2d0d3716e": [
-    "wdg-cpub-test\\ndolci\\porting\\selecting-an-approach-to-ios-and-uwp-app-development.md"
-  ],
-  "ed8a73be55682e0e0711672d5be289abce7a2a5b": [
-    "wdg-cpub-test\\ndolci\\porting\\setting-up-your-mac-with-windows-10.md"
-  ],
-  "d445a197c7b6eb20441b93a5d875d71fb3185f3d": [
-    "wdg-cpub-test\\ndolci\\porting\\update-your-visual-studio-2015-rc-project-to-rtm.md"
-  ],
-  "79ab8aa9970da6242a7df1d7188ddf26904f0ee2": [
-    "wdg-cpub-test\\ndolci\\porting\\w8x-to-uwp-case-study-bookstore1.md"
-  ],
-  "39f2a044236075db56b19af6772314add1793a58": [
-    "wdg-cpub-test\\ndolci\\porting\\w8x-to-uwp-case-study-bookstore2.md"
-  ],
-  "bf63c274137f7fcdab8b09cf169ca9d0f44ea880": [
-    "wdg-cpub-test\\ndolci\\porting\\w8x-to-uwp-case-study-quizgame.md"
-  ],
-  "987e44b081f1d50dac2252a0a72f0ab7c1433b59": [
-    "wdg-cpub-test\\ndolci\\porting\\w8x-to-uwp-input-and-sensors.md"
-  ],
-  "035cc730b0c1bc0ec9f2f524e0ec5364a968445e": [
-    "wdg-cpub-test\\ndolci\\porting\\w8x-to-uwp-porting-to-a-uwp-project.md"
-  ],
-  "8958b5d1320d93bb3a4eb45902a845b0132f2c1b": [
-    "wdg-cpub-test\\ndolci\\porting\\w8x-to-uwp-porting-xaml-and-ui.md"
-  ],
-  "90592174d2fb48e7c4042593c846d4783fed6c22": [
-    "wdg-cpub-test\\ndolci\\porting\\w8x-to-uwp-root.md"
-  ],
-  "1c00debe4fb6d1c4bea3ecaaaa8ef38b5430b674": [
-    "wdg-cpub-test\\ndolci\\porting\\w8x-to-uwp-troubleshooting.md"
-  ],
-  "f390672135359088f9242f40ec78a7af2c0e31e4": [
-    "wdg-cpub-test\\ndolci\\porting\\wpsl-to-uwp-business-and-data.md"
-  ],
-  "ece006b1536428140f17872724ef4fa8a18ad243": [
-    "wdg-cpub-test\\ndolci\\porting\\wpsl-to-uwp-case-study-bookstore1.md"
-  ],
-  "e7a9ccda1b74e57d810adbecc46585098b594f7a": [
-    "wdg-cpub-test\\ndolci\\porting\\wpsl-to-uwp-case-study-bookstore2.md"
-  ],
-  "b6e33c1df9d6ddb9f45ea6882bdf20f059d6789e": [
-    "wdg-cpub-test\\ndolci\\porting\\wpsl-to-uwp-form-factors-and-ux.md"
-  ],
-  "643aa46fd5d69ea9d88ac8ee67428337fa4c0164": [
-    "wdg-cpub-test\\ndolci\\porting\\wpsl-to-uwp-input-and-sensors.md"
-  ],
-  "7edc8de3b71803be304e8fc376c24dd00bddc9ce": [
-    "wdg-cpub-test\\ndolci\\porting\\wpsl-to-uwp-namespace-and-class-mappings.md"
-  ],
-  "37aa4360e13b9b47620e9ef220d69ea10c0fb1cf": [
-    "wdg-cpub-test\\ndolci\\porting\\wpsl-to-uwp-porting-to-a-uwp-project.md"
-  ],
-  "4a9e71a4ec58278205bb325fd875959ff9948fb5": [
-    "wdg-cpub-test\\ndolci\\porting\\wpsl-to-uwp-porting-xaml-and-ui.md"
-  ],
-  "8bb04056efb465d1fd96e5379b5c2bd3a7a0de7d": [
-    "wdg-cpub-test\\ndolci\\porting\\wpsl-to-uwp-root.md"
-  ],
-  "cb09ba3c6a44ec7eef1ccb9e80609352582a0e3e": [
-    "wdg-cpub-test\\ndolci\\porting\\wpsl-to-uwp-troubleshooting.md"
-  ],
-  "63c440fabde53045f46313d4500b9a8109e4872e": [
-    "wdg-cpub-test\\ndolci\\threading-async\\asynchronous-programming-in-cpp-universal-windows-platform-apps.md"
-  ],
-  "fa9177b4d58a9f19bb76e05d2466867ab71b413d": [
-    "wdg-cpub-test\\ndolci\\threading-async\\asynchronous-programming-universal-windows-platform-apps.md"
-  ],
-  "93c48f2e8199e10237b148f6a3ea3a08a6703dac": [
-    "wdg-cpub-test\\ndolci\\threading-async\\best-practices-for-using-the-thread-pool.md"
-  ],
-  "234bd20caa6a3a40a35698a214b6ddab7c9e2f2c": [
-    "wdg-cpub-test\\ndolci\\threading-async\\call-asynchronous-apis-in-csharp-or-visual-basic.md"
-  ],
-  "ecf1ccbba7b55bf5715f78bb72822b83e25272df": [
-    "wdg-cpub-test\\ndolci\\threading-async\\create-a-periodic-work-item.md"
-  ],
-  "b34d9448dbe2707cb715e47eac11dfe64f74b5dc": [
-    "wdg-cpub-test\\ndolci\\threading-async\\index.md"
-  ],
-  "2d6bc6d750027e26359e24d4d95ad4c52d9c86e9": [
-    "wdg-cpub-test\\ndolci\\threading-async\\submit-a-work-item-to-the-thread-pool.md"
-  ],
-  "f418ec9cfe9f8f26b6c74e5b5ae42098f0e4f9cf": [
-    "wdg-cpub-test\\ndolci\\threading-async\\use-a-timer-to-submit-a-work-item.md"
-  ],
-  "a850b7222cfe3b44867d5935e770305fe689a4dd": [
-    "wdg-cpub-test\\ndolci\\xaml-platform\\attached-properties-overview.md"
-  ],
-  "08c085ae4e52a249bcaafe839f8baff8ca74c8d9": [
-    "wdg-cpub-test\\ndolci\\xaml-platform\\binding-markup-extension.md"
-  ],
-  "a19dbe77bc144522dc272c1ed941aa594223c13b": [
-    "wdg-cpub-test\\ndolci\\xaml-platform\\custom-attached-properties.md"
-  ],
-  "5b0e6979ede46c8b1f83dad880922b081dea3b9b": [
-    "wdg-cpub-test\\ndolci\\xaml-platform\\custom-dependency-properties.md"
-  ],
-  "fb2d2fcd4b5697c6ebf3f3c7b2123c85104c2939": [
-    "wdg-cpub-test\\ndolci\\xaml-platform\\customresource-markup-extension.md"
-  ],
-  "7861bde38fbc9fc845340181a98d550335a8368f": [
-    "wdg-cpub-test\\ndolci\\xaml-platform\\dependency-properties-overview.md"
-  ],
-  "42fd480f3101545088209f7c29d386ada4351b57": [
-    "wdg-cpub-test\\ndolci\\xaml-platform\\events-and-routed-events-overview.md"
-  ],
-  "e8b71d4e8ce1f2a9f960803c57b2563d82bec88e": [
-    "wdg-cpub-test\\ndolci\\xaml-platform\\index.md"
-  ],
-  "f971a8891a41542db8e6fb9b943db052849e8913": [
-    "wdg-cpub-test\\ndolci\\xaml-platform\\move-draw-commands-syntax.md"
-  ],
-  "ae1fb98bf424be747ca3b04696198940836415fa": [
-    "wdg-cpub-test\\ndolci\\xaml-platform\\property-path-syntax.md"
-  ],
-  "afccd56780f303dd8daf72267928a047385673df": [
-    "wdg-cpub-test\\ndolci\\xaml-platform\\relativesource-markup-extension.md"
-  ],
-  "3fdf144163d14ae3b0c6b5555ccb69b8c76872ef": [
-    "wdg-cpub-test\\ndolci\\xaml-platform\\staticresource-markup-extension.md"
-  ],
-  "321ba601c83b996d5e9a4edef60a52c3934216e7": [
-    "wdg-cpub-test\\ndolci\\xaml-platform\\template-settings-classes.md"
-  ],
-  "e6969bf7938c29b34f28c02e0f5c565be2ca2417": [
-    "wdg-cpub-test\\ndolci\\xaml-platform\\templatebinding-markup-extension.md"
-  ],
-  "d872648c0412de391a43d88c1425a9ddea44e6ed": [
-    "wdg-cpub-test\\ndolci\\xaml-platform\\themeresource-markup-extension.md"
-  ],
-  "f9fd26318405eb84683f96c7f0a7a4ccd6b16c8b": [
-    "wdg-cpub-test\\ndolci\\xaml-platform\\x-bind-markup-extension.md"
-  ],
-  "daca0d528ae54849d010e3799fa6ee299fe7d3f2": [
-    "wdg-cpub-test\\ndolci\\xaml-platform\\x-class-attribute.md"
-  ],
-  "1b4209d74a1dde9a4d5695d3e2f9e3bbec7568c4": [
-    "wdg-cpub-test\\ndolci\\xaml-platform\\x-deferloadstrategy-attribute.md"
-  ],
-  "bd458e994c7c5d0238d047e4dbd6737fd6f81ac5": [
-    "wdg-cpub-test\\ndolci\\xaml-platform\\x-fieldmodifier-attribute.md"
-  ],
-  "5d743d4e47a37b574ce51487cba1481fd322c86a": [
-    "wdg-cpub-test\\ndolci\\xaml-platform\\x-key-attribute.md"
-  ],
-  "167ae7ee519736967c5163e2c37e3ca1fd507a7d": [
-    "wdg-cpub-test\\ndolci\\xaml-platform\\x-name-attribute.md"
-  ],
-  "da6eebaaa0cfd6b9251373b99103dc215a33c87d": [
-    "wdg-cpub-test\\ndolci\\xaml-platform\\x-null-markup-extension.md"
-  ],
-  "8903c832f313ca522e07331a028d370aee039f58": [
-    "wdg-cpub-test\\ndolci\\xaml-platform\\x-phase-attribute.md"
-  ],
-  "5880add499ff902e320c9d594279444f28668da0": [
-    "wdg-cpub-test\\ndolci\\xaml-platform\\x-uid-directive.md"
-  ],
-  "01112910296923a767e3968f35d286e661cf29e5": [
-    "wdg-cpub-test\\ndolci\\xaml-platform\\xaml-and-whitespace.md"
-  ],
-  "2c36a6c3b75da75567b5bcd368812c98927b4a85": [
-    "wdg-cpub-test\\ndolci\\xaml-platform\\xaml-intrinsic-data-types.md"
-  ],
-  "67beb04cc87765a4c2edb249a61ba300cd9a7544": [
-    "wdg-cpub-test\\ndolci\\xaml-platform\\xaml-namescopes.md"
-  ],
-  "aa728d38443c3de70afd80a3c74c39fcba550a01": [
-    "wdg-cpub-test\\ndolci\\xaml-platform\\xaml-namespaces-and-namespace-mapping.md"
-  ],
-  "24db1e9e8da31e41b93757dac9fac381fd967853": [
-    "wdg-cpub-test\\ndolci\\xaml-platform\\xaml-overview.md"
-  ],
-  "0e35a20c8fa071afc349afb023936a5bc027cd03": [
-    "wdg-cpub-test\\ndolci\\xaml-platform\\xaml-syntax-guide.md"
+  "1223021b5904a53a7ae4f06400037d597608eeea": [
+    "wdg-cpub-test\\ndolci\\files\\images\\app-to-app-diagram-600px.png"
   ]
 }
