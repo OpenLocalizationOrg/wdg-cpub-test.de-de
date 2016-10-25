@@ -10049,6 +10049,1596 @@
       "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\723acbc7d73368987cca661541888e75522c5e02.fa1f096e782ca9ef4b110e5396a5e30cf3e88217.xml",
       "LocXliff": null,
       "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\create-build-folder-structure-ieak11.md.6425293d4afe0e977dee9a440e6f2539e3053868.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\create-build-folder-structure-ieak11.md",
+      "XliffHash": "6425293d4afe0e977dee9a440e6f2539e3053868",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\102dea7fcf5814c57918e1f9a31d6ad577bec420.d64f00e7669541a9c8b5a141fcc26c0438677c4b.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\install-ie11-using-system-center-configuration-manager.md.967553279e13ef3ac7af1297e7e2e21e3e7f9abf.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\install-ie11-using-system-center-configuration-manager.md",
+      "XliffHash": "967553279e13ef3ac7af1297e7e2e21e3e7f9abf",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\a6bd96b40cf8a37b3f36a347e2024ddd004da226.ce68f82592fc25f42e073252d11e17233033cdf2.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\connectionsettings-ins-file-setting.md.2b32c41ca14c39676449e6bb9b30a8084fb6212f.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\connectionsettings-ins-file-setting.md",
+      "XliffHash": "2b32c41ca14c39676449e6bb9b30a8084fb6212f",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\ccb06428f0e7ea6e5e2d0ed2f808dd30456baa34.376f48479d1e62e6e60609b1c76f84b3fd751068.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\customize-ie11-install-packages.md.3a77dacafe45a78f9f2fc9f4bb15249f5088e8d6.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\customize-ie11-install-packages.md",
+      "XliffHash": "3a77dacafe45a78f9f2fc9f4bb15249f5088e8d6",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\57d9642944959435cf75f29590e8af84fc595a1f.59e69bbca71e9935af9269439febec049726265a.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\iexpress-command-line-options.md.359cd09f139cdc697598831821abad1dc3748056.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\iexpress-command-line-options.md",
+      "XliffHash": "359cd09f139cdc697598831821abad1dc3748056",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\6b77f1fbc55a7c5ce5568775ccdea54b53bfc136.f1bc5af0e2d93d1a5260a442f91a17f14bdaf8b4.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\hidecustom-ins-file-setting.md.ca87b9736d331e9d86c202f937c0f7d65915b0cf.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\hidecustom-ins-file-setting.md",
+      "XliffHash": "ca87b9736d331e9d86c202f937c0f7d65915b0cf",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\54ca6209a22c402d376c98184e36f851b5daf51f.49c40d5cbedaa109ca26ce4d91d90d6a13e050e2.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\deprecated-document-modes.md.0d7970a64129bade5590e1388bca9e86531388b9.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\deprecated-document-modes.md",
+      "XliffHash": "0d7970a64129bade5590e1388bca9e86531388b9",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\dfdb239bf904ca19f85027374b50f22658acb697.5c42550f74d13581a3e9c289f0bcf11fe8ad226a.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\intranet-problems-and-ie11.md.7f6306e1e16596c9157031fcea90052c75c5e9de.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\intranet-problems-and-ie11.md",
+      "XliffHash": "7f6306e1e16596c9157031fcea90052c75c5e9de",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\b19096b4130ba23e0049059761eba4e6f53c67f1.8b2f3215e10f39359e636b9f248ac760aac50a7c.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\enhanced-protected-mode-problems-with-ie11.md.93fb3c6b8bec3377649619dceea489acbeacea53.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\enhanced-protected-mode-problems-with-ie11.md",
+      "XliffHash": "93fb3c6b8bec3377649619dceea489acbeacea53",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\117fdbe6007aed552dad56e1ad867c9a2f0c588b.abe79578e3a6a4defe5f2d5ae26259b2d85092f1.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\turn-on-local-control-and-logging-for-enterprise-mode.md.9979dbdbd46e9ba2ecb961fd2ecfe1fe2edc5820.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\turn-on-local-control-and-logging-for-enterprise-mode.md",
+      "XliffHash": "9979dbdbd46e9ba2ecb961fd2ecfe1fe2edc5820",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\e73c446de7c8112cca63810c99cce7707d6b6c4d.6b0a55b605c65b9525e3348ad8ae0b0c127dd9ad.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\install-ie11-using-microsoft-intune.md.d6874d3192eb39d51c82752c2e667bbdfbceb72f.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\install-ie11-using-microsoft-intune.md",
+      "XliffHash": "d6874d3192eb39d51c82752c2e667bbdfbceb72f",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\ef4ae46d22152c459f449a0b615c8d48de19f1d4.48e2f962ea33ff9bd59859b9ee2c33d50a317628.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\platform-selection-ieak11-wizard.md.cfda7499f52001dca0fb4dabf95b2f87d8faa0e0.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\platform-selection-ieak11-wizard.md",
+      "XliffHash": "cfda7499f52001dca0fb4dabf95b2f87d8faa0e0",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\3ed3a98b0f94977fb8a75df505d23b565cfa95c6.203ed36b1924bbf35016cd833cb777dce1fd1c70.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\enterprise-mode-schema-version-2-guidance.md.88219d821d3d653e0e7ce038b31beee6390b0bf4.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\enterprise-mode-schema-version-2-guidance.md",
+      "XliffHash": "88219d821d3d653e0e7ce038b31beee6390b0bf4",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\9c254465350665d9b9fd2026cacebb2a53e569ab.f3b58575a3dbc5e3d3a7e810fba4f26e596b6a52.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\media-ins-file-setting.md.695bf4e9b7e29d6716b6eca054fce807790f3846.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\media-ins-file-setting.md",
+      "XliffHash": "695bf4e9b7e29d6716b6eca054fce807790f3846",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\3bd1dcebb1b6b9f7aa5578cf69ec0060a6ce8cfe.cc54ffd11b54fec9ad9ef7683d6bd97d505a3223.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\export-your-enterprise-mode-site-list-from-the-enterprise-mode-site-list-manager.md.6f48c767b9b657d8a1b89ee5557eec8ab8f6d77d.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\export-your-enterprise-mode-site-list-from-the-enterprise-mode-site-list-manager.md",
+      "XliffHash": "6f48c767b9b657d8a1b89ee5557eec8ab8f6d77d",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\774e65920cc5afe2d704c561aa960f61b28d9308.8760469b48a3421f03d5fb38619d1e6739ee48fa.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\browser-ui-ieak11-wizard.md.e69f380a365bb13867f1c1ba05b162bdfc8e90b1.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\browser-ui-ieak11-wizard.md",
+      "XliffHash": "e69f380a365bb13867f1c1ba05b162bdfc8e90b1",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\643f5815c18fe01d39ed6a3f9b1940da3c47137b.c16238bf0398b900ae7b852e402950dffc627b45.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\auto-configuration-and-auto-proxy-problems-with-ie11.md.5891e82e34d3cd445107423ef655dda0ac34a837.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\auto-configuration-and-auto-proxy-problems-with-ie11.md",
+      "XliffHash": "5891e82e34d3cd445107423ef655dda0ac34a837",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\094a0ae8453546d0750e7ea3e0463b1b4c24d13d.ea36ae156dc37f6a45a877c70737b1eff755604e.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\add-and-approve-activex-controls-ieak11.md.820b706251559aaa0812abf4deef90ccb0917b38.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\add-and-approve-activex-controls-ieak11.md",
+      "XliffHash": "820b706251559aaa0812abf4deef90ccb0917b38",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\6386a38a5f70fc5eee4a9ff4ea138532a1a95547.3814c8936b84f05110df7b3f8100f9231e4358ce.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\wizard-complete-ieak11-wizard.md.ce14802fd98e3d590f257e488eac31666f3619a9.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\wizard-complete-ieak11-wizard.md",
+      "XliffHash": "ce14802fd98e3d590f257e488eac31666f3619a9",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\e1fa954b480952db15d1858d3b912e90a466cf30.e117fdd25d9c1b20cfef21df65d5513c2341b4ea.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\create-multiple-browser-packages-ieak11.md.d5405618dbf6f0fd5ae7f9d47415e7df01c05bfa.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\create-multiple-browser-packages-ieak11.md",
+      "XliffHash": "d5405618dbf6f0fd5ae7f9d47415e7df01c05bfa",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\1e78349bbcfa69e7e5e9168f88857a09b8462f6b.5a8209f88d73ececdb646fa5519387c65e24c9a4.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\branding-ins-file-setting.md.454b1fffd0abd22825ddb6f0c97a8f4c95524a92.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\branding-ins-file-setting.md",
+      "XliffHash": "454b1fffd0abd22825ddb6f0c97a8f4c95524a92",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\749cc09f131cade9527b93cc1b9989851250676d.eea64464d2a8c94940f4491378396efebcf94647.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\isp-security-ins-file-setting.md.9b4fdde3f0a661663619058221730b1da60782bd.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\isp-security-ins-file-setting.md",
+      "XliffHash": "9b4fdde3f0a661663619058221730b1da60782bd",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\27e7df86e0bb9db19d3a39d62a4d390af6ff51f7.914601014e2f1a014aed557d9b8170e599c5d212.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\search-providers-ieak11-wizard.md.28acc94b053150dcdadb6a9d0d35fab8b6db45e2.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\search-providers-ieak11-wizard.md",
+      "XliffHash": "28acc94b053150dcdadb6a9d0d35fab8b6db45e2",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\ae2f55e8fe7d0c074bd1ed930f7a16e51e24fa4e.912fc990d22a534f43fe2bbbf78fe44237a16128.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\setup-problems-with-ie11.md.d3890a3a02a9309ffca645cb409593e2f00cd032.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\setup-problems-with-ie11.md",
+      "XliffHash": "d3890a3a02a9309ffca645cb409593e2f00cd032",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\73e1dc50691019d63861eacef511f4670b832001.6d335bc0647b1bfd39ef8d64624515fa70f63957.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\create-manage-deploy-custom-pkgs-ieak11.md.ad7c9139ae538dabcbb795b189dbeae8561fcae7.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\create-manage-deploy-custom-pkgs-ieak11.md",
+      "XliffHash": "ad7c9139ae538dabcbb795b189dbeae8561fcae7",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\c3a8874aed0c25c7b4c858b7d1dff6d7adb19138.288f2e3dead5c11172a726957d4b5c45105919fb.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\file-types-ieak11.md.6dbb7e144e4bcc2edc8dd0c9b4a04dd2c8fe1211.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\file-types-ieak11.md",
+      "XliffHash": "6dbb7e144e4bcc2edc8dd0c9b4a04dd2c8fe1211",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\da6169161205ef3af845fd5a766ec51cf2339e35.67404526e7458c024430eba91792e1fb8876b5f7.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\add-root-certificate-ieak11-wizard.md.1c740c420a23500b9849d5e2922aad60fdf8b007.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\add-root-certificate-ieak11-wizard.md",
+      "XliffHash": "1c740c420a23500b9849d5e2922aad60fdf8b007",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\9ecf35c0a0a5973ace5f062801de1c85e0081687.bf7308ed407eaaa5fdd3acce67dcac79fe61569f.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\choose-how-to-install-ie11.md.926d6391fb555a10ba018f5f39aa0ce434ae439f.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\choose-how-to-install-ie11.md",
+      "XliffHash": "926d6391fb555a10ba018f5f39aa0ce434ae439f",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\680f49b1123534a0fdad120ca477afe7888b4c9c.8a5e84fda3930cd76fe5c85c0b19466ae85f919a.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\guidelines-toolbar-and-favorites-list-ieak11.md.d2cd195e3d383bb4c42c5c386b457a38a1070179.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\guidelines-toolbar-and-favorites-list-ieak11.md",
+      "XliffHash": "d2cd195e3d383bb4c42c5c386b457a38a1070179",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\c8643fe0178dad223203eb572b00b494b6e31f78.96d1d43f7a3730c6e854006b6e6e08f87d2ae224.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\prep-network-install-with-ieak11.md.77ac44c94382495b5bf93193d12876f6a443f6c9.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\prep-network-install-with-ieak11.md",
+      "XliffHash": "77ac44c94382495b5bf93193d12876f6a443f6c9",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\c06b548249485d1ec673c98037e808f898409d3b.ac61d65c99e9f47c5020a71767a18593956c05c3.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\remove-sites-from-a-local-enterprise-mode-site-list.md.4216332830fdd1deed11b87791c5f0ce63951a15.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\remove-sites-from-a-local-enterprise-mode-site-list.md",
+      "XliffHash": "4216332830fdd1deed11b87791c5f0ce63951a15",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\487098dc2f0e20635d13dfd419b2c8d2aa5cccd6.765809c62b2b0ee967dbab68f9a764f718087d15.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\user-experience-ieak11-wizard.md.0e968e3c174f660cd6361279c419e2b5f8cb8628.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\user-experience-ieak11-wizard.md",
+      "XliffHash": "0e968e3c174f660cd6361279c419e2b5f8cb8628",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\72282b4677e097520bffbbfcca479906f43d4c62.09aa270fe54646988ddbb06db985bd1524714dac.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\pkg-type-selection-ieak11-wizard.md.31b7c052b8d1456520d160e6ff455279120079f9.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\pkg-type-selection-ieak11-wizard.md",
+      "XliffHash": "31b7c052b8d1456520d160e6ff455279120079f9",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\c4d53982f634589f44a6ca4072de34e59ac4b2ba.3c59ee9e0911be360134db09cd261590df0bcf88.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\collect-data-using-enterprise-site-discovery.md.0ca2b363e74c254f45f462f42d96a0f6dd3488c5.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\collect-data-using-enterprise-site-discovery.md",
+      "XliffHash": "0ca2b363e74c254f45f462f42d96a0f6dd3488c5",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\fd67292aff1b7b43100c25980a7a417878d6dd2e.8dec428a3743b3522e32abe7e577ddfae324f075.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\remove-sites-from-a-local-compatibililty-view-list.md.5b0535788dc663ab0d19651828603705913bfe51.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\remove-sites-from-a-local-compatibililty-view-list.md",
+      "XliffHash": "5b0535788dc663ab0d19651828603705913bfe51",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\5d1fc1bc362c28f8879e9a92102989f86b1da34d.bfddc0611b34bdd15c633265f88ea82a90932e07.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\install-ie11-using-the-network.md.e2323a6b8022db965a93be18c10611f729e4cd3e.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\install-ie11-using-the-network.md",
+      "XliffHash": "e2323a6b8022db965a93be18c10611f729e4cd3e",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\6ffed315804ad38709af2e7e731c125421182596.54f41324deea8cac05f08bb43ca77b39e66a8942.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\edge\\Index.md.67c3b3bce9fbf49727393b67bdb87dbeff70043d.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\edge\\Index.md",
+      "XliffHash": "67c3b3bce9fbf49727393b67bdb87dbeff70043d",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\5a6dc29ebd2d5b1595ebb82c8fe96cadfd1351e0.adc34913a66393e905706b680f866bdf3ca73209.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\edge\\change-history-for-microsoft-edge.md.c90d0781fb7609925267207e8e6aaffa656282c7.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\edge\\change-history-for-microsoft-edge.md",
+      "XliffHash": "c90d0781fb7609925267207e8e6aaffa656282c7",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\956c5872221526bb996aedf4d14d51a5130f3495.052b1819b149ee12faab9c3644a5bf079d1f914c.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\language-selection-ieak11-wizard.md.f4d0aa71b87a1c8d30e3b648a05fc465fd35a1f9.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\language-selection-ieak11-wizard.md",
+      "XliffHash": "f4d0aa71b87a1c8d30e3b648a05fc465fd35a1f9",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\2629ac855f2e5aead67777a310ddd6ceef4e05e5.335ea7a1f736369da294562ba9a302723ef9ec26.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\troubleshooting-custom-browser-pkg-ieak11.md.7190b0da6c5a6e091cd40983a47432891c80d01c.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\troubleshooting-custom-browser-pkg-ieak11.md",
+      "XliffHash": "7190b0da6c5a6e091cd40983a47432891c80d01c",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\2ce7fabb3e8267b2b7c82d193ec6d8809278b125.c9c7cdb77ce21a90b52c986dd40f4637df4bdfce.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\auto-version-sync-ieak11-wizard.md.c7d60f825076d03ed305d5d8434213dbc0c8a1c1.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\auto-version-sync-ieak11-wizard.md",
+      "XliffHash": "c7d60f825076d03ed305d5d8434213dbc0c8a1c1",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\91dec9d1c350a762924102c0331912dc92f23c30.ded4488a4e4dddb00e992bc59c5f6fde4816f999.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\extreginf-ins-file-setting.md.82419b762ae7119397b9bc275283c2f83947ad49.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\extreginf-ins-file-setting.md",
+      "XliffHash": "82419b762ae7119397b9bc275283c2f83947ad49",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\7e4a2a7f1c5424e5cb11d10e6ce46b9822e4532d.4365adf2345e9d0f187db3bb213d7fac20687a51.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\ieak11-wizard-custom-options.md.3764f9207bf67bc522335f18d698b33def2cdcd0.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\ieak11-wizard-custom-options.md",
+      "XliffHash": "3764f9207bf67bc522335f18d698b33def2cdcd0",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\a3827fb1ec2d266f94746e65682691447b8ade43.78a216ec5e3ab845a73f3f8a61cfb85e30e45eb9.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\edit-the-enterprise-mode-site-list-using-the-enterprise-mode-site-list-manager.md.d7305dac9d59712c06df56e789459426dda6ee63.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\edit-the-enterprise-mode-site-list-using-the-enterprise-mode-site-list-manager.md",
+      "XliffHash": "d7305dac9d59712c06df56e789459426dda6ee63",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\320c75b94ca48fc76f7fb6b7fad9fe14b77056b2.77b5897d4a7fc5b8ee8d21e2b916cd1ce16f1570.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\ie-setup-command-line-options-and-return-codes.md.dd56c79b1d85a1d613b74d8f558ee4789142b75d.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\ie-setup-command-line-options-and-return-codes.md",
+      "XliffHash": "dd56c79b1d85a1d613b74d8f558ee4789142b75d",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\d8fbdbe70011053055ecf8c80992f01629f5f916.45478b0d37c476aa6b228f49c09c184652e977f6.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\activex-installation-using-group-policy.md.36677f2d58747897d87342be1b669ebd7003b332.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\activex-installation-using-group-policy.md",
+      "XliffHash": "36677f2d58747897d87342be1b669ebd7003b332",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\4fefd40eb379017177e15bbd25f066eb6c3a4712.fe1fbff7f8db9629b0fb9cdc664aa59f5266715c.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\using-inf-files-to-create-install-packages.md.7ee06f43baf554e0b87693111dce86a600d9c7a5.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\using-inf-files-to-create-install-packages.md",
+      "XliffHash": "7ee06f43baf554e0b87693111dce86a600d9c7a5",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\03db23582cbd4a8396a760144940b2f1d0ac3d2b.f76dea89ccbcf219d7cd509e36d3a0d58cdb026b.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\add-multiple-sites-to-enterprise-mode-site-list-using-the-version-2-schema-and-enterprise-mode-tool.md.e1d95e036d7b4cf8013b9e7e2e9ce5ac41e150fb.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\add-multiple-sites-to-enterprise-mode-site-list-using-the-version-2-schema-and-enterprise-mode-tool.md",
+      "XliffHash": "e1d95e036d7b4cf8013b9e7e2e9ce5ac41e150fb",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\960c042e6c55d67351bd819edccfb828fe04a21b.7fef77f01e0137491ea3222206be7f52b92d96be.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\iexpress-wizard-for-win-server.md.6a0738d9fc0d77971138b506fd5398c19bd07708.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\iexpress-wizard-for-win-server.md",
+      "XliffHash": "6a0738d9fc0d77971138b506fd5398c19bd07708",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\b3844cae71ac7c94515556afe824beb5eaf80624.f77a00d60f4e9f147ed079d6328a855f37377bc2.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\browsertoolbars-ins-file-setting.md.01c1d901df1417abe49d9a42593986f4097826ca.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\browsertoolbars-ins-file-setting.md",
+      "XliffHash": "01c1d901df1417abe49d9a42593986f4097826ca",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\a5217e8be0feda480a0a4d571836fda29fd40baf.5a84fddc2df0cf7ba323eb02fae02b5d236798b3.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\search-your-enterprise-mode-site-list-in-the-enterprise-mode-site-list-manager.md.7b93adaac3399f9b15cab935949e10330a91887f.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\search-your-enterprise-mode-site-list-in-the-enterprise-mode-site-list-manager.md",
+      "XliffHash": "7b93adaac3399f9b15cab935949e10330a91887f",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\4e8bec3357eba468a19e40a1575668e33ee49306.ef34046838d309fc273b46cd54f789e6bbe2f656.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\install-and-deploy-ie11.md.12835046c88f7b3e6fd1901059f389fc44c6e890.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\install-and-deploy-ie11.md",
+      "XliffHash": "12835046c88f7b3e6fd1901059f389fc44c6e890",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\505b53d58379445b5a2aab21d31de1019024380b.c72dba09d92b1cf815680d8a46e9ef2392c3ea97.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\enterprise-mode-schema-version-1-guidance.md.e5494f0cd7e3adff5768ef409d1acbbde1024fb8.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\enterprise-mode-schema-version-1-guidance.md",
+      "XliffHash": "e5494f0cd7e3adff5768ef409d1acbbde1024fb8",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\731e313c0a3983d840690926b97edda3b6f8a7e0.aee4d48fa4270de1f1bfd607ef0bc2c0aec5d4a4.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\manage-ie11-overview.md.b4f014d33893a32d63a0298f09f4f9424747dce2.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\manage-ie11-overview.md",
+      "XliffHash": "b4f014d33893a32d63a0298f09f4f9424747dce2",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\f45927abe3c1b4397dc6c62c3efb582e409ab4e4.9ae3f296de3f591353b1b4ed16415ee837b688c9.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\administrative-templates-and-ie11.md.4c7b86ab0ad49917cd993c0928c41d323186aa77.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\administrative-templates-and-ie11.md",
+      "XliffHash": "4c7b86ab0ad49917cd993c0928c41d323186aa77",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\1c9ef3b4e8444ffe26193b356d434fbf14c80227.4a0d79e4851f2a6f52ac669d8003b19178417a14.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\install-ie11-using-operating-system-deployment-systems.md.a5aab936b3f8a3cfada9ade09140a9dfd6b7ec31.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\install-ie11-using-operating-system-deployment-systems.md",
+      "XliffHash": "a5aab936b3f8a3cfada9ade09140a9dfd6b7ec31",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\76c3a5ce4b14f84951eab7d2bb6978e00f26b77c.6b639b47e1c508fe9582216718ecd31ffcba59cb.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\set-the-default-browser-using-group-policy.md.bd5a2ca0e010f42d44e5b2c6716e69554b2d1e41.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\set-the-default-browser-using-group-policy.md",
+      "XliffHash": "bd5a2ca0e010f42d44e5b2c6716e69554b2d1e41",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\b4d7bb7e0c6caeecd8759c07765119ec0f846bd6.de33bb62c50cc6da9577e77435b0464fa848dc1b.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\before-you-create-custom-pkgs-ieak11.md.a1ffe9219b4fbc1ba88e559b5338cb8ad65c206b.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\before-you-create-custom-pkgs-ieak11.md",
+      "XliffHash": "a1ffe9219b4fbc1ba88e559b5338cb8ad65c206b",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\5cfb79e6bc048410ee1dd01e5c1da0ad0614683d.f3fd8c11a75fb3fbeaf0240c48ef3fe4728577e0.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\licensing-version-and-features-ieak11.md.f033e6627b9a68f763831c68fe60deb0855803b5.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\licensing-version-and-features-ieak11.md",
+      "XliffHash": "f033e6627b9a68f763831c68fe60deb0855803b5",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\cea14795ab91750f9a555e3596007a66e2fe3ab4.fe81cdc88c09b021bba4a2a38eb5277be31b1c96.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\custom-components-ieak11-wizard.md.b42463ebe8423b552c46753d156882dd7b3b1180.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\custom-components-ieak11-wizard.md",
+      "XliffHash": "b42463ebe8423b552c46753d156882dd7b3b1180",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\d8149c617514398ca9fd315e2b1f071e20da4a4b.7baa0ff03ab99e9b225b085bc02312f275b9a4cb.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\user-interface-problems-with-ie11.md.4196ef6d2ce499d2aa520ed71d87565e755b3cd6.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\user-interface-problems-with-ie11.md",
+      "XliffHash": "4196ef6d2ce499d2aa520ed71d87565e755b3cd6",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\5713c138ca17082dc756b459a6b93c715e8aaae1.3d7102ddad9e50f9c40d54623d10a8a0ea4b09a0.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\turn-on-enterprise-mode-and-use-a-site-list.md.6fa5c2276d898fa9ac6eab3e1ff0883dc421f9b6.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\turn-on-enterprise-mode-and-use-a-site-list.md",
+      "XliffHash": "6fa5c2276d898fa9ac6eab3e1ff0883dc421f9b6",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\48579593829a0775545d47ea5fcaddff921f322e.112f5105741c618462d12f8ab092df2f51d0e859.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\proxy-auto-config-examples.md.35eb50e862dd81e9cf6609b6252d35fd4dcf34d7.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\proxy-auto-config-examples.md",
+      "XliffHash": "35eb50e862dd81e9cf6609b6252d35fd4dcf34d7",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\69148015b0432890946631d7ba27f5c3b6e1de6b.c1b4a73c5e3fe0bdb3efb8930e4dc7f4718468ae.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\group-policy-preferences-and-ie11.md.e25458dceab53c4a61e99d9c5603e0f7c6b984e5.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\group-policy-preferences-and-ie11.md",
+      "XliffHash": "e25458dceab53c4a61e99d9c5603e0f7c6b984e5",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\d3b99dab4880d345a5de34ff0e18ce295c43a604.1536431ce36c2a3717c071f3f3368a9f6ff7d90f.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\auto-proxy-configuration-settings-for-ie11.md.c88443e2d9d796dc90ffd133130348bf061e358d.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\auto-proxy-configuration-settings-for-ie11.md",
+      "XliffHash": "c88443e2d9d796dc90ffd133130348bf061e358d",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\47972aa95fa87d5c4e53aa67ae0032a9186ccbfb.9495b9f00313be21f23173a7bd96144642a76454.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\rsop-snapin-for-policy-settings-ieak11.md.0fe4d81b1e8ad695740c60ca47c0d32ed3544f7a.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\rsop-snapin-for-policy-settings-ieak11.md",
+      "XliffHash": "0fe4d81b1e8ad695740c60ca47c0d32ed3544f7a",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\1ae2b2e9984592f850f7f73a52c8343cfed15c6f.c03402f71171213211990c12ea9cde55279ae8be.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\troubleshoot-ie11.md.4a9e76e403cec0b30807d8f4d725dfadcf0b0e94.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\troubleshoot-ie11.md",
+      "XliffHash": "4a9e76e403cec0b30807d8f4d725dfadcf0b0e94",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\7b55909b9ab46ab68f4f8f0cc195a1e05fe805fc.6669b2e68ac092a76d0bf0d65695444f3fb2fad7.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\security-and-privacy-settings-ieak11-wizard.md.fe8e4ece5eb430fe9b23108a95b8eb60333b9c7a.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\security-and-privacy-settings-ieak11-wizard.md",
+      "XliffHash": "fe8e4ece5eb430fe9b23108a95b8eb60333b9c7a",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\9903a21ca3b6d989a3f2bab9b005bdc79bd74a55.fa5e33deeba36ac8a6f491a1d9738f543bbd79f8.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\cabsigning-ins-file-setting.md.1375eb93e0673ff5e54d259295d6501d11a464ae.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\cabsigning-ins-file-setting.md",
+      "XliffHash": "1375eb93e0673ff5e54d259295d6501d11a464ae",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\7ccfdffc27e9727edcf88f9ed5f4e342c0476686.27753e9c25de0fff786e462be8f90dac3c9ea842.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\virtualization-and-compatibility-with-ie11.md.5e5fd52793ebd567656b3d8e3efd36e69bb8f45c.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\virtualization-and-compatibility-with-ie11.md",
+      "XliffHash": "5e5fd52793ebd567656b3d8e3efd36e69bb8f45c",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\55d3318fee42f442818ce302eab8930081c3964e.4eb7ad345f395f816b177f438bfe31a8d67bc769.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\using-ieak11-to-create-install-packages.md.92c7e166f9b4142c76a7faa3f446914f43eb172f.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\using-ieak11-to-create-install-packages.md",
+      "XliffHash": "92c7e166f9b4142c76a7faa3f446914f43eb172f",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\87e1ab93256f52b668de98ea911f14e52b7b637e.3d78a0fb0495e8b0ed127a576c47dbd7652d35f5.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\connection-mgr-ieak11-wizard.md.6c69a40d65b3fc85c9c39c5a15972b1390671896.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\connection-mgr-ieak11-wizard.md",
+      "XliffHash": "6c69a40d65b3fc85c9c39c5a15972b1390671896",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\17de256a62af60f9ec65acfd4e0dda4d3fdc8f56.e9bde36ef641d2efe8b4227b491df41dd651872f.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\proxy-settings-ieak11-wizard.md.31b22fbdfc2b1c6eae6d355210f991e7c5d28642.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\proxy-settings-ieak11-wizard.md",
+      "XliffHash": "31b22fbdfc2b1c6eae6d355210f991e7c5d28642",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\37e90f8149c5be8601af5b2ffacefcc05669c426.4fd8bf13287881775855c58ab63349e1aad6993a.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\what-is-enterprise-mode.md.ba234691618311e1e334dcb4ca51989d09d4b9b8.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\what-is-enterprise-mode.md",
+      "XliffHash": "ba234691618311e1e334dcb4ca51989d09d4b9b8",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\38cc1a8ec5ed5def881b8179f1476056e14bc68a.3ccbd989564adb7eda835ec53a131ea40c624593.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\group-policy-and-group-policy-mgmt-console-ie11.md.9884be2aaf8beb516af6584f63ae8052faa443ae.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\group-policy-and-group-policy-mgmt-console-ie11.md",
+      "XliffHash": "9884be2aaf8beb516af6584f63ae8052faa443ae",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\3931a450d06db331af4138ef77b59b9514e02564.ea0cf1f5fd56192bc8ee92f061ae0d686f6bdc28.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\accelerators-ieak11-wizard.md.50dbb8515da12ad2f8384dd9a8f9ff0b58b927ab.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\accelerators-ieak11-wizard.md",
+      "XliffHash": "50dbb8515da12ad2f8384dd9a8f9ff0b58b927ab",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\631024b7c95f74cdef426c4e2bfe6b99ab5522bc.07742739116cf22f101e5d8fa77a06ea78ebfbfe.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\auto-config-ieak11-wizard.md.f1dc99efbe86877eac9e43309342074988dbabed.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\auto-config-ieak11-wizard.md",
+      "XliffHash": "f1dc99efbe86877eac9e43309342074988dbabed",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\249042f693bbd3e79eaa4eb05c59ac4264725b4e.0f7c2945d42b1d685550b589a38fe64421536057.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\index.md.6906d53e43706fdae1b325e460897465e6b0492a.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\index.md",
+      "XliffHash": "6906d53e43706fdae1b325e460897465e6b0492a",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\90f93b8167140e5cea8f4625dbcd4fcec09cd79b.466fa5dc3b641ab1f39742b5a1ee4002b2e99ef6.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\auto-configuration-settings-for-ie11.md.77fb85436afd56450e603c6f38369afafb52243f.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\auto-configuration-settings-for-ie11.md",
+      "XliffHash": "77fb85436afd56450e603c6f38369afafb52243f",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\1b9d535c00a31c20a77540b4cc2c602dc013cea5.974b613eef17b458c57e1ee6c996d4f8f5065eae.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\system-requirements-and-language-support-for-ie11.md.efe3d0057a2581b2021fe5b514f06f7083f205e6.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\system-requirements-and-language-support-for-ie11.md",
+      "XliffHash": "efe3d0057a2581b2021fe5b514f06f7083f205e6",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\d6fd800f30331d1844710223c9040f780a8ddb06.665e95fa21f7dae7d44e85ffbc7cb9ada15a05a5.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\edge\\enterprise-guidance-using-microsoft-edge-and-ie11.md.07ceac5529d0ed5b3097f48534e3de5696a85fd2.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\edge\\enterprise-guidance-using-microsoft-edge-and-ie11.md",
+      "XliffHash": "07ceac5529d0ed5b3097f48534e3de5696a85fd2",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\2a3a4c37c4dd9a8bac0843689039e27611cbedbc.9f3c96cae8781b445d39e6d09eb8c5c03ad6dbb0.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\compat-view-ieak11-wizard.md.e715e06079488aca8de73f1df5070aadbb026a35.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\compat-view-ieak11-wizard.md",
+      "XliffHash": "e715e06079488aca8de73f1df5070aadbb026a35",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\700b8b401e0f8581bf38a811580f76597b42c208.a1385d070020e9376f6ad3372503aa995ac6add2.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\group-policy-compatability-with-ie11.md.6839d76ac8f2e087f1967b03471e3860edd913e0.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\group-policy-compatability-with-ie11.md",
+      "XliffHash": "6839d76ac8f2e087f1967b03471e3860edd913e0",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\729fd47c028136527ff9889604e2c22e28bcc3b8.b251583f09eab5539b80f1dd634fb3991fc27f04.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\important-urls-home-page-and-support-ieak11-wizard.md.997013f2acb9c911763201eeb71c2d38d1f46576.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\important-urls-home-page-and-support-ieak11-wizard.md",
+      "XliffHash": "997013f2acb9c911763201eeb71c2d38d1f46576",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\56ebd92d30354aa434c280a73675e8c31dfe207c.49c0cc03725f5792bb1289dcf1eb456b0c01c8bb.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\first-run-and-welcome-page-ieak11-wizard.md.c33a992bc4e68f60a79035a29b2a9cf5cfc5c991.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\first-run-and-welcome-page-ieak11-wizard.md",
+      "XliffHash": "c33a992bc4e68f60a79035a29b2a9cf5cfc5c991",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\d246470709386bf03a8bf4ee8e6cd1f5c613fa8a.9a936174efd421efdff2885cb1f544a3fb9e52ae.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\edge\\TOC.md.b88312929afb6bb9ae81a552aa7e040f2f9a0488.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\edge\\TOC.md",
+      "XliffHash": "b88312929afb6bb9ae81a552aa7e040f2f9a0488",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\0ee6c8484fc7e97a1f7dd2bdbf0629c99244482d.766403e5622186656430b44faf87df0e2b73a10e.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\edge\\security-enhancements-microsoft-edge.md.59c2cbd7dee5a3b063b5729f26ee4c941a3c2071.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\edge\\security-enhancements-microsoft-edge.md",
+      "XliffHash": "59c2cbd7dee5a3b063b5729f26ee4c941a3c2071",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\f1e29ce61853cab8f7d763eb7906d336a41fe362.a59dc1bee0aa598c7e5424d70003cb387ba0701b.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\enable-and-disable-add-ons-using-administrative-templates-and-group-policy.md.675ba8165a5233f80f979f29d7e657d88d4280e1.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\enable-and-disable-add-ons-using-administrative-templates-and-group-policy.md",
+      "XliffHash": "675ba8165a5233f80f979f29d7e657d88d4280e1",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\dcd6df9baa832a6a2715cb090d80bd599ee0f5b7.75c30d0fd9feb744aafdee923b66d183cc9159ea.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\TOC.md.152fed1a29beecc1bc40f42495c5bb61a63974b1.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\TOC.md",
+      "XliffHash": "152fed1a29beecc1bc40f42495c5bb61a63974b1",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\b50ceeefd0f830eb9acca51d0a94b1dcf4335bb9.f6bd6088ba2cbb906ca4ac4b0165a27d50f3613c.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\turn-off-enterprise-mode.md.c28a22a7b0ddb18d7555327c7d50e9e4c089a78a.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\turn-off-enterprise-mode.md",
+      "XliffHash": "c28a22a7b0ddb18d7555327c7d50e9e4c089a78a",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\0a8536e8a5e2a522afb741f90e1479d6ce5e3cb9.f19eaf6d21f358e2952ffdca680bb7d42fa5b241.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\group-policy-objects-and-ie11.md.e552ee5548a5735772149debce4c092a7d8e7738.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\group-policy-objects-and-ie11.md",
+      "XliffHash": "e552ee5548a5735772149debce4c092a7d8e7738",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\2130a49cb8d371a1ebfe990748b4f9c8bb884dd5.ac14d11827c28a20724152ce4fb66e0fc14c0774.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\hardware-and-software-reqs-ieak11.md.e8b22b6670fbad6799fdc1ae5b203f5ebb78a23b.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\hardware-and-software-reqs-ieak11.md",
+      "XliffHash": "e8b22b6670fbad6799fdc1ae5b203f5ebb78a23b",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\3cb35a83e1302a81b11f349204f4c64297b1272a.e8c8c7277b1e6a785e7cb9a47df183997929c61c.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\register-uninstall-app-ieak11.md.243b0738b20514c26a63e0b1ef142eb8b08e6b11.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\register-uninstall-app-ieak11.md",
+      "XliffHash": "243b0738b20514c26a63e0b1ef142eb8b08e6b11",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\952c4dce7d2cff1c5cbc1c4a3991d4309f97b68e.a938cfd665c3cd4d7e9021ffd8e7e651e75dcf0b.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\connection-settings-ieak11-wizard.md.ad67e936eaff84168f740ae43097bffc84f4fe16.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\connection-settings-ieak11-wizard.md",
+      "XliffHash": "ad67e936eaff84168f740ae43097bffc84f4fe16",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\8503bae731821b33e55ff538b30c3663699a8bdd.e858d908192499db2bf489161feb4f080543634e.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\feature-selection-ieak11-wizard.md.3fc14b8757720b2da8380dd66545c0b3190468a3.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\feature-selection-ieak11-wizard.md",
+      "XliffHash": "3fc14b8757720b2da8380dd66545c0b3190468a3",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\8f75426edfaf1b4f40f6e2215f5756e31e68c6d7.ebe27725ad734b4a5be1015306ed5f216bfb66be.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\programs-ieak11-wizard.md.926bd54aca07415cd5d700314e0df1ac9f21b319.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\programs-ieak11-wizard.md",
+      "XliffHash": "926bd54aca07415cd5d700314e0df1ac9f21b319",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\dc6bfad78e6f29c48710785ac396b401941db42a.c0c455a884e186d89c549be3e691b095e86ed2d4.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\security-and-ieak11.md.69cc0addcb2e7870bbbc73be0ce343f9299317fb.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\security-and-ieak11.md",
+      "XliffHash": "69cc0addcb2e7870bbbc73be0ce343f9299317fb",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\6037dd031b8abdc17dce2c0f26fb1d2c6dd720a0.a546243fa5dfe9466d6dab22b976986367620243.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\set-up-enterprise-mode-logging-and-data-collection.md.650d5932971d2737dcc454b4473f6ed1398282c5.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\set-up-enterprise-mode-logging-and-data-collection.md",
+      "XliffHash": "650d5932971d2737dcc454b4473f6ed1398282c5",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\1de63a3082da4eed9ad5271f2afbaed86fa2d38d.5f50024c732770257ccd75fa14470cacd6cf0e75.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-faq\\faq-for-it-pros-ie11.md.d4ce04f481431c814592910fdb4b4aa1c4e7ac34.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-faq\\faq-for-it-pros-ie11.md",
+      "XliffHash": "d4ce04f481431c814592910fdb4b4aa1c4e7ac34",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\53e6c16376e64c28359a467fbd21d28c9c5d2321.127a328886b675d0332208b817a1a85bb607a396.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\deploy-pinned-sites-using-mdt-2013.md.10267481adea17c800e304bcf27b2e069f521418.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\deploy-pinned-sites-using-mdt-2013.md",
+      "XliffHash": "10267481adea17c800e304bcf27b2e069f521418",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\58940e434b35041f4b41f2884d04514b2c9d5abc.235132bc98cbc6f48bc2ef4908925346cdb083b2.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\group-policy-and-advanced-group-policy-mgmt-ie11.md.3ff9a7baa92eba4e10869a076828d25f143fcd1d.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\group-policy-and-advanced-group-policy-mgmt-ie11.md",
+      "XliffHash": "3ff9a7baa92eba4e10869a076828d25f143fcd1d",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\a9c72588914f3bcf28d30e6b0d62ded25e7c3122.6e07587999bbbfab23a64e4dbad04a3b2bae24bc.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\index.md.33740bc94677097d77aa6a93e0c105f81865bf81.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\index.md",
+      "XliffHash": "33740bc94677097d77aa6a93e0c105f81865bf81",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\dd847f808a8b186a979f3c62f2bd85e43da7f2c9.b0da5251744caf257a1fe35933a98037cadd62c3.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\change-history-for-internet-explorer-11.md.af9b024693ba42e7c01a74adb17337ea28879619.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\change-history-for-internet-explorer-11.md",
+      "XliffHash": "af9b024693ba42e7c01a74adb17337ea28879619",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\9d95cfc4fbdccae6bb6f783762708dea4ff301d0.9a5065cc32c1a50ae45e5afd3c6d8826dca5978b.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\install-ie11-using-third-party-tools.md.88cbfd9fb10eef66a9b7ae85f3df6347cf2e8b39.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\install-ie11-using-third-party-tools.md",
+      "XliffHash": "88cbfd9fb10eef66a9b7ae85f3df6347cf2e8b39",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\cd4c865ebefc39dc2f68d8d03a83a13036b9abb8.31bafbda137f3f2a52b754cc35406fd8e0e06d3d.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\custombranding-ins-file-setting.md.07881166c0eb7100fbc4a8be35698ee51028a2da.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\custombranding-ins-file-setting.md",
+      "XliffHash": "07881166c0eb7100fbc4a8be35698ee51028a2da",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\06a090f8f0b5a2318d23cb9acacab0b225aea4b4.d2680527503690832f7eb60379866b2b973fe66c.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\new-group-policy-settings-for-ie11.md.1f284a9123603d5fad9636f55c470b60cce043fc.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\new-group-policy-settings-for-ie11.md",
+      "XliffHash": "1f284a9123603d5fad9636f55c470b60cce043fc",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\63e0d16c5aca101eff297f9cc1e835c1a5037e83.6cae2d90674243c8acf9943fc0b6c021c324dfed.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\internal-install-ieak11-wizard.md.aa6bc85d7ced43de323c61ba9acef256f5d61e3d.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\internal-install-ieak11-wizard.md",
+      "XliffHash": "aa6bc85d7ced43de323c61ba9acef256f5d61e3d",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\04ecee8c664bdd3216891e450d3252d349922eb5.5390153d4df468ded7d58a8016c0af67a7eb635c.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\edge\\emie-to-improve-compatibility.md.3f5c6481a64840cc21698536500d740cf6357b02.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\edge\\emie-to-improve-compatibility.md",
+      "XliffHash": "3f5c6481a64840cc21698536500d740cf6357b02",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\4c681bf28c58d1197da1ed7285244424db204d2f.d8534d23eee3863467916af98d0c7be9af37ea23.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\auto-detection-dhcp-or-dns-servers-ieak11.md.31c5be6b44e4b8e94bd9fb6f0dbc91af4f0408d4.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\auto-detection-dhcp-or-dns-servers-ieak11.md",
+      "XliffHash": "31c5be6b44e4b8e94bd9fb6f0dbc91af4f0408d4",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\8b84ce31e7f06bb6966c00bc6a0b34d7e07ca422.66069bd6dd16ea4806b67bc280bfbbe09587adf3.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\edge\\hardware-and-software-requirements.md.2841747ecc718031b6d3eaaca387bb6c946c7994.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\edge\\hardware-and-software-requirements.md",
+      "XliffHash": "2841747ecc718031b6d3eaaca387bb6c946c7994",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\88b2049496d095d93c503da3201e6ebb9518a4cb.4b5128bbfe9570885cf69cd3c7fdcc50b5c22e6b.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\remove-all-sites-from-your-enterprise-mode-site-list-in-the-enterprise-mode-site-list-manager.md.2a709b559f9054111b6af177f121cd75c210b921.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\remove-all-sites-from-your-enterprise-mode-site-list-in-the-enterprise-mode-site-list-manager.md",
+      "XliffHash": "2a709b559f9054111b6af177f121cd75c210b921",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\d54fb6562905a3a2f5ceb2147bd8590600be3b48.dd637dd4af1629d1959a724edd18cedc47e57672.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\ieak11-admin-guide-for-it-pros.md.070836a1f466e8174a2a17398dac95f1dee03d7a.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\ieak11-admin-guide-for-it-pros.md",
+      "XliffHash": "070836a1f466e8174a2a17398dac95f1dee03d7a",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\3fc7822f7fef52ac70c6a566e5ed0d47c982b83f.64ae51fb2f130d50674a3fa239c103d70b0dad2d.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\import-into-the-enterprise-mode-site-list-manager.md.f66a253f177df392186a8f40a2bd025ff344cf88.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\import-into-the-enterprise-mode-site-list-manager.md",
+      "XliffHash": "f66a253f177df392186a8f40a2bd025ff344cf88",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\880ea5619f0dfb56237f330643a21e701b499ea7.e8bbd3e938cc1e56066f913303da8d6a27664fc0.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\save-your-site-list-to-xml-in-the-enterprise-mode-site-list-manager.md.7a34fe69be801edfcf430ee083052ecf488b2d4e.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\save-your-site-list-to-xml-in-the-enterprise-mode-site-list-manager.md",
+      "XliffHash": "7a34fe69be801edfcf430ee083052ecf488b2d4e",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\652bf66556e5ebefcd4471c26eb2214377a184a6.0d3f34ffcb71f68f4fe64c309ae858be1b095e36.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\group-policy-shortcut-extensions-ie11.md.300fe2cbc33e40a64f59dd912748faa1734dcd98.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\group-policy-shortcut-extensions-ie11.md",
+      "XliffHash": "300fe2cbc33e40a64f59dd912748faa1734dcd98",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\eee6a00b0594441fb2f7163714c11187399a7a4c.873015290cdc7c4c8c01ac4cb71886bf967c75fb.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\deploy-ie11-using-automatic-version-synchronization-avs.md.fedb20c40c24a18936d8085c4ea6662cc45eb7c0.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\deploy-ie11-using-automatic-version-synchronization-avs.md",
+      "XliffHash": "fedb20c40c24a18936d8085c4ea6662cc45eb7c0",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\62908a9ad824313bd03fb1e8e7619455306552f9.1c2e2b6a149b83d91404ad6234997b8111082b29.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\enterprise-mode-overview-for-ie11.md.3813a0af17088959a8218c8f0cd7bf081f532bc6.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\enterprise-mode-overview-for-ie11.md",
+      "XliffHash": "3813a0af17088959a8218c8f0cd7bf081f532bc6",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\db2977adc41ecfcc9fb9cedb0fd4b0d5713a797f.6507f9ecc8ebb109dc287ce7695ae0d47ea8c543.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\net-framework-problems-with-ie11.md.f9728cd935ad6623e0d8d21d6f77d206697a8d43.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\net-framework-problems-with-ie11.md",
+      "XliffHash": "f9728cd935ad6623e0d8d21d6f77d206697a8d43",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\bca6c37f41b7cf2f86c1b287a5a7ab6c69962f8f.80decfd7ce6e7c102880d7935655e678e837e80c.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\turn-off-natural-metrics.md.c63efd4acb3992a892f9bb4a82e4ce2385a9a023.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\turn-off-natural-metrics.md",
+      "XliffHash": "c63efd4acb3992a892f9bb4a82e4ce2385a9a023",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\b3ee158190dbc8c1abdaa8975a68fe246270983c.8f3e4b9e0947d3ba07e088d33e5b30c474fa5555.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\favorites-favoritesbar-and-feeds-ieak11-wizard.md.4b578c7c4a96ed92c250a73a480dbfdf11b4307a.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\favorites-favoritesbar-and-feeds-ieak11-wizard.md",
+      "XliffHash": "4b578c7c4a96ed92c250a73a480dbfdf11b4307a",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\26d3a2faf347d91fb55e0372bc454b3efb0b1f33.85151ee1d3d79e8e0843f707e63e7b5cec0a5060.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\browser-cache-changes-and-roaming-profiles.md.bec376e3d7beea89595fd586f70301456a5bd12e.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\browser-cache-changes-and-roaming-profiles.md",
+      "XliffHash": "bec376e3d7beea89595fd586f70301456a5bd12e",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\c0ffa86ae91b070e8220c78b1eff072f40bbe1df.1153eae8afb673d2756ea0632e97cac96164d7fd.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\proxy-ins-file-setting.md.d2a862e8d7e975fd6de546fbdf02deac90e19581.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\proxy-ins-file-setting.md",
+      "XliffHash": "d2a862e8d7e975fd6de546fbdf02deac90e19581",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\9b1ea24b0eac7742d9a8f0b286ef7ed756665ebb.42ba1c92971c3fd6e9c2391d0edfdad2b99c8c56.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\missing-internet-explorer-maintenance-settings-for-ie11.md.866559a5ecec33ff859cc3d348f7ab7bca7fb7e7.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\missing-internet-explorer-maintenance-settings-for-ie11.md",
+      "XliffHash": "866559a5ecec33ff859cc3d348f7ab7bca7fb7e7",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\a58be14e18ccbb1362595ba9d84702a11c9e7cf2.f173b05a8c7ca96582880976f1f6b2fd9380d95c.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\create-install-packages-for-multiple-operating-systems-or-languages.md.35647e423a8c41f8e242d944daaabb350228eb2c.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\create-install-packages-for-multiple-operating-systems-or-languages.md",
+      "XliffHash": "35647e423a8c41f8e242d944daaabb350228eb2c",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\dfb79eac36ca5d44c49f81596499a6bfb56e015f.9106133181a69c8742b68001cbf7a17acee07bd1.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\index.md.e27543fd393cab37021a812fa0187a45fac9078d.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\index.md",
+      "XliffHash": "e27543fd393cab37021a812fa0187a45fac9078d",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\2a13dd50440aee983f502f3bc6b01e9f9baa0ffd.23b3f58efff594bc18916e78d60af6c0ee20148a.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\group-policy-and-local-group-policy-editor-ie11.md.afff3a8627d852b741b64a99bb9366d8e38bbcf2.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\group-policy-and-local-group-policy-editor-ie11.md",
+      "XliffHash": "afff3a8627d852b741b64a99bb9366d8e38bbcf2",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\2d17f1dcae47eea47af8b861f130a6217cb5bcfe.85eaf39bb8ed2e7cbea3742b8300604ad959cccc.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\out-of-date-activex-control-blocking.md.a86f64adbd0608c1ad724b9ca11086cd561708a9.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\out-of-date-activex-control-blocking.md",
+      "XliffHash": "a86f64adbd0608c1ad724b9ca11086cd561708a9",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\d55f1ecccb5f2965886703b4a8be81b487232b4f.aa420260c36be3087203b3bbe8080f4b04333b3f.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\file-locations-ieak11-wizard.md.50f3c01ed26e69c2b8fd9ef6946eedb0b6357dc2.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\file-locations-ieak11-wizard.md",
+      "XliffHash": "50f3c01ed26e69c2b8fd9ef6946eedb0b6357dc2",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\548e308a6205a6de53ea7c50ba02dc7040c45fc2.ba47df975eacc0a9b68d250c5958eecf606c0e13.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\fix-validation-problems-using-the-enterprise-mode-site-list-manager.md.bea6f59a008a741542335260f9a9588658cc073f.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\fix-validation-problems-using-the-enterprise-mode-site-list-manager.md",
+      "XliffHash": "bea6f59a008a741542335260f9a9588658cc073f",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\36ac71d9b2d309775f34052013a1621b7f245daa.64de866e7deb45c58bed9b0091d9a1d5583d14d5.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\add-single-sites-to-enterprise-mode-site-list-using-the-version-1-enterprise-mode-tool.md.d170d6e2e8509f38bcbd394a2eabafe8ce66631b.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\add-single-sites-to-enterprise-mode-site-list-using-the-version-1-enterprise-mode-tool.md",
+      "XliffHash": "d170d6e2e8509f38bcbd394a2eabafe8ce66631b",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\12f6a9946ca4f92038600a68b20bd96295d81e35.6ffe2b5636c5b662a292d2cbb91964a02447747c.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\add-multiple-sites-to-enterprise-mode-site-list-using-the-version-1-schema-and-enterprise-mode-tool.md.09d280c73fdafed96a4f4e95146121f9148c5b1f.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\add-multiple-sites-to-enterprise-mode-site-list-using-the-version-1-schema-and-enterprise-mode-tool.md",
+      "XliffHash": "09d280c73fdafed96a4f4e95146121f9148c5b1f",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\acc55134fa12284492a3fd0753f34d466edf7a28.4cd3981f109c4c779d676c25856fbf6651c59873.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\missing-the-compatibility-view-button.md.e0eabf4789a931be246de5f25cc9db5e9b39bdd1.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\missing-the-compatibility-view-button.md",
+      "XliffHash": "e0eabf4789a931be246de5f25cc9db5e9b39bdd1",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\28e3dfe807a3235716aa5d5b7f32849e769909aa.fb48c4ab8cd052048234618b398ad3f3345ff07f.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\browsing-options-ieak11-wizard.md.192346fe06fb36e72d9f853b8805342ce5c9d94a.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\browsing-options-ieak11-wizard.md",
+      "XliffHash": "192346fe06fb36e72d9f853b8805342ce5c9d94a",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\106abc64b7cc84fd5cbd1c929d8da8c423d05b60.e54539880e15837ba52bd61f9ab5a19bd08e98d7.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\delete-sites-from-your-enterprise-mode-site-list-in-the-enterprise-mode-site-list-manager.md.cb3767c4487456f078e393c53de1d768bd96d7ef.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\delete-sites-from-your-enterprise-mode-site-list-in-the-enterprise-mode-site-list-manager.md",
+      "XliffHash": "cb3767c4487456f078e393c53de1d768bd96d7ef",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\061a915832044bd467bb17f5c88a488fd29c2260.2dbc14a55318eb5c605f10b0b369fb5afa5bd6c1.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\problems-after-installing-ie11.md.4f23a81193ecd66f6c7d21af947608a096519c3f.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\problems-after-installing-ie11.md",
+      "XliffHash": "4f23a81193ecd66f6c7d21af947608a096519c3f",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\1c7cf77bcbcb03707579626af4fc752c0ce3ebb3.775310df1cfd120f30d7588e1f9ffa0a15a4e267.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\TOC.md.4dbd31d96ec0a79c27d4417619461661568d7257.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\TOC.md",
+      "XliffHash": "4dbd31d96ec0a79c27d4417619461661568d7257",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\636657a168851e991e5d096ce5dfed55e5728bb9.64a727e1594633c5a726db32b776afe427f17662.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\favoritesex-ins-file-setting.md.b32a179ea3e320b476ec235e6538d338123331fd.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\favoritesex-ins-file-setting.md",
+      "XliffHash": "b32a179ea3e320b476ec235e6538d338123331fd",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\febdfe13c2b06b9fd05890fc61e0c2bef023b92f.003793740c4bb8b39faec9d2ab396a172e5403e6.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\updated-features-and-tools-with-ie11.md.596b8b94ddaaaf75eda9f94bfa589f4ce8dfc6db.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\updated-features-and-tools-with-ie11.md",
+      "XliffHash": "596b8b94ddaaaf75eda9f94bfa589f4ce8dfc6db",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\621e19360a34f01641e326d72252182ca0dd2ef2.ee8820471b4e19beab6734fdea5624699d871355.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\customize-automatic-search-for-ie.md.bc41637113d55c482c3b5c73aa1be5f13dce9c66.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\customize-automatic-search-for-ie.md",
+      "XliffHash": "bc41637113d55c482c3b5c73aa1be5f13dce9c66",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\1d1b7b830f46f25c89288508d89f5211fd07f9fc.df17c07920947d0f2fac631ffd6012e8b2468cbf.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\url-ins-file-setting.md.badba89a7a3f3036a46f43405e9915cbbb0ea015.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\url-ins-file-setting.md",
+      "XliffHash": "badba89a7a3f3036a46f43405e9915cbbb0ea015",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\a2ebe24edf579c3678e3e784e7bfc56af49c81ed.f0be23d8d3e0d4d244a278dc5a6c707001149c72.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\choose-how-to-deploy-ie11.md.568550fd637625fcce894c75776e763f9f6633cf.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\choose-how-to-deploy-ie11.md",
+      "XliffHash": "568550fd637625fcce894c75776e763f9f6633cf",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\46e16218cb38f277f34b327e9c4926be5614fa22.98044d8dd5f20c36d250d2c34381eb622a493d64.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\additional-settings-ieak11-wizard.md.e042d90c1bdd7d28661e9eba985fbf1e05b587ec.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\additional-settings-ieak11-wizard.md",
+      "XliffHash": "e042d90c1bdd7d28661e9eba985fbf1e05b587ec",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\083202977b59584286d160c5e6277c89a59a979a.198730343d84d4df810431ed2652c3b8410b8676.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\check-for-new-enterprise-mode-site-list-xml-file.md.1f3ae59bcbf26a832ca3e4442f8ff5ef2c8d3066.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\check-for-new-enterprise-mode-site-list-xml-file.md",
+      "XliffHash": "1f3ae59bcbf26a832ca3e4442f8ff5ef2c8d3066",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\d2b75be2bb15897ebbd96b71eddc64e010f2b473.f6d64a7a7a15c0eb5184bee5b3ba1e3e03517e50.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\add-single-sites-to-enterprise-mode-site-list-using-the-version-2-enterprise-mode-tool.md.b3031ecacf3c15e666f412847f340a9e86adee25.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\add-single-sites-to-enterprise-mode-site-list-using-the-version-2-enterprise-mode-tool.md",
+      "XliffHash": "b3031ecacf3c15e666f412847f340a9e86adee25",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\274e7f772088d991370e05ef69310d4739b77345.8f00f95a13a0dd7977d7dc86fd72b7897df14f55.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\security-imports-ins-file-setting.md.392f13cf1bcc7440029895bb0501b3910359fc1f.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\security-imports-ins-file-setting.md",
+      "XliffHash": "392f13cf1bcc7440029895bb0501b3910359fc1f",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\55c769715e6e87278aa8469803936cdc00a9f6fa.f1ab1418b9172b6bc14872c78bbb3cd03ce23d19.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\using-internet-settings-ins-files.md.fb58fcbf8839864fa43fca4b340f11c7ad389db5.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\using-internet-settings-ins-files.md",
+      "XliffHash": "fb58fcbf8839864fa43fca4b340f11c7ad389db5",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\d3ec55e479058e25bd738060efd657ce3695f4cd.9f45eceb7d5aad488c2d3a01a55818435706b635.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\group-policy-problems-ie11.md.f413b3d3b1efab3b48a5cbd59a19ac6ef88cf8b1.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\group-policy-problems-ie11.md",
+      "XliffHash": "f413b3d3b1efab3b48a5cbd59a19ac6ef88cf8b1",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\6b2517ad8030dc3d0a8459058c9b18d8034ac262.9431f3f20373f5c28679fb364660e171ae3c6109.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\using-enterprise-mode.md.24a5e79dcb0a7c50b10428e998a5fb470b957964.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\using-enterprise-mode.md",
+      "XliffHash": "24a5e79dcb0a7c50b10428e998a5fb470b957964",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\f671ddd3aef40f5b36cd400b14b59a09bcfe8cad.d5a26003b2dc8f323f154851e217eaaa3f5864f5.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\deploy-ie11-using-software-distribution-tools.md.359e58c5c5cabb27b17cb3ca06f77977a1041c0e.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\deploy-ie11-using-software-distribution-tools.md",
+      "XliffHash": "359e58c5c5cabb27b17cb3ca06f77977a1041c0e",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\689919a7dab2d13e7f64d9e355dbb1c38099117f.97414843384b9fc43ff2154cb7676377e26f53d5.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\group-policy-and-ie11.md.a432aaef9b2ae0a67a29bc96bd8cb7721f5369aa.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\group-policy-and-ie11.md",
+      "XliffHash": "a432aaef9b2ae0a67a29bc96bd8cb7721f5369aa",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\203905c1a8c2c80de8730cc711c06c75e71ad2d0.ee146edb76d1e8838c1dcd26ded04c4c0f38f6ab.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\use-the-enterprise-mode-site-list-manager.md.48d9d6123587f89fd2584cdec8d6a9ba28a14407.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\use-the-enterprise-mode-site-list-manager.md",
+      "XliffHash": "48d9d6123587f89fd2584cdec8d6a9ba28a14407",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\6525109f9eec4b4ea203df4a6f1514a83c48e17c.6290142c5dfa7feef78a5746df55ffcf0cc9a1a6.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\install-problems-with-ie11.md.5fe46abed7e31ab879c61eeac0f269b9aea2ee41.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\install-problems-with-ie11.md",
+      "XliffHash": "5fe46abed7e31ab879c61eeac0f269b9aea2ee41",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\83ef172f7541c70702c9d25a86ab865eca3a72d2.7b50521ab555c201ab7de11db0e012d9e25a74e6.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\what-is-the-internet-explorer-11-blocker-toolkit.md.02f57d3ef15d0ebe1cac2213dd08ac9f8d783e8b.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\what-is-the-internet-explorer-11-blocker-toolkit.md",
+      "XliffHash": "02f57d3ef15d0ebe1cac2213dd08ac9f8d783e8b",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\b7b861eeb0752fdb7abc643259476fe46468fc23.63e8f72acb580156e7da295584c4e183fd8011d3.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\install-ie11-using-windows-server-update-services-wsus.md.15c633d81160ed7f28eedcb1d5077378f35c360f.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\install-ie11-using-windows-server-update-services-wsus.md",
+      "XliffHash": "15c633d81160ed7f28eedcb1d5077378f35c360f",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\18df91bb7d03eee64a3e0cef5d7bcc39f78053f4.a4d4672f1b40e6acc30d4e0e78c41c0a77a6e169.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\group-policy-windows-powershell-ie11.md.cfad222781de6ac0b9111afd1732f12eccf21c93.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\group-policy-windows-powershell-ie11.md",
+      "XliffHash": "cfad222781de6ac0b9111afd1732f12eccf21c93",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\2bcbc18f6d3f1faf5389bbf663cc57af8b50a5e2.08d4cac44f9f902648a7f8523041285f75798b80.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\create-uninstall-inf-files-for-custom-components.md.852b862c8b7b379108dbb269877cfc0145cf6b20.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\create-uninstall-inf-files-for-custom-components.md",
+      "XliffHash": "852b862c8b7b379108dbb269877cfc0145cf6b20",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\52986021528023fcdbe536735318401dada3dd8a.b066a700dbe39e8b9fbfa159d1d8ece858e93bb1.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\auto-detect-settings-for-ie11.md.71f34eafe457b88ece571c9925acc7774cba58ca.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\auto-detect-settings-for-ie11.md",
+      "XliffHash": "71f34eafe457b88ece571c9925acc7774cba58ca",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\297e865d860e7ca5b45cd114a2dd675ea2027d47.0bc1551c409ad9af4a36c3a1de94549b352be4d1.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\edge\\available-policies.md.85cbaf60217f52d7ad294526e719aa9bdee6326d.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\edge\\available-policies.md",
+      "XliffHash": "85cbaf60217f52d7ad294526e719aa9bdee6326d",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\637e8ac02e73701ec87d595a77168d269ff81a99.7622f217303d01612c9ad197af999b5194343d4c.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\fix-compat-issues-with-doc-modes-and-enterprise-mode-site-list.md.c43004f0f6a84c05b4efdf94721beec2bfe4987d.HT": {
+      "SourceFilename": "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\fix-compat-issues-with-doc-modes-and-enterprise-mode-site-list.md",
+      "XliffHash": "c43004f0f6a84c05b4efdf94721beec2bfe4987d",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\en-us.wdg-cpub-test\\4e14ff893c99ed7edd937d9e3685edbd17bed80d.215396a5759a3a1024bb760dec99c7b8b51699ea.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
     }
   }
 }

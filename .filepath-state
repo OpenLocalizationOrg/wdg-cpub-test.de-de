@@ -61,16 +61,20 @@
     "wdg-cpub-test\\lizross\\emie_to_improve_compatibility.md"
   ],
   "c60b61e09592ccc99e5af898dcef91d310e8d794": [
-    "wdg-cpub-test\\lizross\\images\\EmIEOpeninIE.png"
+    "wdg-cpub-test\\lizross\\images\\EmIEOpeninIE.png",
+    "wdg-cpub-test\\HoverTest\\browsers\\edge\\images\\emie_open_in_ie.png"
   ],
   "3db200b5df5b492cd6cfcc04c59db9a3bffc1db1": [
-    "wdg-cpub-test\\lizross\\images\\Edge_EmIE_GroupPolicySiteList.png"
+    "wdg-cpub-test\\lizross\\images\\Edge_EmIE_GroupPolicySiteList.png",
+    "wdg-cpub-test\\HoverTest\\browsers\\edge\\images\\edge-emie-grouppolicysitelist.png"
   ],
   "c4ad8cd0e62f8f177e1b945b19b0ae2667a08e51": [
-    "wdg-cpub-test\\lizross\\images\\Edge_EmIE_RegistrySiteList.png"
+    "wdg-cpub-test\\lizross\\images\\Edge_EmIE_RegistrySiteList.png",
+    "wdg-cpub-test\\HoverTest\\browsers\\edge\\images\\edge-emie-registrysitelist.png"
   ],
   "13db3344d2ab0ff7d5350584470566ac2b128e12": [
-    "wdg-cpub-test\\lizross\\images\\SendintranettoIE.png"
+    "wdg-cpub-test\\lizross\\images\\SendintranettoIE.png",
+    "wdg-cpub-test\\HoverTest\\browsers\\edge\\images\\sendintranettoie.png"
   ],
   "5d05b35b340b2dfcb038c9e10880f3c5a902c777": [
     "wdg-cpub-test\\lizross\\hardware_and_software_requirements.md"
@@ -3575,5 +3579,571 @@
   ],
   "d47972f19c0143e2f4c75bc07f50a97c4a54cd0d": [
     "wdg-cpub-test\\yokita\\surface\\upgrade-surface-devices-to-windows-10-with-mdt.md"
+  ],
+  "637e8ac02e73701ec87d595a77168d269ff81a99": [
+    "wdg-cpub-test\\HoverTest\\browsers\\edge\\available-policies.md"
+  ],
+  "956c5872221526bb996aedf4d14d51a5130f3495": [
+    "wdg-cpub-test\\HoverTest\\browsers\\edge\\change-history-for-microsoft-edge.md"
+  ],
+  "4c681bf28c58d1197da1ed7285244424db204d2f": [
+    "wdg-cpub-test\\HoverTest\\browsers\\edge\\emie-to-improve-compatibility.md"
+  ],
+  "2a3a4c37c4dd9a8bac0843689039e27611cbedbc": [
+    "wdg-cpub-test\\HoverTest\\browsers\\edge\\enterprise-guidance-using-microsoft-edge-and-ie11.md"
+  ],
+  "88b2049496d095d93c503da3201e6ebb9518a4cb": [
+    "wdg-cpub-test\\HoverTest\\browsers\\edge\\hardware-and-software-requirements.md"
+  ],
+  "cb4c1f48a6689d260b479437f66a250a5bf5d7fd": [
+    "wdg-cpub-test\\HoverTest\\browsers\\edge\\images\\wedge.gif",
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\images\\wedge.gif",
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\images\\wedge.gif"
+  ],
+  "5a6dc29ebd2d5b1595ebb82c8fe96cadfd1351e0": [
+    "wdg-cpub-test\\HoverTest\\browsers\\edge\\Index.md"
+  ],
+  "f1e29ce61853cab8f7d763eb7906d336a41fe362": [
+    "wdg-cpub-test\\HoverTest\\browsers\\edge\\security-enhancements-microsoft-edge.md"
+  ],
+  "0ee6c8484fc7e97a1f7dd2bdbf0629c99244482d": [
+    "wdg-cpub-test\\HoverTest\\browsers\\edge\\TOC.md"
+  ],
+  "4fefd40eb379017177e15bbd25f066eb6c3a4712": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\activex-installation-using-group-policy.md"
+  ],
+  "acc55134fa12284492a3fd0753f34d466edf7a28": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\add-multiple-sites-to-enterprise-mode-site-list-using-the-version-1-schema-and-enterprise-mode-tool.md"
+  ],
+  "960c042e6c55d67351bd819edccfb828fe04a21b": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\add-multiple-sites-to-enterprise-mode-site-list-using-the-version-2-schema-and-enterprise-mode-tool.md"
+  ],
+  "12f6a9946ca4f92038600a68b20bd96295d81e35": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\add-single-sites-to-enterprise-mode-site-list-using-the-version-1-enterprise-mode-tool.md"
+  ],
+  "274e7f772088d991370e05ef69310d4739b77345": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\add-single-sites-to-enterprise-mode-site-list-using-the-version-2-enterprise-mode-tool.md"
+  ],
+  "1c9ef3b4e8444ffe26193b356d434fbf14c80227": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\administrative-templates-and-ie11.md"
+  ],
+  "094a0ae8453546d0750e7ea3e0463b1b4c24d13d": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\auto-configuration-and-auto-proxy-problems-with-ie11.md"
+  ],
+  "1b9d535c00a31c20a77540b4cc2c602dc013cea5": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\auto-configuration-settings-for-ie11.md"
+  ],
+  "297e865d860e7ca5b45cd114a2dd675ea2027d47": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\auto-detect-settings-for-ie11.md"
+  ],
+  "47972aa95fa87d5c4e53aa67ae0032a9186ccbfb": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\auto-proxy-configuration-settings-for-ie11.md"
+  ],
+  "c0ffa86ae91b070e8220c78b1eff072f40bbe1df": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\browser-cache-changes-and-roaming-profiles.md"
+  ],
+  "9d95cfc4fbdccae6bb6f783762708dea4ff301d0": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\change-history-for-internet-explorer-11.md"
+  ],
+  "d2b75be2bb15897ebbd96b71eddc64e010f2b473": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\check-for-new-enterprise-mode-site-list-xml-file.md"
+  ],
+  "46e16218cb38f277f34b327e9c4926be5614fa22": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\choose-how-to-deploy-ie11.md"
+  ],
+  "680f49b1123534a0fdad120ca477afe7888b4c9c": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\choose-how-to-install-ie11.md"
+  ],
+  "fd67292aff1b7b43100c25980a7a417878d6dd2e": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\collect-data-using-enterprise-site-discovery.md"
+  ],
+  "dfb79eac36ca5d44c49f81596499a6bfb56e015f": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\create-install-packages-for-multiple-operating-systems-or-languages.md"
+  ],
+  "57d9642944959435cf75f29590e8af84fc595a1f": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\customize-ie11-install-packages.md"
+  ],
+  "061a915832044bd467bb17f5c88a488fd29c2260": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\delete-sites-from-your-enterprise-mode-site-list-in-the-enterprise-mode-site-list-manager.md"
+  ],
+  "62908a9ad824313bd03fb1e8e7619455306552f9": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\deploy-ie11-using-automatic-version-synchronization-avs.md"
+  ],
+  "689919a7dab2d13e7f64d9e355dbb1c38099117f": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\deploy-ie11-using-software-distribution-tools.md"
+  ],
+  "58940e434b35041f4b41f2884d04514b2c9d5abc": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\deploy-pinned-sites-using-mdt-2013.md"
+  ],
+  "dfdb239bf904ca19f85027374b50f22658acb697": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\deprecated-document-modes.md"
+  ],
+  "320c75b94ca48fc76f7fb6b7fad9fe14b77056b2": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\edit-the-enterprise-mode-site-list-using-the-enterprise-mode-site-list-manager.md"
+  ],
+  "dcd6df9baa832a6a2715cb090d80bd599ee0f5b7": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\enable-and-disable-add-ons-using-administrative-templates-and-group-policy.md"
+  ],
+  "117fdbe6007aed552dad56e1ad867c9a2f0c588b": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\enhanced-protected-mode-problems-with-ie11.md"
+  ],
+  "db2977adc41ecfcc9fb9cedb0fd4b0d5713a797f": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\enterprise-mode-overview-for-ie11.md"
+  ],
+  "731e313c0a3983d840690926b97edda3b6f8a7e0": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\enterprise-mode-schema-version-1-guidance.md"
+  ],
+  "9c254465350665d9b9fd2026cacebb2a53e569ab": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\enterprise-mode-schema-version-2-guidance.md"
+  ],
+  "774e65920cc5afe2d704c561aa960f61b28d9308": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\export-your-enterprise-mode-site-list-from-the-enterprise-mode-site-list-manager.md"
+  ],
+  "4e14ff893c99ed7edd937d9e3685edbd17bed80d": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\fix-compat-issues-with-doc-modes-and-enterprise-mode-site-list.md"
+  ],
+  "36ac71d9b2d309775f34052013a1621b7f245daa": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\fix-validation-problems-using-the-enterprise-mode-site-list-manager.md"
+  ],
+  "a9c72588914f3bcf28d30e6b0d62ded25e7c3122": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\group-policy-and-advanced-group-policy-mgmt-ie11.md"
+  ],
+  "3931a450d06db331af4138ef77b59b9514e02564": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\group-policy-and-group-policy-mgmt-console-ie11.md"
+  ],
+  "203905c1a8c2c80de8730cc711c06c75e71ad2d0": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\group-policy-and-ie11.md"
+  ],
+  "2d17f1dcae47eea47af8b861f130a6217cb5bcfe": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\group-policy-and-local-group-policy-editor-ie11.md"
+  ],
+  "729fd47c028136527ff9889604e2c22e28bcc3b8": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\group-policy-compatability-with-ie11.md"
+  ],
+  "2130a49cb8d371a1ebfe990748b4f9c8bb884dd5": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\group-policy-objects-and-ie11.md"
+  ],
+  "d3b99dab4880d345a5de34ff0e18ce295c43a604": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\group-policy-preferences-and-ie11.md"
+  ],
+  "6b2517ad8030dc3d0a8459058c9b18d8034ac262": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\group-policy-problems-ie11.md"
+  ],
+  "eee6a00b0594441fb2f7163714c11187399a7a4c": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\group-policy-shortcut-extensions-ie11.md"
+  ],
+  "2bcbc18f6d3f1faf5389bbf663cc57af8b50a5e2": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\group-policy-windows-powershell-ie11.md"
+  ],
+  "73cff554c411000ad78e54266d95b40554dbaac2": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\images\\affectedsoftware.png"
+  ],
+  "097366a272b33d5cbd12efdb83157615fd149aa2": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\images\\bulkadd-emiesitelistmgr.png"
+  ],
+  "aebcc0165a2cfb4dbff6f5ad120e1bf33776882f": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\images\\configmgractivexreport.png"
+  ],
+  "303db0fad6adaeca2b6ecf875d1f76e1f9d7393c": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\images\\configmgrhardwareinventory.png"
+  ],
+  "34d91ebc9472b6f51936cbb7d7349851a3accce5": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\images\\docmode-f12.png"
+  ],
+  "3eb07d3cf7b9c2f0afcb2a02d1c6f37465da11b7": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\images\\docmodeflow2.png"
+  ],
+  "846849ed3588b287f55260c4f68800b2b20637c1": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\images\\emie-listmgr.png"
+  ],
+  "1c82250403e3f44be311d19b5744b916ec52f931": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\images\\emie-sitelistmgr.png"
+  ],
+  "bcfff97a34018483c8bc8949ba5cb011e8a3b729": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\images\\ie11-inventory-addclassconnectscreen.png"
+  ],
+  "07a122b26d26b619e0c214473ce8874a2da045f6": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\images\\ie-emie-editbindings.png"
+  ],
+  "ada51b7c27caeb0b7146411067ae8f5f5a1bc7b2": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\images\\ie-emie-editpolicy.png"
+  ],
+  "15e5cb716a75e2a51f376f256fba4e34cde14629": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\images\\ie-emie-editregistrystring.png"
+  ],
+  "db7fd38e9494c266b4bf51e8e9e1c66daaf20af3": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\images\\ie-emie-grouppolicy.png"
+  ],
+  "182c60ed7061fbb491b529530e51ac21c54d360f": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\images\\ie-emie-grouppolicysitelist.png"
+  ],
+  "9da021131601578b8da0c836a06b59e0819f98c1": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\images\\ie-emie-logfile.png"
+  ],
+  "d6bebae9eacd3af33257c46846bd202f8d05126c": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\images\\ie-emie-logging.png"
+  ],
+  "9c1bdc6ba6b5c1a5982b6ed103cc541191e01e96": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\images\\ie-emie-packageupdate.png"
+  ],
+  "42c9dda99bc5394e25c115e7035bb74783d66c39": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\images\\ie-emie-publishsolution.png"
+  ],
+  "c55602e583390a17ffe400245ca4eb4889a97cc5": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\images\\ie-emie-publishweb.png"
+  ],
+  "6bfb83d266174abf14d639c656f3c9fd6570b802": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\images\\ie-emie-registrysitelist.png"
+  ],
+  "75f8e4533c359332c0e8ffdf3b723be96f215d42": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\images\\ie-emie-reportwdetails.png"
+  ],
+  "c7ff4d4f0aa158bef9a48667f917fd58a5bb80c2": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\images\\ie-emie-toolsmenu.png"
+  ],
+  "d27ed8c8ad8376c1177f5afc78f67d65487e761d": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\images\\ieoutdatedcontroloutsideofie.png"
+  ],
+  "f4404b5d9a8ef4a0c2199071a4406414dcb82b97": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\images\\ieoutdatedcontrolwarning.png"
+  ],
+  "840cf09b29802b683fd2aded6ad7201196c8fb48": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\images\\ie-site-discovery-sample-report.png"
+  ],
+  "3b4c4914f1db1a6a04629bdf16154770175d2afd": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\images\\outdatedcontrolwarning.png"
+  ],
+  "cdd98cbbc16a37795dcf386702fedad4997651a7": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\images\\securitybulletin-filter.png"
+  ],
+  "d908f9291bb26002f0b34875972eb6e9cf9f2efc": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\images\\setdefaultbrowsergp.png"
+  ],
+  "880ea5619f0dfb56237f330643a21e701b499ea7": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\import-into-the-enterprise-mode-site-list-manager.md"
+  ],
+  "dd847f808a8b186a979f3c62f2bd85e43da7f2c9": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\index.md"
+  ],
+  "505b53d58379445b5a2aab21d31de1019024380b": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\install-and-deploy-ie11.md"
+  ],
+  "ef4ae46d22152c459f449a0b615c8d48de19f1d4": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\install-ie11-using-microsoft-intune.md"
+  ],
+  "76c3a5ce4b14f84951eab7d2bb6978e00f26b77c": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\install-ie11-using-operating-system-deployment-systems.md"
+  ],
+  "a6bd96b40cf8a37b3f36a347e2024ddd004da226": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\install-ie11-using-system-center-configuration-manager.md"
+  ],
+  "6ffed315804ad38709af2e7e731c125421182596": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\install-ie11-using-the-network.md"
+  ],
+  "cd4c865ebefc39dc2f68d8d03a83a13036b9abb8": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\install-ie11-using-third-party-tools.md"
+  ],
+  "18df91bb7d03eee64a3e0cef5d7bcc39f78053f4": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\install-ie11-using-windows-server-update-services-wsus.md"
+  ],
+  "83ef172f7541c70702c9d25a86ab865eca3a72d2": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\install-problems-with-ie11.md"
+  ],
+  "b19096b4130ba23e0049059761eba4e6f53c67f1": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\intranet-problems-and-ie11.md"
+  ],
+  "f45927abe3c1b4397dc6c62c3efb582e409ab4e4": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\manage-ie11-overview.md"
+  ],
+  "a58be14e18ccbb1362595ba9d84702a11c9e7cf2": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\missing-internet-explorer-maintenance-settings-for-ie11.md"
+  ],
+  "28e3dfe807a3235716aa5d5b7f32849e769909aa": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\missing-the-compatibility-view-button.md"
+  ],
+  "bca6c37f41b7cf2f86c1b287a5a7ab6c69962f8f": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\net-framework-problems-with-ie11.md"
+  ],
+  "63e0d16c5aca101eff297f9cc1e835c1a5037e83": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\new-group-policy-settings-for-ie11.md"
+  ],
+  "d55f1ecccb5f2965886703b4a8be81b487232b4f": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\out-of-date-activex-control-blocking.md"
+  ],
+  "1c7cf77bcbcb03707579626af4fc752c0ce3ebb3": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\problems-after-installing-ie11.md"
+  ],
+  "d54fb6562905a3a2f5ceb2147bd8590600be3b48": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\remove-all-sites-from-your-enterprise-mode-site-list-in-the-enterprise-mode-site-list-manager.md"
+  ],
+  "5d1fc1bc362c28f8879e9a92102989f86b1da34d": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\remove-sites-from-a-local-compatibililty-view-list.md"
+  ],
+  "487098dc2f0e20635d13dfd419b2c8d2aa5cccd6": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\remove-sites-from-a-local-enterprise-mode-site-list.md"
+  ],
+  "652bf66556e5ebefcd4471c26eb2214377a184a6": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\save-your-site-list-to-xml-in-the-enterprise-mode-site-list-manager.md"
+  ],
+  "4e8bec3357eba468a19e40a1575668e33ee49306": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\search-your-enterprise-mode-site-list-in-the-enterprise-mode-site-list-manager.md"
+  ],
+  "b4d7bb7e0c6caeecd8759c07765119ec0f846bd6": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\set-the-default-browser-using-group-policy.md"
+  ],
+  "1de63a3082da4eed9ad5271f2afbaed86fa2d38d": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\set-up-enterprise-mode-logging-and-data-collection.md"
+  ],
+  "73e1dc50691019d63861eacef511f4670b832001": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\setup-problems-with-ie11.md"
+  ],
+  "d6fd800f30331d1844710223c9040f780a8ddb06": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\system-requirements-and-language-support-for-ie11.md"
+  ],
+  "7b55909b9ab46ab68f4f8f0cc195a1e05fe805fc": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\troubleshoot-ie11.md"
+  ],
+  "0a8536e8a5e2a522afb741f90e1479d6ce5e3cb9": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\turn-off-enterprise-mode.md"
+  ],
+  "b3ee158190dbc8c1abdaa8975a68fe246270983c": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\turn-off-natural-metrics.md"
+  ],
+  "48579593829a0775545d47ea5fcaddff921f322e": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\turn-on-enterprise-mode-and-use-a-site-list.md"
+  ],
+  "e73c446de7c8112cca63810c99cce7707d6b6c4d": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\turn-on-local-control-and-logging-for-enterprise-mode.md"
+  ],
+  "621e19360a34f01641e326d72252182ca0dd2ef2": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\updated-features-and-tools-with-ie11.md"
+  ],
+  "5713c138ca17082dc756b459a6b93c715e8aaae1": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\user-interface-problems-with-ie11.md"
+  ],
+  "6525109f9eec4b4ea203df4a6f1514a83c48e17c": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\use-the-enterprise-mode-site-list-manager.md"
+  ],
+  "f671ddd3aef40f5b36cd400b14b59a09bcfe8cad": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\using-enterprise-mode.md"
+  ],
+  "87e1ab93256f52b668de98ea911f14e52b7b637e": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\using-ieak11-to-create-install-packages.md"
+  ],
+  "03db23582cbd4a8396a760144940b2f1d0ac3d2b": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\using-inf-files-to-create-install-packages.md"
+  ],
+  "55d3318fee42f442818ce302eab8930081c3964e": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\virtualization-and-compatibility-with-ie11.md"
+  ],
+  "38cc1a8ec5ed5def881b8179f1476056e14bc68a": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\what-is-enterprise-mode.md"
+  ],
+  "b7b861eeb0752fdb7abc643259476fe46468fc23": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\what-is-the-internet-explorer-11-blocker-toolkit.md"
+  ],
+  "53e6c16376e64c28359a467fbd21d28c9c5d2321": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-faq\\faq-for-it-pros-ie11.md"
+  ],
+  "631024b7c95f74cdef426c4e2bfe6b99ab5522bc": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\accelerators-ieak11-wizard.md"
+  ],
+  "6386a38a5f70fc5eee4a9ff4ea138532a1a95547": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\add-and-approve-activex-controls-ieak11.md"
+  ],
+  "083202977b59584286d160c5e6277c89a59a979a": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\additional-settings-ieak11-wizard.md"
+  ],
+  "9ecf35c0a0a5973ace5f062801de1c85e0081687": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\add-root-certificate-ieak11-wizard.md"
+  ],
+  "249042f693bbd3e79eaa4eb05c59ac4264725b4e": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\auto-config-ieak11-wizard.md"
+  ],
+  "8b84ce31e7f06bb6966c00bc6a0b34d7e07ca422": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\auto-detection-dhcp-or-dns-servers-ieak11.md"
+  ],
+  "91dec9d1c350a762924102c0331912dc92f23c30": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\auto-version-sync-ieak11-wizard.md"
+  ],
+  "5cfb79e6bc048410ee1dd01e5c1da0ad0614683d": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\before-you-create-custom-pkgs-ieak11.md"
+  ],
+  "749cc09f131cade9527b93cc1b9989851250676d": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\branding-ins-file-setting.md"
+  ],
+  "a5217e8be0feda480a0a4d571836fda29fd40baf": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\browsertoolbars-ins-file-setting.md"
+  ],
+  "643f5815c18fe01d39ed6a3f9b1940da3c47137b": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\browser-ui-ieak11-wizard.md"
+  ],
+  "106abc64b7cc84fd5cbd1c929d8da8c423d05b60": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\browsing-options-ieak11-wizard.md"
+  ],
+  "7ccfdffc27e9727edcf88f9ed5f4e342c0476686": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\cabsigning-ins-file-setting.md"
+  ],
+  "700b8b401e0f8581bf38a811580f76597b42c208": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\compat-view-ieak11-wizard.md"
+  ],
+  "17de256a62af60f9ec65acfd4e0dda4d3fdc8f56": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\connection-mgr-ieak11-wizard.md"
+  ],
+  "8503bae731821b33e55ff538b30c3663699a8bdd": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\connection-settings-ieak11-wizard.md"
+  ],
+  "ccb06428f0e7ea6e5e2d0ed2f808dd30456baa34": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\connectionsettings-ins-file-setting.md"
+  ],
+  "102dea7fcf5814c57918e1f9a31d6ad577bec420": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\create-build-folder-structure-ieak11.md"
+  ],
+  "c3a8874aed0c25c7b4c858b7d1dff6d7adb19138": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\create-manage-deploy-custom-pkgs-ieak11.md"
+  ],
+  "1e78349bbcfa69e7e5e9168f88857a09b8462f6b": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\create-multiple-browser-packages-ieak11.md"
+  ],
+  "52986021528023fcdbe536735318401dada3dd8a": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\create-uninstall-inf-files-for-custom-components.md"
+  ],
+  "06a090f8f0b5a2318d23cb9acacab0b225aea4b4": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\custombranding-ins-file-setting.md"
+  ],
+  "d8149c617514398ca9fd315e2b1f071e20da4a4b": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\custom-components-ieak11-wizard.md"
+  ],
+  "1d1b7b830f46f25c89288508d89f5211fd07f9fc": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\customize-automatic-search-for-ie.md"
+  ],
+  "7e4a2a7f1c5424e5cb11d10e6ce46b9822e4532d": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\extreginf-ins-file-setting.md"
+  ],
+  "febdfe13c2b06b9fd05890fc61e0c2bef023b92f": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\favoritesex-ins-file-setting.md"
+  ],
+  "26d3a2faf347d91fb55e0372bc454b3efb0b1f33": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\favorites-favoritesbar-and-feeds-ieak11-wizard.md"
+  ],
+  "8f75426edfaf1b4f40f6e2215f5756e31e68c6d7": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\feature-selection-ieak11-wizard.md"
+  ],
+  "548e308a6205a6de53ea7c50ba02dc7040c45fc2": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\file-locations-ieak11-wizard.md"
+  ],
+  "da6169161205ef3af845fd5a766ec51cf2339e35": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\file-types-ieak11.md"
+  ],
+  "d246470709386bf03a8bf4ee8e6cd1f5c613fa8a": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\first-run-and-welcome-page-ieak11-wizard.md"
+  ],
+  "c8643fe0178dad223203eb572b00b494b6e31f78": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\guidelines-toolbar-and-favorites-list-ieak11.md"
+  ],
+  "3cb35a83e1302a81b11f349204f4c64297b1272a": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\hardware-and-software-reqs-ieak11.md"
+  ],
+  "54ca6209a22c402d376c98184e36f851b5daf51f": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\hidecustom-ins-file-setting.md"
+  ],
+  "3fc7822f7fef52ac70c6a566e5ed0d47c982b83f": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\ieak11-admin-guide-for-it-pros.md"
+  ],
+  "a3827fb1ec2d266f94746e65682691447b8ade43": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\ieak11-wizard-custom-options.md"
+  ],
+  "d8fbdbe70011053055ecf8c80992f01629f5f916": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\ie-setup-command-line-options-and-return-codes.md"
+  ],
+  "6b77f1fbc55a7c5ce5568775ccdea54b53bfc136": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\iexpress-command-line-options.md"
+  ],
+  "b3844cae71ac7c94515556afe824beb5eaf80624": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\iexpress-wizard-for-win-server.md"
+  ],
+  "56ebd92d30354aa434c280a73675e8c31dfe207c": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\important-urls-home-page-and-support-ieak11-wizard.md"
+  ],
+  "90f93b8167140e5cea8f4625dbcd4fcec09cd79b": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\index.md"
+  ],
+  "04ecee8c664bdd3216891e450d3252d349922eb5": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\internal-install-ieak11-wizard.md"
+  ],
+  "27e7df86e0bb9db19d3a39d62a4d390af6ff51f7": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\isp-security-ins-file-setting.md"
+  ],
+  "2629ac855f2e5aead67777a310ddd6ceef4e05e5": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\language-selection-ieak11-wizard.md"
+  ],
+  "cea14795ab91750f9a555e3596007a66e2fe3ab4": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\licensing-version-and-features-ieak11.md"
+  ],
+  "3bd1dcebb1b6b9f7aa5578cf69ec0060a6ce8cfe": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\media-ins-file-setting.md"
+  ],
+  "c4d53982f634589f44a6ca4072de34e59ac4b2ba": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\pkg-type-selection-ieak11-wizard.md"
+  ],
+  "3ed3a98b0f94977fb8a75df505d23b565cfa95c6": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\platform-selection-ieak11-wizard.md"
+  ],
+  "c06b548249485d1ec673c98037e808f898409d3b": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\prep-network-install-with-ieak11.md"
+  ],
+  "dc6bfad78e6f29c48710785ac396b401941db42a": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\programs-ieak11-wizard.md"
+  ],
+  "69148015b0432890946631d7ba27f5c3b6e1de6b": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\proxy-auto-config-examples.md"
+  ],
+  "9b1ea24b0eac7742d9a8f0b286ef7ed756665ebb": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\proxy-ins-file-setting.md"
+  ],
+  "37e90f8149c5be8601af5b2ffacefcc05669c426": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\proxy-settings-ieak11-wizard.md"
+  ],
+  "952c4dce7d2cff1c5cbc1c4a3991d4309f97b68e": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\register-uninstall-app-ieak11.md"
+  ],
+  "1ae2b2e9984592f850f7f73a52c8343cfed15c6f": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\rsop-snapin-for-policy-settings-ieak11.md"
+  ],
+  "ae2f55e8fe7d0c074bd1ed930f7a16e51e24fa4e": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\search-providers-ieak11-wizard.md"
+  ],
+  "6037dd031b8abdc17dce2c0f26fb1d2c6dd720a0": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\security-and-ieak11.md"
+  ],
+  "9903a21ca3b6d989a3f2bab9b005bdc79bd74a55": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\security-and-privacy-settings-ieak11-wizard.md"
+  ],
+  "55c769715e6e87278aa8469803936cdc00a9f6fa": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\security-imports-ins-file-setting.md"
+  ],
+  "2ce7fabb3e8267b2b7c82d193ec6d8809278b125": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\troubleshooting-custom-browser-pkg-ieak11.md"
+  ],
+  "a2ebe24edf579c3678e3e784e7bfc56af49c81ed": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\url-ins-file-setting.md"
+  ],
+  "72282b4677e097520bffbbfcca479906f43d4c62": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\user-experience-ieak11-wizard.md"
+  ],
+  "d3ec55e479058e25bd738060efd657ce3695f4cd": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\using-internet-settings-ins-files.md"
+  ],
+  "e1fa954b480952db15d1858d3b912e90a466cf30": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\wizard-complete-ieak11-wizard.md"
+  ],
+  "2a13dd50440aee983f502f3bc6b01e9f9baa0ffd": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\index.md"
+  ],
+  "636657a168851e991e5d096ce5dfed55e5728bb9": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\TOC.md"
+  ],
+  "b50ceeefd0f830eb9acca51d0a94b1dcf4335bb9": [
+    "wdg-cpub-test\\HoverTest\\browsers\\TOC.md"
   ]
 }
