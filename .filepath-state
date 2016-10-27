@@ -100,6 +100,9 @@
   "1a4983ce48e441c39272f65d1655d8c7ca2b4970": [
     "wdg-cpub-test\\TOC.md"
   ],
+  "dffd6014ca27fa4c72b0763ad776d7fd24e7ea3e": [
+    "wdg-cpub-test\\Welcome.md"
+  ],
   "c488f0d1762f69f5847b30d927a95a8954e09c3c": [
     "wdg-cpub-test\\Welcome.md"
   ],
@@ -451,13 +454,13 @@
   "70174df9d165e4b9845ed2300000bf0dd5718905": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\layout-perf-ex3.png"
   ],
-  "214e972e0239ce7feb783fb3447b22e94361cfef": [
-    "wdg-cpub-test\\ndolci\\debug-test-perf\\performance-and-xaml-ui.md"
-  ],
   "93096acf7e39a74921f1e1424f9efce1c14c830a": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\performance-and-xaml-ui.md",
     "wdg-cpub-test\\ndolci1\\debug-test-perf\\performance-and-xaml-ui.md",
     "wdg-cpub-test\\ndolci2\\debug-test-perf\\performance-and-xaml-ui.md"
+  ],
+  "214e972e0239ce7feb783fb3447b22e94361cfef": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\performance-and-xaml-ui.md"
   ],
   "3d982bde6c957170d32e27786632ae0c4c239794": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\planning-and-measuring-performance.md"
@@ -541,21 +544,21 @@
   "68f2e5c1d62a0d70574037395b80f1d0c70fb43a": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\interop-transitions.png"
   ],
-  "c103e66504ab4b9a3756fac36a8f9d98ca9c9cde": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\aep-service-class-ids.md"
-  ],
   "6b693f18c99c31e744497428a8b405204d7c69d3": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\aep-service-class-ids.md",
     "wdg-cpub-test\\ndolci1\\devices-sensors\\aep-service-class-ids.md",
     "wdg-cpub-test\\ndolci2\\devices-sensors\\aep-service-class-ids.md"
   ],
+  "c103e66504ab4b9a3756fac36a8f9d98ca9c9cde": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\aep-service-class-ids.md"
+  ],
+  "0b09a8c2db2f5b95c859ebc9fca1836648495317": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\bluetooth.md"
+  ],
   "75d55b591cd207215302b327b520f2eb0ab5fb93": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\bluetooth.md",
     "wdg-cpub-test\\ndolci1\\devices-sensors\\bluetooth.md",
     "wdg-cpub-test\\ndolci2\\devices-sensors\\bluetooth.md"
-  ],
-  "0b09a8c2db2f5b95c859ebc9fca1836648495317": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\bluetooth.md"
   ],
   "fdc5470c3b2e911f370e6f2b26a0c1608f194cab": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\build-a-device-selector.md",
@@ -580,13 +583,13 @@
     "wdg-cpub-test\\ndolci1\\devices-sensors\\customize-the-print-preview-ui.md",
     "wdg-cpub-test\\ndolci2\\devices-sensors\\customize-the-print-preview-ui.md"
   ],
-  "3472c03607d175eb035af43b5031a58cb710b3ec": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\device-information-properties.md"
-  ],
   "164d63f97a88838b8f43ad501c7bde9f1c60bde6": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\device-information-properties.md",
     "wdg-cpub-test\\ndolci1\\devices-sensors\\device-information-properties.md",
     "wdg-cpub-test\\ndolci2\\devices-sensors\\device-information-properties.md"
+  ],
+  "3472c03607d175eb035af43b5031a58cb710b3ec": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\device-information-properties.md"
   ],
   "e2ec538c17a3387dfca692ada49aeea5342fbd9a": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\enable-device-capabilities.md"
@@ -736,13 +739,13 @@
   "7245ab445177e9240f9294539c5fa108ccf52add": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\images\\orientation-formula.png"
   ],
-  "fd4c27b6fbef674c5c4f63b01083db888cdd1fe6": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\sensors.md"
-  ],
   "df5d20a4f6d3945bdc94f791003d68576ca3b95e": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\sensors.md",
     "wdg-cpub-test\\ndolci1\\devices-sensors\\sensors.md",
     "wdg-cpub-test\\ndolci2\\devices-sensors\\sensors.md"
+  ],
+  "fd4c27b6fbef674c5c4f63b01083db888cdd1fe6": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\sensors.md"
   ],
   "5f0f8f74ecf3a67cf978683559ec0994695068fe": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\images\\batchsample.png"
