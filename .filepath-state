@@ -3584,19 +3584,24 @@
     "wdg-cpub-test\\yokita\\surface\\upgrade-surface-devices-to-windows-10-with-mdt.md"
   ],
   "637e8ac02e73701ec87d595a77168d269ff81a99": [
-    "wdg-cpub-test\\HoverTest\\browsers\\edge\\available-policies.md"
+    "wdg-cpub-test\\HoverTest\\browsers\\edge\\available-policies.md",
+    "wdg-cpub-test\\HoverTest1\\browsers\\edge\\available-policies.md"
   ],
   "956c5872221526bb996aedf4d14d51a5130f3495": [
-    "wdg-cpub-test\\HoverTest\\browsers\\edge\\change-history-for-microsoft-edge.md"
+    "wdg-cpub-test\\HoverTest\\browsers\\edge\\change-history-for-microsoft-edge.md",
+    "wdg-cpub-test\\HoverTest1\\browsers\\edge\\change-history-for-microsoft-edge.md"
   ],
   "4c681bf28c58d1197da1ed7285244424db204d2f": [
-    "wdg-cpub-test\\HoverTest\\browsers\\edge\\emie-to-improve-compatibility.md"
+    "wdg-cpub-test\\HoverTest\\browsers\\edge\\emie-to-improve-compatibility.md",
+    "wdg-cpub-test\\HoverTest1\\browsers\\edge\\emie-to-improve-compatibility.md"
   ],
   "2a3a4c37c4dd9a8bac0843689039e27611cbedbc": [
-    "wdg-cpub-test\\HoverTest\\browsers\\edge\\enterprise-guidance-using-microsoft-edge-and-ie11.md"
+    "wdg-cpub-test\\HoverTest\\browsers\\edge\\enterprise-guidance-using-microsoft-edge-and-ie11.md",
+    "wdg-cpub-test\\HoverTest1\\browsers\\edge\\enterprise-guidance-using-microsoft-edge-and-ie11.md"
   ],
   "88b2049496d095d93c503da3201e6ebb9518a4cb": [
-    "wdg-cpub-test\\HoverTest\\browsers\\edge\\hardware-and-software-requirements.md"
+    "wdg-cpub-test\\HoverTest\\browsers\\edge\\hardware-and-software-requirements.md",
+    "wdg-cpub-test\\HoverTest1\\browsers\\edge\\hardware-and-software-requirements.md"
   ],
   "cb4c1f48a6689d260b479437f66a250a5bf5d7fd": [
     "wdg-cpub-test\\HoverTest\\browsers\\edge\\images\\wedge.gif",
@@ -3604,13 +3609,16 @@
     "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\images\\wedge.gif"
   ],
   "5a6dc29ebd2d5b1595ebb82c8fe96cadfd1351e0": [
-    "wdg-cpub-test\\HoverTest\\browsers\\edge\\Index.md"
+    "wdg-cpub-test\\HoverTest\\browsers\\edge\\Index.md",
+    "wdg-cpub-test\\HoverTest1\\browsers\\edge\\Index.md"
   ],
   "f1e29ce61853cab8f7d763eb7906d336a41fe362": [
-    "wdg-cpub-test\\HoverTest\\browsers\\edge\\security-enhancements-microsoft-edge.md"
+    "wdg-cpub-test\\HoverTest\\browsers\\edge\\security-enhancements-microsoft-edge.md",
+    "wdg-cpub-test\\HoverTest1\\browsers\\edge\\security-enhancements-microsoft-edge.md"
   ],
   "0ee6c8484fc7e97a1f7dd2bdbf0629c99244482d": [
-    "wdg-cpub-test\\HoverTest\\browsers\\edge\\TOC.md"
+    "wdg-cpub-test\\HoverTest\\browsers\\edge\\TOC.md",
+    "wdg-cpub-test\\HoverTest1\\browsers\\edge\\TOC.md"
   ],
   "4fefd40eb379017177e15bbd25f066eb6c3a4712": [
     "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\activex-installation-using-group-policy.md"
@@ -4147,6 +4155,7 @@
     "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\TOC.md"
   ],
   "b50ceeefd0f830eb9acca51d0a94b1dcf4335bb9": [
-    "wdg-cpub-test\\HoverTest\\browsers\\TOC.md"
+    "wdg-cpub-test\\HoverTest\\browsers\\TOC.md",
+    "wdg-cpub-test\\HoverTest1\\browsers\\TOC.md"
   ]
 }

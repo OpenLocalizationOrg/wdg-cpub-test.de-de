@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "afa18e6cdf2bed8d07fbc88bb9ecdd46de51a726",
+  "LastProcessedCommit": "b0752d5cfc14402139f9812a1e9a9d5678180426",
   "LastTranslatedCommit": "d5d88a935ac84baa95fcf07c3f0a1c19ce50313d",
   "LastTansformerVersion": null,
   "Items": {
@@ -966,7 +966,8 @@
       "HandoffReason": 2,
       "DependencyFrom": [
         "wdg-cpub-test\\lizross\\emie_to_improve_compatibility.md",
-        "wdg-cpub-test\\HoverTest\\browsers\\edge\\emie-to-improve-compatibility.md"
+        "wdg-cpub-test\\HoverTest\\browsers\\edge\\emie-to-improve-compatibility.md",
+        "wdg-cpub-test\\HoverTest1\\browsers\\edge\\emie-to-improve-compatibility.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -1014,7 +1015,8 @@
       "HandoffReason": 2,
       "DependencyFrom": [
         "wdg-cpub-test\\lizross\\emie_to_improve_compatibility.md",
-        "wdg-cpub-test\\HoverTest\\browsers\\edge\\emie-to-improve-compatibility.md"
+        "wdg-cpub-test\\HoverTest\\browsers\\edge\\emie-to-improve-compatibility.md",
+        "wdg-cpub-test\\HoverTest1\\browsers\\edge\\emie-to-improve-compatibility.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -1062,7 +1064,8 @@
       "HandoffReason": 2,
       "DependencyFrom": [
         "wdg-cpub-test\\lizross\\emie_to_improve_compatibility.md",
-        "wdg-cpub-test\\HoverTest\\browsers\\edge\\emie-to-improve-compatibility.md"
+        "wdg-cpub-test\\HoverTest\\browsers\\edge\\emie-to-improve-compatibility.md",
+        "wdg-cpub-test\\HoverTest1\\browsers\\edge\\emie-to-improve-compatibility.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -1110,7 +1113,8 @@
       "HandoffReason": 2,
       "DependencyFrom": [
         "wdg-cpub-test\\lizross\\emie_to_improve_compatibility.md",
-        "wdg-cpub-test\\HoverTest\\browsers\\edge\\emie-to-improve-compatibility.md"
+        "wdg-cpub-test\\HoverTest\\browsers\\edge\\emie-to-improve-compatibility.md",
+        "wdg-cpub-test\\HoverTest1\\browsers\\edge\\emie-to-improve-compatibility.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -50086,7 +50090,8 @@
       "DependencyFrom": null,
       "TokenReference": null,
       "FilePathList": [
-        "wdg-cpub-test\\HoverTest\\browsers\\edge\\available-policies.md"
+        "wdg-cpub-test\\HoverTest\\browsers\\edge\\available-policies.md",
+        "wdg-cpub-test\\HoverTest1\\browsers\\edge\\available-policies.md"
       ],
       "HasMetadata": true,
       "TranslationType": 1,
@@ -50122,7 +50127,8 @@
       "DependencyFrom": null,
       "TokenReference": null,
       "FilePathList": [
-        "wdg-cpub-test\\HoverTest\\browsers\\edge\\change-history-for-microsoft-edge.md"
+        "wdg-cpub-test\\HoverTest\\browsers\\edge\\change-history-for-microsoft-edge.md",
+        "wdg-cpub-test\\HoverTest1\\browsers\\edge\\change-history-for-microsoft-edge.md"
       ],
       "HasMetadata": true,
       "TranslationType": 1,
@@ -50158,7 +50164,8 @@
       "DependencyFrom": null,
       "TokenReference": null,
       "FilePathList": [
-        "wdg-cpub-test\\HoverTest\\browsers\\edge\\emie-to-improve-compatibility.md"
+        "wdg-cpub-test\\HoverTest\\browsers\\edge\\emie-to-improve-compatibility.md",
+        "wdg-cpub-test\\HoverTest1\\browsers\\edge\\emie-to-improve-compatibility.md"
       ],
       "HasMetadata": true,
       "TranslationType": 1,
@@ -50194,7 +50201,8 @@
       "DependencyFrom": null,
       "TokenReference": null,
       "FilePathList": [
-        "wdg-cpub-test\\HoverTest\\browsers\\edge\\enterprise-guidance-using-microsoft-edge-and-ie11.md"
+        "wdg-cpub-test\\HoverTest\\browsers\\edge\\enterprise-guidance-using-microsoft-edge-and-ie11.md",
+        "wdg-cpub-test\\HoverTest1\\browsers\\edge\\enterprise-guidance-using-microsoft-edge-and-ie11.md"
       ],
       "HasMetadata": true,
       "TranslationType": 1,
@@ -50230,7 +50238,8 @@
       "DependencyFrom": null,
       "TokenReference": null,
       "FilePathList": [
-        "wdg-cpub-test\\HoverTest\\browsers\\edge\\hardware-and-software-requirements.md"
+        "wdg-cpub-test\\HoverTest\\browsers\\edge\\hardware-and-software-requirements.md",
+        "wdg-cpub-test\\HoverTest1\\browsers\\edge\\hardware-and-software-requirements.md"
       ],
       "HasMetadata": true,
       "TranslationType": 1,
@@ -50335,7 +50344,8 @@
         "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\file-locations-ieak11-wizard.md",
         "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\first-run-and-welcome-page-ieak11-wizard.md",
         "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\important-urls-home-page-and-support-ieak11-wizard.md",
-        "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\internal-install-ieak11-wizard.md"
+        "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-ieak\\internal-install-ieak11-wizard.md",
+        "wdg-cpub-test\\HoverTest1\\browsers\\edge\\emie-to-improve-compatibility.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -50377,7 +50387,8 @@
       "DependencyFrom": null,
       "TokenReference": null,
       "FilePathList": [
-        "wdg-cpub-test\\HoverTest\\browsers\\edge\\Index.md"
+        "wdg-cpub-test\\HoverTest\\browsers\\edge\\Index.md",
+        "wdg-cpub-test\\HoverTest1\\browsers\\edge\\Index.md"
       ],
       "HasMetadata": true,
       "TranslationType": 1,
@@ -50413,7 +50424,8 @@
       "DependencyFrom": null,
       "TokenReference": null,
       "FilePathList": [
-        "wdg-cpub-test\\HoverTest\\browsers\\edge\\security-enhancements-microsoft-edge.md"
+        "wdg-cpub-test\\HoverTest\\browsers\\edge\\security-enhancements-microsoft-edge.md",
+        "wdg-cpub-test\\HoverTest1\\browsers\\edge\\security-enhancements-microsoft-edge.md"
       ],
       "HasMetadata": true,
       "TranslationType": 1,
@@ -50449,7 +50461,8 @@
       "DependencyFrom": null,
       "TokenReference": null,
       "FilePathList": [
-        "wdg-cpub-test\\HoverTest\\browsers\\edge\\TOC.md"
+        "wdg-cpub-test\\HoverTest\\browsers\\edge\\TOC.md",
+        "wdg-cpub-test\\HoverTest1\\browsers\\edge\\TOC.md"
       ],
       "HasMetadata": false,
       "TranslationType": 1,
@@ -56949,7 +56962,8 @@
       "DependencyFrom": null,
       "TokenReference": null,
       "FilePathList": [
-        "wdg-cpub-test\\HoverTest\\browsers\\TOC.md"
+        "wdg-cpub-test\\HoverTest\\browsers\\TOC.md",
+        "wdg-cpub-test\\HoverTest1\\browsers\\TOC.md"
       ],
       "HasMetadata": false,
       "TranslationType": 1,
