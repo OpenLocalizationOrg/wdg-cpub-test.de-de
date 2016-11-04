@@ -44,8 +44,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-11-04T20:22:23.9309204Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\readme.af6253305c53dd1b0aae6b09cb2e883c85e0a5f1.de-de.xlf with commit: c6e38ee1215ac7078efe79925d8b201d15bb981a failed.",
+        "internal_error_retriable": false,
+        "exception_message": "bilingual file:ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\readme.af6253305c53dd1b0aae6b09cb2e883c85e0a5f1.de-de.xlf with commit:c6e38ee1215ac7078efe79925d8b201d15bb981a canot be found",
+        "exception_type": "System.IO.FileNotFoundException",
+        "stack_trace": "   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass33_0.<UploadBilingualFiles>b__0(Tuple`3 fileToBeUpload) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\LocalizationCore.cs:line 493",
+        "extended_information": null
+      }
     },
     "a741d9d780ec642c3d6a5e41a1e624f322762e53": {
       "FileHash": "a741d9d780ec642c3d6a5e41a1e624f322762e53",
@@ -88,8 +96,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-11-04T20:22:23.9309204Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\Directions_To_Update_Existing_Topic_Using_Browser.467f0472275ff2bf87dc67094be537d8ed3ee882.de-de.xlf with commit: c6e38ee1215ac7078efe79925d8b201d15bb981a failed.",
+        "internal_error_retriable": false,
+        "exception_message": "bilingual file:ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\Directions_To_Update_Existing_Topic_Using_Browser.467f0472275ff2bf87dc67094be537d8ed3ee882.de-de.xlf with commit:c6e38ee1215ac7078efe79925d8b201d15bb981a canot be found",
+        "exception_type": "System.IO.FileNotFoundException",
+        "stack_trace": "   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass33_0.<UploadBilingualFiles>b__0(Tuple`3 fileToBeUpload) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\LocalizationCore.cs:line 493",
+        "extended_information": null
+      }
     },
     "36f650b486398eec8dda23bcce6de967a49b8425": {
       "FileHash": "36f650b486398eec8dda23bcce6de967a49b8425",
@@ -362,8 +378,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-11-04T20:22:23.9309204Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\test.32f64f5d1fb6a6d1c28f2fdcde27666d5ae6d241.de-de.xlf with commit: c6e38ee1215ac7078efe79925d8b201d15bb981a failed.",
+        "internal_error_retriable": false,
+        "exception_message": "bilingual file:ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\test.32f64f5d1fb6a6d1c28f2fdcde27666d5ae6d241.de-de.xlf with commit:c6e38ee1215ac7078efe79925d8b201d15bb981a canot be found",
+        "exception_type": "System.IO.FileNotFoundException",
+        "stack_trace": "   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass33_0.<UploadBilingualFiles>b__0(Tuple`3 fileToBeUpload) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\LocalizationCore.cs:line 493",
+        "extended_information": null
+      }
     },
     "cbb6ae5c57d8d761681fb03d14a954f90221f4f3": {
       "FileHash": "cbb6ae5c57d8d761681fb03d14a954f90221f4f3",
@@ -406,8 +430,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-11-04T20:22:23.9309204Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\JasGro-home.ba84114f220b838b887e90f9f4cd08731827ca7e.de-de.xlf with commit: c6e38ee1215ac7078efe79925d8b201d15bb981a failed.",
+        "internal_error_retriable": false,
+        "exception_message": "bilingual file:ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\JasGro-home.ba84114f220b838b887e90f9f4cd08731827ca7e.de-de.xlf with commit:c6e38ee1215ac7078efe79925d8b201d15bb981a canot be found",
+        "exception_type": "System.IO.FileNotFoundException",
+        "stack_trace": "   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass33_0.<UploadBilingualFiles>b__0(Tuple`3 fileToBeUpload) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\LocalizationCore.cs:line 493",
+        "extended_information": null
+      }
     },
     "647ebfda6781b808b9ac43674f5033240c554c50": {
       "FileHash": "647ebfda6781b808b9ac43674f5033240c554c50",
@@ -452,8 +484,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-11-04T20:22:23.9309204Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\test2.07a4be2c106a040b3bdba866b593683135789f3f.de-de.xlf with commit: c6e38ee1215ac7078efe79925d8b201d15bb981a failed.",
+        "internal_error_retriable": false,
+        "exception_message": "bilingual file:ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\test2.07a4be2c106a040b3bdba866b593683135789f3f.de-de.xlf with commit:c6e38ee1215ac7078efe79925d8b201d15bb981a canot be found",
+        "exception_type": "System.IO.FileNotFoundException",
+        "stack_trace": "   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass33_0.<UploadBilingualFiles>b__0(Tuple`3 fileToBeUpload) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\LocalizationCore.cs:line 493",
+        "extended_information": null
+      }
     },
     "c63d097a2994905d3bd60489a77501cb88f8b3e4": {
       "FileHash": "c63d097a2994905d3bd60489a77501cb88f8b3e4",
@@ -496,8 +536,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-11-04T20:22:23.9309204Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\table_creation_tools.5ac47164b84c765dfffb92438e12fbe35019767e.de-de.xlf with commit: c6e38ee1215ac7078efe79925d8b201d15bb981a failed.",
+        "internal_error_retriable": false,
+        "exception_message": "bilingual file:ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\table_creation_tools.5ac47164b84c765dfffb92438e12fbe35019767e.de-de.xlf with commit:c6e38ee1215ac7078efe79925d8b201d15bb981a canot be found",
+        "exception_type": "System.IO.FileNotFoundException",
+        "stack_trace": "   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass33_0.<UploadBilingualFiles>b__0(Tuple`3 fileToBeUpload) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\LocalizationCore.cs:line 493",
+        "extended_information": null
+      }
     },
     "debc9d4a4e6dc2685ec69918dab690b9f1fc010b": {
       "FileHash": "debc9d4a4e6dc2685ec69918dab690b9f1fc010b",
@@ -540,8 +588,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-11-04T20:22:23.9309204Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\test1.7f0f552458431654d6ec10125262b97426875375.de-de.xlf with commit: c6e38ee1215ac7078efe79925d8b201d15bb981a failed.",
+        "internal_error_retriable": false,
+        "exception_message": "bilingual file:ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\test1.7f0f552458431654d6ec10125262b97426875375.de-de.xlf with commit:c6e38ee1215ac7078efe79925d8b201d15bb981a canot be found",
+        "exception_type": "System.IO.FileNotFoundException",
+        "stack_trace": "   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass33_0.<UploadBilingualFiles>b__0(Tuple`3 fileToBeUpload) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\LocalizationCore.cs:line 493",
+        "extended_information": null
+      }
     },
     "51b695b5f279ee59c19fa59c6b5b4b9ed521ef8e": {
       "FileHash": "51b695b5f279ee59c19fa59c6b5b4b9ed521ef8e",
@@ -630,8 +686,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-11-04T20:22:23.9309204Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\tools-for-beginners.c71176847e2ebf0c8813ff5acbcc8f660f8adee2.de-de.xlf with commit: c6e38ee1215ac7078efe79925d8b201d15bb981a failed.",
+        "internal_error_retriable": false,
+        "exception_message": "bilingual file:ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\tools-for-beginners.c71176847e2ebf0c8813ff5acbcc8f660f8adee2.de-de.xlf with commit:c6e38ee1215ac7078efe79925d8b201d15bb981a canot be found",
+        "exception_type": "System.IO.FileNotFoundException",
+        "stack_trace": "   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass33_0.<UploadBilingualFiles>b__0(Tuple`3 fileToBeUpload) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\LocalizationCore.cs:line 493",
+        "extended_information": null
+      }
     },
     "349ce1064b5a40ff1b65f37fbf8d7fc136d78556": {
       "FileHash": "349ce1064b5a40ff1b65f37fbf8d7fc136d78556",
@@ -678,8 +742,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-11-04T20:22:23.9309204Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.de-de.xlf with commit: c6e38ee1215ac7078efe79925d8b201d15bb981a failed.",
+        "internal_error_retriable": false,
+        "exception_message": "bilingual file:ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.de-de.xlf with commit:c6e38ee1215ac7078efe79925d8b201d15bb981a canot be found",
+        "exception_type": "System.IO.FileNotFoundException",
+        "stack_trace": "   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass33_0.<UploadBilingualFiles>b__0(Tuple`3 fileToBeUpload) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\LocalizationCore.cs:line 493",
+        "extended_information": null
+      }
     },
     "90d7dca36f340986a0c7b98525226d3fd282aa6a": {
       "FileHash": "90d7dca36f340986a0c7b98525226d3fd282aa6a",
@@ -824,8 +896,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-11-04T20:22:23.9309204Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\available_policies.ff49108befeca60e0cb8e2a505ce332559123ced.de-de.xlf with commit: c6e38ee1215ac7078efe79925d8b201d15bb981a failed.",
+        "internal_error_retriable": false,
+        "exception_message": "bilingual file:ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\available_policies.ff49108befeca60e0cb8e2a505ce332559123ced.de-de.xlf with commit:c6e38ee1215ac7078efe79925d8b201d15bb981a canot be found",
+        "exception_type": "System.IO.FileNotFoundException",
+        "stack_trace": "   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass33_0.<UploadBilingualFiles>b__0(Tuple`3 fileToBeUpload) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\LocalizationCore.cs:line 493",
+        "extended_information": null
+      }
     },
     "2df16f5bb8361cadf656d1e62eddf9aba2ceb458": {
       "FileHash": "2df16f5bb8361cadf656d1e62eddf9aba2ceb458",
@@ -868,8 +948,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-11-04T20:22:23.9309204Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\emie_to_improve_compatibility.01466982c77753bd70eee0c62860ff289eab85fd.de-de.xlf with commit: c6e38ee1215ac7078efe79925d8b201d15bb981a failed.",
+        "internal_error_retriable": false,
+        "exception_message": "bilingual file:ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\emie_to_improve_compatibility.01466982c77753bd70eee0c62860ff289eab85fd.de-de.xlf with commit:c6e38ee1215ac7078efe79925d8b201d15bb981a canot be found",
+        "exception_type": "System.IO.FileNotFoundException",
+        "stack_trace": "   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass33_0.<UploadBilingualFiles>b__0(Tuple`3 fileToBeUpload) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\LocalizationCore.cs:line 493",
+        "extended_information": null
+      }
     },
     "c60b61e09592ccc99e5af898dcef91d310e8d794": {
       "FileHash": "c60b61e09592ccc99e5af898dcef91d310e8d794",
@@ -1104,8 +1192,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-11-04T20:22:23.9309204Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\hardware_and_software_requirements.b95d588b7b44b2bbc115562bda4a63386f1b62fb.de-de.xlf with commit: c6e38ee1215ac7078efe79925d8b201d15bb981a failed.",
+        "internal_error_retriable": false,
+        "exception_message": "bilingual file:ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\hardware_and_software_requirements.b95d588b7b44b2bbc115562bda4a63386f1b62fb.de-de.xlf with commit:c6e38ee1215ac7078efe79925d8b201d15bb981a canot be found",
+        "exception_type": "System.IO.FileNotFoundException",
+        "stack_trace": "   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass33_0.<UploadBilingualFiles>b__0(Tuple`3 fileToBeUpload) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\LocalizationCore.cs:line 493",
+        "extended_information": null
+      }
     },
     "83798705e69956b02a318460bed8affa5c0e7c79": {
       "FileHash": "83798705e69956b02a318460bed8affa5c0e7c79",
@@ -1148,8 +1244,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-11-04T20:22:23.9309204Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\msedge_deployment_guide_for_it_pros.b5fb018fe51efcf49ab261fda90e80e2c708e2c5.de-de.xlf with commit: f1c7d93d31eb94f34fe98ba6b7cfccd40f803cbc failed.",
+        "internal_error_retriable": false,
+        "exception_message": "bilingual file:ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\msedge_deployment_guide_for_it_pros.b5fb018fe51efcf49ab261fda90e80e2c708e2c5.de-de.xlf with commit:f1c7d93d31eb94f34fe98ba6b7cfccd40f803cbc canot be found",
+        "exception_type": "System.IO.FileNotFoundException",
+        "stack_trace": "   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass33_0.<UploadBilingualFiles>b__0(Tuple`3 fileToBeUpload) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\LocalizationCore.cs:line 493",
+        "extended_information": null
+      }
     },
     "7bba6bedea2fc998a7102e9f9a822c89f580921c": {
       "FileHash": "7bba6bedea2fc998a7102e9f9a822c89f580921c",
@@ -1192,8 +1296,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-11-04T20:22:23.9309204Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\macapara.1f4a6c8a550f2dadc79422a1faf545785d5e7174.de-de.xlf with commit: c6e38ee1215ac7078efe79925d8b201d15bb981a failed.",
+        "internal_error_retriable": false,
+        "exception_message": "bilingual file:ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\macapara.1f4a6c8a550f2dadc79422a1faf545785d5e7174.de-de.xlf with commit:c6e38ee1215ac7078efe79925d8b201d15bb981a canot be found",
+        "exception_type": "System.IO.FileNotFoundException",
+        "stack_trace": "   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass33_0.<UploadBilingualFiles>b__0(Tuple`3 fileToBeUpload) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\LocalizationCore.cs:line 493",
+        "extended_information": null
+      }
     },
     "c24bc1363e530c71c8a263f6e9c8743a949642d8": {
       "FileHash": "c24bc1363e530c71c8a263f6e9c8743a949642d8",
@@ -1236,8 +1348,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-11-04T20:22:23.9309204Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\markdown-tips.0223efeae412507af7c4547e7e0aa549e87ea60a.de-de.xlf with commit: c6e38ee1215ac7078efe79925d8b201d15bb981a failed.",
+        "internal_error_retriable": false,
+        "exception_message": "bilingual file:ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\markdown-tips.0223efeae412507af7c4547e7e0aa549e87ea60a.de-de.xlf with commit:c6e38ee1215ac7078efe79925d8b201d15bb981a canot be found",
+        "exception_type": "System.IO.FileNotFoundException",
+        "stack_trace": "   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass33_0.<UploadBilingualFiles>b__0(Tuple`3 fileToBeUpload) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\LocalizationCore.cs:line 493",
+        "extended_information": null
+      }
     },
     "347bd1181dc590d634f5032591cc574f3786c982": {
       "FileHash": "347bd1181dc590d634f5032591cc574f3786c982",
@@ -1280,8 +1400,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-11-04T20:22:23.9309204Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\tedhudek-home.cd82e1b999ca1e8e89601b96d7b6ed332d44c137.de-de.xlf with commit: d5eacfa7936a30ba6aa88776c17cdfdbb38418bb failed.",
+        "internal_error_retriable": false,
+        "exception_message": "bilingual file:ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\tedhudek-home.cd82e1b999ca1e8e89601b96d7b6ed332d44c137.de-de.xlf with commit:d5eacfa7936a30ba6aa88776c17cdfdbb38418bb canot be found",
+        "exception_type": "System.IO.FileNotFoundException",
+        "stack_trace": "   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass33_0.<UploadBilingualFiles>b__0(Tuple`3 fileToBeUpload) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\LocalizationCore.cs:line 493",
+        "extended_information": null
+      }
     },
     "65a5708190ddfe0bc61006985f5c3f17eafc8656": {
       "FileHash": "65a5708190ddfe0bc61006985f5c3f17eafc8656",
@@ -1324,8 +1452,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-11-04T20:22:23.9309204Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\wdcml-to-open-publish.a4dd794f0bf7ce39cc12ecded434499fcb86d4f4.de-de.xlf with commit: c6e38ee1215ac7078efe79925d8b201d15bb981a failed.",
+        "internal_error_retriable": false,
+        "exception_message": "bilingual file:ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\wdcml-to-open-publish.a4dd794f0bf7ce39cc12ecded434499fcb86d4f4.de-de.xlf with commit:c6e38ee1215ac7078efe79925d8b201d15bb981a canot be found",
+        "exception_type": "System.IO.FileNotFoundException",
+        "stack_trace": "   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass33_0.<UploadBilingualFiles>b__0(Tuple`3 fileToBeUpload) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\LocalizationCore.cs:line 493",
+        "extended_information": null
+      }
     },
     "6a21b92dfe46a00d5243914c41459fe2cf4569b1": {
       "FileHash": "6a21b92dfe46a00d5243914c41459fe2cf4569b1",
@@ -1368,8 +1504,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-11-04T20:22:23.9309204Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\workflow.c81c0151d66bf0be9587301c3f7e2255d13a9e00.de-de.xlf with commit: c6e38ee1215ac7078efe79925d8b201d15bb981a failed.",
+        "internal_error_retriable": false,
+        "exception_message": "bilingual file:ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\workflow.c81c0151d66bf0be9587301c3f7e2255d13a9e00.de-de.xlf with commit:c6e38ee1215ac7078efe79925d8b201d15bb981a canot be found",
+        "exception_type": "System.IO.FileNotFoundException",
+        "stack_trace": "   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass33_0.<UploadBilingualFiles>b__0(Tuple`3 fileToBeUpload) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\LocalizationCore.cs:line 493",
+        "extended_information": null
+      }
     },
     "1a4983ce48e441c39272f65d1655d8c7ca2b4970": {
       "FileHash": "1a4983ce48e441c39272f65d1655d8c7ca2b4970",
@@ -1412,8 +1556,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-11-04T20:22:23.9309204Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\TOC.a9ee67cb4f35ab2cb1a9b412181346e45899f313.de-de.xlf with commit: c6e38ee1215ac7078efe79925d8b201d15bb981a failed.",
+        "internal_error_retriable": false,
+        "exception_message": "bilingual file:ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\TOC.a9ee67cb4f35ab2cb1a9b412181346e45899f313.de-de.xlf with commit:c6e38ee1215ac7078efe79925d8b201d15bb981a canot be found",
+        "exception_type": "System.IO.FileNotFoundException",
+        "stack_trace": "   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass33_0.<UploadBilingualFiles>b__0(Tuple`3 fileToBeUpload) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\LocalizationCore.cs:line 493",
+        "extended_information": null
+      }
     },
     "428a60b8e14034519c1756c17019c594f19e5d20": {
       "FileHash": "428a60b8e14034519c1756c17019c594f19e5d20",
@@ -1528,8 +1680,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-11-04T20:22:23.9309204Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\Welcome.ecbb965b6e13825c7524206fa12c4cc64183e55b.de-de.xlf with commit: 11af58f2930b194c25f1f1e61e9d11fec9dcdf74 failed.",
+        "internal_error_retriable": false,
+        "exception_message": "bilingual file:ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.de-de\\master\\Welcome.ecbb965b6e13825c7524206fa12c4cc64183e55b.de-de.xlf with commit:11af58f2930b194c25f1f1e61e9d11fec9dcdf74 canot be found",
+        "exception_type": "System.IO.FileNotFoundException",
+        "stack_trace": "   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass33_0.<UploadBilingualFiles>b__0(Tuple`3 fileToBeUpload) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\LocalizationCore.cs:line 493",
+        "extended_information": null
+      }
     },
     "34d15078d35ceece173c493a6e487efa75d37405": {
       "FileHash": "34d15078d35ceece173c493a6e487efa75d37405",
