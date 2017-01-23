@@ -3767,6 +3767,9 @@
   "846849ed3588b287f55260c4f68800b2b20637c1": [
     "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\images\\emie-listmgr.png"
   ],
+  "1c82250403e3f44be311d19b5744b916ec52f931": [
+    "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\images\\emie-sitelistmgr.png"
+  ],
   "bcfff97a34018483c8bc8949ba5cb011e8a3b729": [
     "wdg-cpub-test\\HoverTest\\browsers\\internet-explorer\\ie11-deploy-guide\\images\\ie11-inventory-addclassconnectscreen.png"
   ],
